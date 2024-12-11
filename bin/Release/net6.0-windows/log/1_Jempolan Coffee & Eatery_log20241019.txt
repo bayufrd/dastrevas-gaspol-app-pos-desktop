@@ -1,0 +1,175 @@
+2024-10-19 10:20:52.719 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 10:21:33.179 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 10:24:10.494 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 10:24:52.466 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 10:36:43.808 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 10:40:41.705 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 10:40:45.935 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 10:42:38.309 +07:00 [ERR] An error occurred: bluetoothString is not a valid Bluetooth address.
+System.FormatException: bluetoothString is not a valid Bluetooth address.
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 277
+2024-10-19 10:44:21.171 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 10:44:56.687 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 10:50:34.991 +07:00 [ERR] An error occurred: bluetoothString is not a valid Bluetooth address.
+System.FormatException: bluetoothString is not a valid Bluetooth address.
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 277
+2024-10-19 10:51:21.603 +07:00 [ERR] An error occurred: bluetoothString is not a valid Bluetooth address.
+System.FormatException: bluetoothString is not a valid Bluetooth address.
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 277
+2024-10-19 10:51:54.725 +07:00 [ERR] An error occurred: bluetoothString is not a valid Bluetooth address.
+System.FormatException: bluetoothString is not a valid Bluetooth address.
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 277
+2024-10-19 13:43:00.791 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 14:26:07.796 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 14:27:07.225 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 14:27:22.258 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 14:27:50.396 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 192.168.50.31:9100
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.Sockets.Socket.Connect(IPAddress address, Int32 port)
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+--- End of stack trace from previous location ---
+   at System.Net.Sockets.TcpClient.Connect(String hostname, Int32 port)
+   at System.Net.Sockets.TcpClient..ctor(String hostname, Int32 port)
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3616
+2024-10-19 14:30:47.519 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 14:32:47.628 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 14:57:28.678 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 15:08:47.508 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 15:09:02.751 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3676
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3652
+2024-10-19 15:09:11.675 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3676
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3652
+2024-10-19 15:40:13.078 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 15:41:19.103 +07:00 [ERR] An error occurred: Count cannot be less than zero. (Parameter 'count')
+System.ArgumentOutOfRangeException: Count cannot be less than zero. (Parameter 'count')
+   at System.String.Ctor(Char c, Int32 count)
+   at KASIR.Printer.PrinterModel.CenterText(String text) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1415
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3687
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3652
+2024-10-19 15:42:16.798 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 15:42:47.887 +07:00 [ERR] An error occurred: Count cannot be less than zero. (Parameter 'count')
+System.ArgumentOutOfRangeException: Count cannot be less than zero. (Parameter 'count')
+   at System.String.Ctor(Char c, Int32 count)
+   at KASIR.Printer.PrinterModel.CenterText(String text) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1415
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3687
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3652
+2024-10-19 15:42:58.552 +07:00 [ERR] An error occurred: Count cannot be less than zero. (Parameter 'count')
+System.ArgumentOutOfRangeException: Count cannot be less than zero. (Parameter 'count')
+   at System.String.Ctor(Char c, Int32 count)
+   at KASIR.Printer.PrinterModel.CenterText(String text) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1415
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3687
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3652
+2024-10-19 15:43:51.569 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 15:44:26.368 +07:00 [ERR] An error occurred: Count cannot be less than zero. (Parameter 'count')
+System.ArgumentOutOfRangeException: Count cannot be less than zero. (Parameter 'count')
+   at System.String.Ctor(Char c, Int32 count)
+   at KASIR.Printer.PrinterModel.CenterText(String text) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1415
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3687
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3652
+2024-10-19 15:46:22.304 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 16:07:17.717 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 16:07:48.747 +07:00 [ERR] An error occurred: Count cannot be less than zero. (Parameter 'count')
+System.ArgumentOutOfRangeException: Count cannot be less than zero. (Parameter 'count')
+   at System.String.Ctor(Char c, Int32 count)
+   at KASIR.Printer.PrinterModel.CenterText(String text) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1415
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3689
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3654
+2024-10-19 16:11:13.997 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 16:11:50.351 +07:00 [ERR] An error occurred: Count cannot be less than zero. (Parameter 'count')
+System.ArgumentOutOfRangeException: Count cannot be less than zero. (Parameter 'count')
+   at System.String.Ctor(Char c, Int32 count)
+   at KASIR.Printer.PrinterModel.CenterText(String text) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1415
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3689
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3654
+2024-10-19 16:15:30.175 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 16:22:15.805 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 16:22:33.394 +07:00 [ERR] An error occurred: Count cannot be less than zero. (Parameter 'count')
+System.ArgumentOutOfRangeException: Count cannot be less than zero. (Parameter 'count')
+   at System.String.Ctor(Char c, Int32 count)
+   at KASIR.Printer.PrinterModel.CenterText(String text) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1415
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3678
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3654
+2024-10-19 16:22:51.406 +07:00 [ERR] An error occurred: Count cannot be less than zero. (Parameter 'count')
+System.ArgumentOutOfRangeException: Count cannot be less than zero. (Parameter 'count')
+   at System.String.Ctor(Char c, Int32 count)
+   at KASIR.Printer.PrinterModel.CenterText(String text) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1415
+   at KASIR.Printer.PrinterModel.PrintDataBillReceipt(Stream stream, DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3678
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3654
+2024-10-19 21:09:10.639 +07:00 [WRN] Open Updater App Dastrevass

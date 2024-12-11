@@ -1,0 +1,450 @@
+2024-02-04 21:58:55.019 +07:00 [INF] btnMaximize_Click
+2024-02-04 21:58:57.460 +07:00 [INF] btnExit_Click
+2024-02-04 22:02:47.013 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:02:57.259 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'collection')
+System.ArgumentNullException: Value cannot be null. (Parameter 'collection')
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.komponen.masterPos.PerformSearch() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 326
+2024-02-04 22:02:59.343 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:03:01.989 +07:00 [INF] btnExit_Click
+2024-02-04 22:04:44.601 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:04:55.539 +07:00 [INF] button6_Click
+2024-02-04 22:05:01.322 +07:00 [INF] button6_Click
+2024-02-04 22:05:02.678 +07:00 [INF] button6_Click
+2024-02-04 22:05:05.242 +07:00 [INF] button6_Click
+2024-02-04 22:05:14.806 +07:00 [INF] button1_Click
+2024-02-04 22:05:16.802 +07:00 [INF] button6_Click
+2024-02-04 22:05:27.350 +07:00 [INF] button6_Click
+2024-02-04 22:05:27.759 +07:00 [INF] button6_Click
+2024-02-04 22:05:27.975 +07:00 [INF] button6_Click
+2024-02-04 22:05:28.204 +07:00 [INF] button6_Click
+2024-02-04 22:05:28.414 +07:00 [INF] button6_Click
+2024-02-04 22:05:28.630 +07:00 [INF] button6_Click
+2024-02-04 22:05:28.841 +07:00 [INF] button6_Click
+2024-02-04 22:05:29.043 +07:00 [INF] button6_Click
+2024-02-04 22:05:29.255 +07:00 [INF] button6_Click
+2024-02-04 22:05:29.493 +07:00 [INF] button6_Click
+2024-02-04 22:07:13.725 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:07:37.937 +07:00 [INF] button6_Click
+2024-02-04 22:07:42.890 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'collection')
+System.ArgumentNullException: Value cannot be null. (Parameter 'collection')
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.komponen.masterPos.PerformSearch() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 326
+2024-02-04 22:07:45.095 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:07:47.539 +07:00 [INF] btnExit_Click
+2024-02-04 22:08:03.202 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:11:45.930 +07:00 [INF] button6_Click
+2024-02-04 22:12:33.893 +07:00 [INF] button6_Click
+2024-02-04 22:15:02.858 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:15:21.817 +07:00 [INF] button6_Click
+2024-02-04 22:15:32.713 +07:00 [INF] button6_Click
+2024-02-04 22:15:47.871 +07:00 [INF] btnExit_Click
+2024-02-04 22:19:37.903 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:20:21.188 +07:00 [INF] btnMinimize_Click
+2024-02-04 22:21:35.211 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:22:58.946 +07:00 [INF] button6_Click
+2024-02-04 22:33:59.621 +07:00 [INF] button6_Click
+2024-02-04 22:34:03.096 +07:00 [INF] button6_Click
+2024-02-04 22:38:41.435 +07:00 [INF] button6_Click
+2024-02-04 22:39:53.340 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:40:04.671 +07:00 [INF] button6_Click
+2024-02-04 22:40:09.111 +07:00 [INF] button6_Click
+2024-02-04 22:40:16.829 +07:00 [INF] button6_Click
+2024-02-04 22:40:47.847 +07:00 [INF] button1_Click
+2024-02-04 22:40:51.564 +07:00 [INF] btnReportShift_Click
+2024-02-04 22:41:37.760 +07:00 [INF] btnReportShift_Click
+2024-02-04 22:42:23.839 +07:00 [INF] btnExit_Click
+2024-02-04 22:43:32.353 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:43:40.540 +07:00 [INF] button1_Click
+2024-02-04 22:43:46.297 +07:00 [INF] btnReportShift_Click
+2024-02-04 22:44:24.418 +07:00 [INF] btnExit_Click
+2024-02-04 22:47:50.715 +07:00 [INF] btnMaximize_Click
+2024-02-04 22:47:55.469 +07:00 [INF] button1_Click
+2024-02-04 22:48:00.410 +07:00 [INF] btnReportShift_Click
+2024-02-04 22:49:04.487 +07:00 [INF] button6_Click
+2024-02-04 22:49:11.546 +07:00 [INF] btnMinimize_Click
+2024-02-04 22:52:19.439 +07:00 [INF] button6_Click
+2024-02-04 22:53:04.745 +07:00 [INF] btnExit_Click
+2024-02-04 23:02:42.944 +07:00 [INF] btnMaximize_Click
+2024-02-04 23:03:06.211 +07:00 [INF] button6_Click
+2024-02-04 23:03:38.559 +07:00 [INF] button6_Click
+2024-02-04 23:04:00.384 +07:00 [INF] btnExit_Click
+2024-02-04 23:04:46.916 +07:00 [INF] btnMaximize_Click
+2024-02-04 23:05:47.161 +07:00 [INF] button6_Click
+2024-02-04 23:06:54.219 +07:00 [INF] btnMaximize_Click
+2024-02-04 23:07:06.387 +07:00 [INF] button6_Click
+2024-02-04 23:16:35.553 +07:00 [INF] button6_Click
+2024-02-04 23:16:54.614 +07:00 [INF] btnExit_Click
+2024-02-04 23:41:46.030 +07:00 [INF] btnMaximize_Click
+2024-02-04 23:43:36.378 +07:00 [INF] button6_Click
+2024-02-04 23:44:05.267 +07:00 [INF] button6_Click
+2024-02-04 23:44:45.817 +07:00 [INF] button6_Click
+2024-02-04 23:47:05.340 +07:00 [INF] button6_Click
+2024-02-04 23:47:47.275 +07:00 [INF] btnExit_Click
+2024-02-04 23:50:21.010 +07:00 [INF] btnMaximize_Click
+2024-02-04 23:50:34.169 +07:00 [INF] button6_Click
+2024-02-04 23:53:21.433 +07:00 [INF] btnMaximize_Click
+2024-02-04 23:54:15.407 +07:00 [INF] btnMaximize_Click
+2024-02-04 23:54:17.532 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:19.069 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:20.249 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:21.075 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:22.186 +07:00 [INF] button6_Click
+2024-02-04 23:54:22.422 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:23.580 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:23.711 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:24.193 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:24.703 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:25.314 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:25.949 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:26.756 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:26.848 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:27.808 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:28.142 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:28.863 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:30.137 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:30.238 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:30.799 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:31.504 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:31.912 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:33.129 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:33.439 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:34.196 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:34.479 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:35.526 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:35.664 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:36.167 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:36.648 +07:00 [INF] button6_Click
+2024-02-04 23:54:36.892 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:37.424 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:38.052 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:38.565 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:38.852 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:38.915 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:39.402 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:39.893 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:40.376 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:40.442 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:41.075 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:41.419 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:41.971 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:42.135 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:42.265 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:42.462 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:42.657 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:42.937 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:43.784 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:43.877 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:44.724 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:44.818 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:45.097 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:45.748 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:45.829 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:45.927 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:46.583 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:46.904 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:47.158 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:47.459 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:47.524 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:47.968 +07:00 [ERR] An error occurred: Parameter is not valid.
+System.ArgumentException: Parameter is not valid.
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   at System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   at KASIR.komponen.masterPos.ResizeImage(Image image, Int32 size) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 925
+   at KASIR.komponen.masterPos.LoadImageToPictureBox(PictureBox pictureBox, Menu menu) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 870
+2024-02-04 23:54:47.984 +07:00 [INF] btnExit_Click

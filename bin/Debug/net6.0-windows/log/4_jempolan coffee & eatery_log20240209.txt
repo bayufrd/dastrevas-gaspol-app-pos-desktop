@@ -1,0 +1,91 @@
+2024-02-09 00:23:20.320 +07:00 [INF] btnMaximize_Click
+2024-02-09 00:23:29.599 +07:00 [INF] btnTambah_Click
+2024-02-09 00:23:29.744 +07:00 [INF] btnTambah_Click
+2024-02-09 00:23:29.894 +07:00 [INF] btnTambah_Click
+2024-02-09 00:23:30.104 +07:00 [INF] btnTambah_Click
+2024-02-09 00:23:31.092 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-09 00:23:33.419 +07:00 [INF] button1_Click
+2024-02-09 00:23:36.570 +07:00 [INF] btnSimpan_Click
+2024-02-09 00:23:42.058 +07:00 [INF] button1_Click
+2024-02-09 00:23:51.075 +07:00 [INF] btnKonfirmasi_Click
+2024-02-09 00:24:04.200 +07:00 [INF] button2_Click
+2024-02-09 02:12:26.884 +07:00 [INF] button1_Click
+2024-02-09 02:12:28.929 +07:00 [INF] btnExit_Click
+2024-02-09 02:17:39.231 +07:00 [INF] btnMaximize_Click
+2024-02-09 02:17:41.931 +07:00 [INF] button1_Click
+2024-02-09 02:17:43.540 +07:00 [INF] btnReportShift_Click
+2024-02-09 02:18:46.421 +07:00 [INF] btnReportShift_Click
+2024-02-09 02:19:10.328 +07:00 [INF] btnExit_Click
+2024-02-09 02:29:44.742 +07:00 [INF] btnMaximize_Click
+2024-02-09 02:29:51.398 +07:00 [INF] button1_Click
+2024-02-09 02:30:07.835 +07:00 [INF] btnExit_Click
+2024-02-09 02:30:30.350 +07:00 [INF] btnMaximize_Click
+2024-02-09 02:30:39.998 +07:00 [INF] button1_Click
+2024-02-09 02:31:07.598 +07:00 [INF] button6_Click
+2024-02-09 02:31:30.581 +07:00 [INF] btnExit_Click
+2024-02-09 03:16:57.144 +07:00 [INF] btnMaximize_Click
+2024-02-09 03:17:03.054 +07:00 [INF] btnTambah_Click
+2024-02-09 03:17:03.089 +07:00 [INF] btnTambah_Click
+2024-02-09 03:17:05.306 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-09 03:17:10.671 +07:00 [INF] btnTambah_Click
+2024-02-09 03:17:12.891 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-09 03:17:18.651 +07:00 [INF] button1_Click
+2024-02-09 03:17:20.471 +07:00 [INF] btnSimpan_Click
+2024-02-09 03:17:22.413 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 528
+2024-02-09 03:17:22.645 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 702
+2024-02-09 03:17:26.030 +07:00 [INF] button1_Click
+2024-02-09 03:17:38.247 +07:00 [INF] btnKonfirmasi_Click
+2024-02-09 03:17:59.190 +07:00 [INF] button2_Click
+2024-02-09 03:18:00.531 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.refund.PrintPurchaseReceipt(DataRefundStruk datas, List`1 refundDetailStruks) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\refund.cs:line 457
+2024-02-09 03:19:18.974 +07:00 [INF] button6_Click
+2024-02-09 03:19:23.140 +07:00 [INF] button6_Click
+2024-02-09 03:19:32.761 +07:00 [INF] btnExit_Click
+2024-02-09 03:22:10.166 +07:00 [INF] btnMaximize_Click
+2024-02-09 03:22:22.613 +07:00 [INF] btnMaximize_Click
+2024-02-09 03:22:32.071 +07:00 [INF] btnTambah_Click
+2024-02-09 03:22:32.216 +07:00 [INF] btnTambah_Click
+2024-02-09 03:22:32.418 +07:00 [INF] btnTambah_Click
+2024-02-09 03:22:33.406 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-09 03:22:41.805 +07:00 [INF] btnGet_Click
+2024-02-09 03:22:47.550 +07:00 [INF] btnGet_Click
+2024-02-09 03:22:58.771 +07:00 [INF] btnTambah_Click_1
+2024-02-09 03:22:59.477 +07:00 [INF] btnKurang_Click_1
+2024-02-09 03:23:49.617 +07:00 [INF] btnSimpan_Click
+2024-02-09 03:23:54.014 +07:00 [INF] btnGet_Click
+2024-02-09 03:24:07.728 +07:00 [INF] btnSimpan_Click
+2024-02-09 03:24:20.753 +07:00 [INF] btnSimpan_Click
+2024-02-09 03:24:29.220 +07:00 [INF] btnGet_Click
+2024-02-09 03:24:53.965 +07:00 [INF] btnGet_Click
+2024-02-09 03:25:02.653 +07:00 [INF] btnGet_Click
+2024-02-09 03:25:08.686 +07:00 [INF] btnGet_Click
+2024-02-09 03:25:17.788 +07:00 [INF] btnGet_Click
+2024-02-09 03:25:26.825 +07:00 [INF] btnGet_Click
+2024-02-09 03:25:38.397 +07:00 [INF] btnGet_Click
+2024-02-09 03:25:48.339 +07:00 [INF] btnExit_Click
+2024-02-09 03:27:23.516 +07:00 [INF] btnMaximize_Click
+2024-02-09 03:27:29.382 +07:00 [INF] btnGet_Click
+2024-02-09 03:27:34.424 +07:00 [INF] btnGet_Click
+2024-02-09 03:27:35.356 +07:00 [INF] btnGet_Click
+2024-02-09 03:27:45.278 +07:00 [INF] btnSimpan_Click
+2024-02-09 03:27:57.277 +07:00 [INF] btnGet_Click
+2024-02-09 03:27:58.288 +07:00 [INF] btnGet_Click
+2024-02-09 03:28:02.857 +07:00 [INF] btnGet_Click
+2024-02-09 03:28:06.898 +07:00 [INF] btnGet_Click
+2024-02-09 03:28:11.713 +07:00 [INF] btnGet_Click
+2024-02-09 03:28:15.107 +07:00 [INF] btnGet_Click
+2024-02-09 03:28:17.815 +07:00 [INF] btnExit_Click

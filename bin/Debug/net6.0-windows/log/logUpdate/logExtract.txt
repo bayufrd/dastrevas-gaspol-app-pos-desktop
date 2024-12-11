@@ -1,0 +1,4 @@
+9/28/2024 8:43:37 PM - Start extracting 'C:\Users\Bayu Farid\Downloads\update.rar' to 'C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller'
+9/28/2024 8:43:37 PM - Extraction successful. Files are in 'C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller'.
+10/1/2024 1:18:59 AM - Start extracting 'C:\Users\Bayu Farid\Downloads\update.rar' to 'C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller'
+10/1/2024 1:18:59 AM - Extraction successful. Files are in 'C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller'.

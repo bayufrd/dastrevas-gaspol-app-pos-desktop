@@ -1,0 +1,22 @@
+2024-06-05 20:12:07.680 +07:00 [INF] checkUpdate
+2024-06-05 20:12:07.765 +07:00 [WRN] Open Updater
+2024-06-05 20:12:09.776 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at update.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 170
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 118
+2024-06-05 20:12:38.351 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-05 20:12:38.413 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-05 20:12:38.424 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-05 20:12:38.424 +07:00 [ERR] An error occurred: Path cannot be the empty string or all whitespace. (Parameter 'path')
+System.ArgumentException: Path cannot be the empty string or all whitespace. (Parameter 'path')
+   at System.IO.Directory.CreateDirectory(String path)
+   at update.Form1.BackgroundWorkerRunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 330
+2024-06-05 20:12:38.459 +07:00 [INF] openAppKasir
+2024-06-05 20:12:38.470 +07:00 [ERR] An error occurred: An error occurred trying to start process '\KASIR.exe' with working directory 'C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows'. The system cannot find the file specified.
+System.ComponentModel.Win32Exception (2): An error occurred trying to start process '\KASIR.exe' with working directory 'C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows'. The system cannot find the file specified.
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at update.Form1.openAppKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 396

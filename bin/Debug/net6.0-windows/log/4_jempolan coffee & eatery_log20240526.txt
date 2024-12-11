@@ -1,0 +1,14 @@
+2024-05-26 17:44:11.703 +07:00 [INF] btnMaximize_Click
+2024-05-26 17:44:19.189 +07:00 [INF] button1_Click
+2024-05-26 17:44:20.711 +07:00 [INF] button6_Click
+2024-05-26 17:44:48.637 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 535
+2024-05-26 17:44:51.269 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestBar_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 655
+2024-05-26 17:44:58.854 +07:00 [INF] btnExit_Click

@@ -1,0 +1,18 @@
+2024-02-02 23:05:26.898 +07:00 [INF] checkUpdate
+2024-02-02 23:05:26.955 +07:00 [WRN] Open Updater
+2024-02-02 23:05:37.483 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-02-02 23:05:37.495 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-02-02 23:05:37.675 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-02-02 23:05:37.676 +07:00 [ERR] An error occurred: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Bayu Farid\Downloads\update.rar'
+System.IO.IOException: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Bayu Farid\Downloads\update.rar'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileInfo.OpenRead()
+   at SharpCompress.Archives.ArchiveFactory.FindFactory[T](FileInfo finfo)
+   at SharpCompress.Archives.ArchiveFactory.Open(FileInfo fileInfo, ReaderOptions options)
+   at SharpCompress.Archives.ArchiveFactory.Open(String filePath, ReaderOptions options)
+   at update.Form1.BackgroundWorkerRunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 318
+2024-02-02 23:05:37.798 +07:00 [INF] openAppKasir

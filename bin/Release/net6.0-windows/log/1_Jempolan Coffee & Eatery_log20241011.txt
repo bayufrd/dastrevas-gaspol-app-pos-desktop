@@ -1,0 +1,15 @@
+2024-10-11 12:24:00.119 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-11 12:24:00.119 +07:00 [ERR] Terjadi kesalahan IO: {ioEx.Message}
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\LogoJempolan.bmp'.
+File name: 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\LogoJempolan.bmp'
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at KASIR.Form1.DuplicateAndRenameToOutletLogo(String file2Path) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Form1.cs:line 268
+2024-10-11 12:24:01.828 +07:00 [WRN] Open Update.exe
+2024-10-11 12:25:04.574 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-11 12:25:04.574 +07:00 [ERR] Terjadi kesalahan IO: {ioEx.Message}
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\LogoJempolan.bmp'.
+File name: 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\LogoJempolan.bmp'
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at KASIR.Form1.DuplicateAndRenameToOutletLogo(String file2Path) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Form1.cs:line 268

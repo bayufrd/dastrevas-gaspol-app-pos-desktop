@@ -1,0 +1,91 @@
+2024-01-14 02:37:16.839 +07:00 [INF] btnMaximize_Click
+2024-01-14 02:37:41.527 +07:00 [INF] button1_Click
+2024-01-14 02:37:44.033 +07:00 [INF] button1_Click
+2024-01-14 02:37:45.645 +07:00 [INF] btnReportShift_Click
+2024-01-14 02:37:47.117 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-01-14 02:37:49.497 +07:00 [INF] button6_Click
+2024-01-14 02:37:50.008 +07:00 [INF] button1_Click
+2024-01-14 02:37:50.580 +07:00 [INF] button6_Click
+2024-01-14 02:37:58.309 +07:00 [INF] listBill_Click
+2024-01-14 02:38:00.741 +07:00 [INF] button2_Click
+2024-01-14 02:38:02.336 +07:00 [INF] btnSimpan_Click
+2024-01-14 02:38:11.686 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-14 02:38:25.994 +07:00 [INF] button1_Click
+2024-01-14 02:38:26.819 +07:00 [INF] button6_Click
+2024-01-14 02:38:28.861 +07:00 [INF] button1_Click
+2024-01-14 02:38:33.975 +07:00 [INF] btnSimpan_Click
+2024-01-14 02:38:36.773 +07:00 [INF] btnSimpan_Click
+2024-01-14 02:38:39.041 +07:00 [INF] button1_Click
+2024-01-14 02:38:46.695 +07:00 [INF] btnKonfirmasi_Click
+2024-01-14 02:40:44.067 +07:00 [INF] btnMaximize_Click
+2024-01-14 02:40:47.926 +07:00 [INF] button1_Click
+2024-01-14 02:40:52.641 +07:00 [INF] btnKonfirmasi_Click
+2024-01-14 02:41:00.760 +07:00 [INF] btnKonfirmasi_Click
+2024-01-14 02:41:08.934 +07:00 [INF] btnKonfirmasi_Click
+2024-01-14 02:41:30.935 +07:00 [INF] btnExit_Click
+2024-01-14 02:48:36.169 +07:00 [INF] btnMaximize_Click
+2024-01-14 02:48:37.808 +07:00 [INF] button1_Click
+2024-01-14 02:48:45.790 +07:00 [ERR] An error occurred: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'KASIR.Model.DataTransaction' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'data', line 1, position 9.
+Newtonsoft.Json.JsonSerializationException: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'KASIR.Model.DataTransaction' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path 'data', line 1, position 9.
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.EnsureArrayContract(JsonReader reader, Type objectType, JsonContract contract)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.Komponen.inputPin.LoadData() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 159
+2024-01-14 02:58:44.927 +07:00 [INF] btnMaximize_Click
+2024-01-14 02:58:58.460 +07:00 [INF] button1_Click
+2024-01-14 02:59:15.182 +07:00 [INF] btnExit_Click
+2024-01-14 03:01:44.132 +07:00 [INF] btnMaximize_Click
+2024-01-14 03:01:45.662 +07:00 [INF] button1_Click
+2024-01-14 03:02:15.064 +07:00 [INF] btnKonfirmasi_Click
+2024-01-14 03:12:16.979 +07:00 [INF] btnExit_Click
+2024-01-14 03:14:46.619 +07:00 [INF] btnMaximize_Click
+2024-01-14 03:14:48.066 +07:00 [INF] button1_Click
+2024-01-14 03:14:52.486 +07:00 [INF] btnKonfirmasi_Click
+2024-01-14 03:15:12.749 +07:00 [INF] btnExit_Click
+2024-01-14 03:23:14.416 +07:00 [INF] btnMaximize_Click
+2024-01-14 03:23:19.336 +07:00 [INF] button1_Click
+2024-01-14 03:23:50.048 +07:00 [INF] btnExit_Click
+2024-01-14 03:29:17.202 +07:00 [INF] btnMaximize_Click
+2024-01-14 03:29:21.835 +07:00 [INF] button1_Click
+2024-01-14 03:30:43.484 +07:00 [INF] btnCetakStruk_Click
+2024-01-14 03:30:49.333 +07:00 [INF] btnKonfirmasi_Click
+2024-01-14 03:30:53.104 +07:00 [INF] button6_Click
+2024-01-14 03:30:59.037 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-14 03:31:31.167 +07:00 [INF] button1_Click
+2024-01-14 03:31:31.680 +07:00 [INF] button6_Click
+2024-01-14 03:31:37.843 +07:00 [INF] btnExit_Click
+2024-01-14 03:33:38.282 +07:00 [INF] btnMaximize_Click
+2024-01-14 03:33:49.063 +07:00 [INF] btnHapus_Click
+2024-01-14 03:33:55.478 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-14 03:33:58.590 +07:00 [INF] button1_Click
+2024-01-14 03:34:03.575 +07:00 [INF] btnSimpan_Click
+2024-01-14 03:34:07.076 +07:00 [INF] btnSimpan_Click
+2024-01-14 03:34:10.522 +07:00 [INF] button1_Click
+2024-01-14 03:34:29.194 +07:00 [INF] button6_Click
+2024-01-14 03:34:39.962 +07:00 [INF] button1_Click
+2024-01-14 03:34:45.977 +07:00 [INF] button6_Click
+2024-01-14 03:34:51.100 +07:00 [INF] button1_Click
+2024-01-14 03:35:21.769 +07:00 [INF] button6_Click
+2024-01-14 03:42:22.277 +07:00 [INF] btnMaximize_Click
+2024-01-14 03:42:24.485 +07:00 [INF] button1_Click
+2024-01-14 03:42:25.897 +07:00 [INF] btnReportShift_Click
+2024-01-14 03:45:30.791 +07:00 [INF] button6_Click
+2024-01-14 03:45:31.381 +07:00 [INF] button1_Click
+2024-01-14 03:45:34.345 +07:00 [INF] button6_Click
+2024-01-14 03:54:53.419 +07:00 [INF] btnMaximize_Click
+2024-01-14 03:54:54.835 +07:00 [INF] button1_Click
+2024-01-14 03:56:27.587 +07:00 [INF] button6_Click
+2024-01-14 03:56:28.186 +07:00 [INF] button1_Click
+2024-01-14 03:56:28.834 +07:00 [INF] button6_Click

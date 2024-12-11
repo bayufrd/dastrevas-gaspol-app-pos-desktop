@@ -1,0 +1,15 @@
+2024-10-01 00:30:06.547 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-01 00:30:12.243 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-01 00:30:15.306 +07:00 [INF] button1_Click
+2024-10-01 00:30:17.129 +07:00 [INF] btnSimpan_Click
+2024-10-01 00:30:19.657 +07:00 [ERR] An error occurred: Pairing failed to 66:22:A6:D5:81:71 after timeout of 10 seconds.
+System.Exception: Pairing failed to 66:22:A6:D5:81:71 after timeout of 10 seconds.
+   at KASIR.komponen.payForm.<>c__DisplayClass57_0.<<PrintPurchaseReceiptAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 636
+2024-10-01 00:30:20.111 +07:00 [ERR] Printing failed on attempt 1.
+System.Exception: Pairing failed to 66:22:A6:D5:81:71 after timeout of 10 seconds.
+   at KASIR.komponen.payForm.<>c__DisplayClass57_0.<<PrintPurchaseReceiptAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 636
+--- End of stack trace from previous location ---
+   at KASIR.komponen.payForm.RetryPolicyAsync(Func`1 printTask, Int32 maxAttempts, Int32 retryDelayMilliseconds) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 575
+2024-10-01 00:31:13.651 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-01 00:31:16.439 +07:00 [INF] button2_Click
+2024-10-01 00:31:17.904 +07:00 [INF] btnSimpan_Click

@@ -1,0 +1,105 @@
+2024-02-09 02:33:25.492 +07:00 [INF] btnMaximize_Click
+2024-02-09 02:33:29.711 +07:00 [INF] button1_Click
+2024-02-09 02:33:33.416 +07:00 [INF] btnReportShift_Click
+2024-02-09 02:33:50.465 +07:00 [INF] btnReportShift_Click
+2024-02-09 02:33:53.213 +07:00 [INF] btnReportShift_Click
+2024-02-09 02:34:48.394 +07:00 [INF] btnReportShift_Click
+2024-02-09 02:36:01.479 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-02-09 02:36:10.866 +07:00 [INF] btnReportShift_Click
+2024-02-09 02:36:21.725 +07:00 [INF] button6_Click
+2024-02-09 02:36:25.050 +07:00 [INF] button1_Click
+2024-02-09 02:36:30.614 +07:00 [INF] button6_Click
+2024-02-09 02:36:34.113 +07:00 [INF] button1_Click
+2024-02-09 02:37:38.627 +07:00 [INF] button1_Click
+2024-02-09 02:37:40.200 +07:00 [INF] btnReportShift_Click
+2024-02-09 02:38:11.054 +07:00 [INF] button6_Click
+2024-02-09 02:38:15.298 +07:00 [INF] button6_Click
+2024-02-09 02:38:23.250 +07:00 [INF] btnMaximize_Click
+2024-02-09 02:39:07.389 +07:00 [INF] btnExit_Click
+2024-02-09 02:44:17.316 +07:00 [INF] btnMaximize_Click
+2024-02-09 02:44:22.197 +07:00 [INF] button6_Click
+2024-02-09 02:44:24.193 +07:00 [INF] button1_Click
+2024-02-09 02:44:25.795 +07:00 [INF] button6_Click
+2024-02-09 02:44:28.997 +07:00 [INF] button1_Click
+2024-02-09 02:44:32.207 +07:00 [INF] button6_Click
+2024-02-09 02:44:38.136 +07:00 [INF] button1_Click
+2024-02-09 02:44:39.560 +07:00 [INF] button6_Click
+2024-02-09 02:44:51.630 +07:00 [INF] button1_Click
+2024-02-09 02:44:54.247 +07:00 [INF] button6_Click
+2024-02-09 02:44:57.762 +07:00 [INF] button1_Click
+2024-02-09 02:44:59.460 +07:00 [INF] button6_Click
+2024-02-09 02:45:05.436 +07:00 [INF] button6_Click
+2024-02-09 02:45:09.014 +07:00 [INF] button6_Click
+2024-02-09 02:45:13.267 +07:00 [INF] button6_Click
+2024-02-09 02:45:17.212 +07:00 [INF] button6_Click
+2024-02-09 02:45:17.911 +07:00 [ERR] An error occurred: Error creating window handle.
+System.ComponentModel.Win32Exception (1158): Error creating window handle.
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at KASIR.komponen.masterPos.loadDataAsync() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 709
+2024-02-09 02:54:00.178 +07:00 [INF] btnMaximize_Click
+2024-02-09 02:54:46.606 +07:00 [INF] button6_Click
+2024-02-09 02:54:50.803 +07:00 [INF] btnExit_Click
+2024-02-09 02:55:05.723 +07:00 [INF] btnMaximize_Click
+2024-02-09 02:55:11.447 +07:00 [INF] btnExit_Click
+2024-02-09 02:55:22.210 +07:00 [INF] btnMaximize_Click
+2024-02-09 02:55:27.076 +07:00 [INF] button6_Click
+2024-02-09 02:55:32.134 +07:00 [INF] button6_Click
+2024-02-09 02:55:35.090 +07:00 [INF] button6_Click
+2024-02-09 02:55:37.001 +07:00 [INF] button6_Click
+2024-02-09 02:55:38.913 +07:00 [INF] button6_Click
+2024-02-09 02:55:40.840 +07:00 [INF] button6_Click
+2024-02-09 02:55:42.801 +07:00 [INF] button6_Click
+2024-02-09 02:55:44.756 +07:00 [INF] button6_Click
+2024-02-09 02:55:46.844 +07:00 [INF] button6_Click
+2024-02-09 02:55:48.803 +07:00 [INF] button6_Click
+2024-02-09 02:55:49.655 +07:00 [ERR] An error occurred: Error creating window handle.
+System.ComponentModel.Win32Exception (1158): Error creating window handle.
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at KASIR.komponen.masterPos.loadDataAsync() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 709
+2024-02-09 02:55:49.761 +07:00 [INF] button6_Click
+2024-02-09 03:00:32.064 +07:00 [INF] btnMaximize_Click
+2024-02-09 03:00:49.260 +07:00 [INF] button6_Click
+2024-02-09 03:01:23.465 +07:00 [INF] button6_Click
+2024-02-09 03:01:27.440 +07:00 [INF] button6_Click
+2024-02-09 03:01:30.905 +07:00 [INF] button1_Click
+2024-02-09 03:01:32.449 +07:00 [INF] button6_Click
+2024-02-09 03:01:40.724 +07:00 [INF] button6_Click
+2024-02-09 03:01:44.399 +07:00 [INF] button6_Click
+2024-02-09 03:01:47.457 +07:00 [INF] button6_Click
+2024-02-09 03:01:50.092 +07:00 [INF] button6_Click
+2024-02-09 03:01:52.065 +07:00 [INF] button6_Click
+2024-02-09 03:01:54.059 +07:00 [INF] button6_Click
+2024-02-09 03:01:54.839 +07:00 [ERR] An error occurred: Error creating window handle.
+System.ComponentModel.Win32Exception (1158): Error creating window handle.
+   at System.Windows.Forms.NativeWindow.CreateHandle(CreateParams cp)
+   at System.Windows.Forms.Control.CreateHandle()
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   at System.Windows.Forms.Control.CreateControl()
+   at System.Windows.Forms.Control.ControlCollection.Add(Control value)
+   at KASIR.komponen.masterPos.loadDataAsync() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 709
+2024-02-09 03:01:54.939 +07:00 [INF] button6_Click
+2024-02-09 03:03:08.933 +07:00 [INF] btnMaximize_Click
+2024-02-09 03:03:21.681 +07:00 [INF] button6_Click
+2024-02-09 03:03:26.308 +07:00 [INF] btnExit_Click
+2024-02-09 03:07:01.206 +07:00 [INF] btnMaximize_Click
+2024-02-09 03:07:07.075 +07:00 [INF] button6_Click
+2024-02-09 03:07:55.628 +07:00 [INF] button6_Click
+2024-02-09 03:07:58.466 +07:00 [INF] button1_Click
+2024-02-09 03:08:00.798 +07:00 [INF] btnReportShift_Click
+2024-02-09 03:08:09.557 +07:00 [INF] btnExit_Click
+2024-02-09 03:16:16.990 +07:00 [INF] btnMaximize_Click
+2024-02-09 03:16:23.389 +07:00 [INF] button1_Click
+2024-02-09 03:16:25.595 +07:00 [INF] button6_Click
+2024-02-09 03:16:31.997 +07:00 [INF] btnExit_Click

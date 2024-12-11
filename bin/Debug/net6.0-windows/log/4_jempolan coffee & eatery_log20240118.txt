@@ -1,0 +1,933 @@
+2024-01-18 01:00:52.457 +07:00 [INF] btnMaximize_Click
+2024-01-18 01:01:13.301 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 328
+2024-01-18 01:02:40.268 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 328
+2024-01-18 01:03:03.717 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 328
+2024-01-18 01:03:27.793 +07:00 [INF] btnExit_Click
+2024-01-18 01:05:19.557 +07:00 [INF] btnMaximize_Click
+2024-01-18 01:05:32.512 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 326
+2024-01-18 01:16:01.806 +07:00 [INF] btnMaximize_Click
+2024-01-18 01:20:50.387 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 320
+2024-01-18 01:21:09.239 +07:00 [INF] btnExit_Click
+2024-01-18 01:21:47.488 +07:00 [INF] btnMaximize_Click
+2024-01-18 01:22:11.350 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 320
+2024-01-18 01:22:15.772 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 320
+2024-01-18 01:33:15.943 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 320
+2024-01-18 01:36:49.660 +07:00 [INF] btnMaximize_Click
+2024-01-18 01:38:02.427 +07:00 [INF] btnMinimize_Click
+2024-01-18 01:42:33.419 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 320
+2024-01-18 01:58:38.423 +07:00 [INF] btnMaximize_Click
+2024-01-18 01:58:45.403 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:46.817 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:47.777 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:48.489 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:49.203 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:49.993 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:50.851 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:51.545 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:52.179 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:52.801 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:53.409 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:53.858 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:54.249 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:54.561 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:54.832 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:55.449 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 01:58:56.265 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 02:01:30.538 +07:00 [INF] btnMaximize_Click
+2024-01-18 02:02:06.068 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 02:02:07.011 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 02:02:08.082 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 02:02:08.963 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 02:43:27.258 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 02:43:28.065 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 02:43:28.922 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 02:43:29.642 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 325
+2024-01-18 02:45:01.902 +07:00 [INF] btnExit_Click
+2024-01-18 02:47:44.936 +07:00 [INF] btnMaximize_Click
+2024-01-18 02:47:51.364 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 341
+2024-01-18 02:47:52.507 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 341
+2024-01-18 02:47:56.118 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 341
+2024-01-18 02:47:59.491 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 341
+2024-01-18 02:48:02.519 +07:00 [INF] btnExit_Click
+2024-01-18 02:49:38.608 +07:00 [INF] btnMaximize_Click
+2024-01-18 02:49:56.237 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 342
+2024-01-18 02:49:58.316 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 342
+2024-01-18 02:50:00.405 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 342
+2024-01-18 02:50:02.852 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 342
+2024-01-18 02:50:05.456 +07:00 [INF] btnExit_Click
+2024-01-18 03:01:34.340 +07:00 [INF] btnMaximize_Click
+2024-01-18 03:01:45.858 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 344
+2024-01-18 03:01:48.729 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 344
+2024-01-18 03:01:50.458 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 344
+2024-01-18 03:01:51.881 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 344
+2024-01-18 03:02:41.243 +07:00 [INF] btnMaximize_Click
+2024-01-18 03:02:46.785 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 341
+2024-01-18 03:02:48.569 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 341
+2024-01-18 03:02:49.224 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 341
+2024-01-18 03:02:49.857 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 341
+2024-01-18 03:02:52.757 +07:00 [INF] btnExit_Click
+2024-01-18 03:03:35.375 +07:00 [INF] btnMaximize_Click
+2024-01-18 03:03:41.505 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 03:03:42.251 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 03:03:42.897 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 03:03:43.474 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 03:15:34.653 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 03:15:35.342 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 03:15:35.982 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 03:15:36.597 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 03:15:38.937 +07:00 [INF] btnExit_Click
+2024-01-18 11:48:06.775 +07:00 [INF] btnMaximize_Click
+2024-01-18 11:48:31.209 +07:00 [INF] button6_Click
+2024-01-18 11:48:31.757 +07:00 [INF] button1_Click
+2024-01-18 11:48:32.748 +07:00 [INF] button6_Click
+2024-01-18 11:48:33.275 +07:00 [INF] button1_Click
+2024-01-18 11:48:34.196 +07:00 [INF] button6_Click
+2024-01-18 11:48:39.928 +07:00 [INF] btnTambah_Click
+2024-01-18 11:48:40.192 +07:00 [INF] btnTambah_Click
+2024-01-18 11:48:40.376 +07:00 [INF] btnTambah_Click
+2024-01-18 11:48:41.066 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-18 11:48:44.817 +07:00 [INF] button1_Click
+2024-01-18 11:48:49.769 +07:00 [INF] btnSimpan_Click
+2024-01-18 11:48:59.302 +07:00 [ERR] Attempt 1: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 511
+2024-01-18 11:49:02.255 +07:00 [ERR] Attempt 1: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 711
+2024-01-18 11:49:02.759 +07:00 [ERR] Attempt 2: An error occurred: An invalid argument was supplied. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10022): An invalid argument was supplied. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 511
+2024-01-18 11:49:04.664 +07:00 [ERR] Attempt 3: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 511
+2024-01-18 11:49:05.534 +07:00 [ERR] Attempt 2: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 711
+2024-01-18 11:49:07.575 +07:00 [ERR] Attempt 3: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 711
+2024-01-18 11:50:07.898 +07:00 [INF] button6_Click
+2024-01-18 11:50:17.985 +07:00 [INF] button3_Click
+2024-01-18 11:50:27.530 +07:00 [INF] listBill_Click
+2024-01-18 11:50:31.005 +07:00 [INF] button1_Click
+2024-01-18 11:50:34.915 +07:00 [INF] btnCetakStruk_Click
+2024-01-18 11:50:38.029 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.inputPin.PrintPurchaseReceipt(DataRestruk datas, List`1 cartDetails, List`1 cartRefundDetails, List`1 canceledItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 357
+2024-01-18 11:52:19.162 +07:00 [INF] btnExit_Click
+2024-01-18 23:03:33.921 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:03:54.570 +07:00 [INF] btnGet_Click
+2024-01-18 23:04:01.198 +07:00 [INF] btnExit_Click
+2024-01-18 23:04:53.062 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:05:04.920 +07:00 [INF] button3_Click
+2024-01-18 23:05:25.815 +07:00 [INF] btnExit_Click
+2024-01-18 23:07:14.085 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:07:15.722 +07:00 [INF] button1_Click
+2024-01-18 23:07:43.087 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:07:46.297 +07:00 [INF] button1_Click
+2024-01-18 23:13:48.356 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:13:51.463 +07:00 [INF] button1_Click
+2024-01-18 23:18:33.531 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:18:36.061 +07:00 [INF] button1_Click
+2024-01-18 23:19:15.954 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:19:18.006 +07:00 [INF] button1_Click
+2024-01-18 23:19:39.569 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:19:52.877 +07:00 [INF] btnExit_Click
+2024-01-18 23:20:39.486 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:20:41.054 +07:00 [INF] button1_Click
+2024-01-18 23:22:59.194 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:23:04.521 +07:00 [INF] button1_Click
+2024-01-18 23:23:24.980 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:25.991 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:26.582 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:28.814 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:29.238 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:29.847 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:30.366 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:30.766 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:31.102 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:31.614 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:31.950 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:32.270 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:32.774 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:33.047 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:33.342 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:33.879 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:34.142 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:34.430 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:36.038 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:36.350 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:36.742 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:37.055 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:37.422 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:37.790 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:38.158 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:38.446 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:42.367 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:43.095 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:43.447 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:43.750 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:44.271 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:45.103 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:45.959 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:46.286 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:46.614 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:47.438 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:48.030 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:23:48.318 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:48.630 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:56.767 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:23:57.727 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:23:59.366 +07:00 [INF] btnExit_Click
+2024-01-18 23:25:10.689 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:25:13.099 +07:00 [INF] button1_Click
+2024-01-18 23:25:14.941 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:25:15.711 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:25:16.279 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:25:17.103 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:25:22.688 +07:00 [INF] button1_Click
+2024-01-18 23:25:28.319 +07:00 [INF] btnExit_Click
+2024-01-18 23:26:52.204 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:26:54.522 +07:00 [INF] button1_Click
+2024-01-18 23:26:56.080 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:26:56.494 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:26:56.952 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:26:57.432 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:26:57.696 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:26:58.008 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:26:58.432 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:26:58.777 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:26:59.088 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:26:59.616 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:00.000 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:00.376 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:00.968 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:01.312 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:01.712 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:02.200 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:02.512 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:02.832 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:03.296 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:03.536 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:03.832 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:04.272 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:04.520 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:04.824 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:05.296 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:05.512 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:05.824 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:06.248 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:06.496 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:06.800 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:07.296 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:07.600 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:07.920 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:08.384 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:08.664 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:09.008 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:09.432 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:09.696 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:10.104 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:10.480 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:11.064 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:11.344 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:11.784 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:12.016 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:12.328 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:12.776 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:13.040 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:13.408 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:13.856 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:27:14.104 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:27:14.400 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:27:25.456 +07:00 [INF] btnExit_Click
+2024-01-18 23:28:25.720 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:28:27.177 +07:00 [INF] button1_Click
+2024-01-18 23:28:32.376 +07:00 [INF] btnExit_Click
+2024-01-18 23:28:48.706 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:28:50.203 +07:00 [INF] button1_Click
+2024-01-18 23:28:54.553 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:28:55.207 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:28:55.577 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:28:57.705 +07:00 [INF] btnExit_Click
+2024-01-18 23:34:12.390 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:34:14.669 +07:00 [INF] button1_Click
+2024-01-18 23:34:15.595 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:34:15.993 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:34:16.443 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:34:16.891 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:34:17.307 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:34:17.787 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:34:18.403 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:34:18.691 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:34:19.739 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:34:20.251 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:34:20.555 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:34:20.971 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:34:21.411 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:34:21.683 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:34:22.027 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:34:22.507 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:34:22.779 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:34:23.179 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:34:23.603 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:34:23.843 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:34:24.227 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:34:24.635 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:34:24.883 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:34:25.347 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:34:26.838 +07:00 [INF] btnSimpan_Click
+2024-01-18 23:34:30.891 +07:00 [INF] btnExit_Click
+2024-01-18 23:35:17.386 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:35:19.204 +07:00 [INF] button1_Click
+2024-01-18 23:35:20.324 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:35:20.752 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:35:21.180 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:35:21.699 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:35:22.019 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:35:22.403 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:35:22.867 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:35:23.155 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:35:23.980 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:35:24.572 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:35:24.843 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:35:25.131 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:35:25.563 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:35:25.819 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:35:26.204 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:35:26.811 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:35:27.155 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:35:27.947 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:35:33.267 +07:00 [INF] btnExit_Click
+2024-01-18 23:38:32.495 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:38:34.615 +07:00 [INF] button1_Click
+2024-01-18 23:38:36.066 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:38:36.749 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:38:38.741 +07:00 [INF] button1_Click
+2024-01-18 23:38:49.549 +07:00 [INF] btnExit_Click
+2024-01-18 23:39:09.924 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:39:11.688 +07:00 [INF] button1_Click
+2024-01-18 23:39:28.643 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:39:29.405 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:39:33.384 +07:00 [INF] btnSimpan_Click
+2024-01-18 23:39:37.597 +07:00 [INF] btnSimpan_Click
+2024-01-18 23:39:41.483 +07:00 [ERR] An error occurred: Input string was not in a correct format.
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at KASIR.komponen.payForm.btnSimpan_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 209
+2024-01-18 23:39:43.349 +07:00 [INF] btnSimpan_Click
+2024-01-18 23:39:48.186 +07:00 [ERR] An error occurred: Input string was not in a correct format.
+System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Int32.Parse(String s)
+   at KASIR.komponen.payForm.btnSimpan_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 209
+2024-01-18 23:39:56.902 +07:00 [INF] btnExit_Click
+2024-01-18 23:42:04.042 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:42:05.728 +07:00 [INF] button1_Click
+2024-01-18 23:42:08.556 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:42:09.230 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:42:09.798 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:42:10.262 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:42:10.638 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:42:11.135 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:42:11.446 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:42:11.838 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:42:12.366 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:42:12.662 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:42:12.998 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:42:15.590 +07:00 [INF] btnSetPrice1_Click
+2024-01-18 23:42:16.238 +07:00 [INF] btnSetPrice2_Click_1
+2024-01-18 23:42:16.590 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:42:18.294 +07:00 [INF] btnExit_Click
+2024-01-18 23:42:52.489 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:42:54.304 +07:00 [INF] button1_Click
+2024-01-18 23:42:59.806 +07:00 [INF] btnExit_Click
+2024-01-18 23:43:28.165 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:43:30.161 +07:00 [INF] button1_Click
+2024-01-18 23:43:35.903 +07:00 [INF] btnExit_Click
+2024-01-18 23:47:15.294 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:47:19.601 +07:00 [INF] btnExit_Click
+2024-01-18 23:47:33.256 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:47:34.841 +07:00 [INF] button1_Click
+2024-01-18 23:47:37.608 +07:00 [INF] button1_Click
+2024-01-18 23:47:39.068 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:47:39.819 +07:00 [INF] btnSimpan_Click
+2024-01-18 23:47:43.144 +07:00 [INF] btnSimpan_Click
+2024-01-18 23:47:53.353 +07:00 [ERR] Attempt 1: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 514
+2024-01-18 23:47:55.945 +07:00 [ERR] Attempt 1: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 714
+2024-01-18 23:47:56.424 +07:00 [ERR] Attempt 2: An error occurred: An invalid argument was supplied. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10022): An invalid argument was supplied. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 514
+2024-01-18 23:47:58.249 +07:00 [ERR] Attempt 3: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 514
+2024-01-18 23:47:58.752 +07:00 [ERR] Attempt 2: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 714
+2024-01-18 23:48:00.913 +07:00 [ERR] Attempt 3: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 714
+2024-01-18 23:48:06.254 +07:00 [INF] button1_Click
+2024-01-18 23:48:07.302 +07:00 [INF] button6_Click
+2024-01-18 23:48:16.453 +07:00 [INF] button1_Click
+2024-01-18 23:48:33.801 +07:00 [INF] btnExit_Click
+2024-01-18 23:52:51.465 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:52:54.413 +07:00 [INF] button1_Click
+2024-01-18 23:53:14.796 +07:00 [INF] btnReportShift_Click
+2024-01-18 23:53:16.257 +07:00 [INF] btnPrintUlang_Click
+2024-01-18 23:53:19.007 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 509
+2024-01-18 23:53:28.891 +07:00 [INF] btnExit_Click
+2024-01-18 23:55:08.934 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:55:11.873 +07:00 [INF] button6_Click
+2024-01-18 23:55:12.417 +07:00 [INF] button1_Click
+2024-01-18 23:55:15.061 +07:00 [INF] btnCetakStruk_Click
+2024-01-18 23:55:18.121 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.inputPin.PrintPurchaseReceipt(DataRestruk datas, List`1 cartDetails, List`1 cartRefundDetails, List`1 canceledItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 370
+2024-01-18 23:55:20.669 +07:00 [INF] btnReportShift_Click
+2024-01-18 23:55:22.070 +07:00 [INF] button2_Click
+2024-01-18 23:55:24.206 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 225
+2024-01-18 23:55:26.164 +07:00 [INF] btnReportShift_Click
+2024-01-18 23:55:27.141 +07:00 [INF] btnPrintUlang_Click
+2024-01-18 23:55:29.242 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 509
+2024-01-18 23:55:38.384 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:55:39.024 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:55:39.656 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:55:40.304 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:55:57.809 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:55:58.424 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:55:59.016 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:55:59.616 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:56:07.858 +07:00 [INF] button6_Click
+2024-01-18 23:56:09.553 +07:00 [INF] button1_Click
+2024-01-18 23:56:33.252 +07:00 [INF] btnReportShift_Click
+2024-01-18 23:56:35.180 +07:00 [INF] button2_Click
+2024-01-18 23:56:37.237 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 225
+2024-01-18 23:56:39.092 +07:00 [INF] btnReportShift_Click
+2024-01-18 23:56:40.844 +07:00 [INF] btnPrintUlang_Click
+2024-01-18 23:56:43.304 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 509
+2024-01-18 23:56:49.084 +07:00 [INF] btnReportShift_Click
+2024-01-18 23:56:50.180 +07:00 [INF] btnPrintUlang_Click
+2024-01-18 23:56:52.375 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 509
+2024-01-18 23:57:00.201 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:57:01.545 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:57:02.225 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:57:02.905 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 23:57:52.133 +07:00 [INF] btnReportShift_Click
+2024-01-18 23:57:52.973 +07:00 [INF] button2_Click
+2024-01-18 23:57:53.782 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 225
+2024-01-18 23:57:57.425 +07:00 [INF] button6_Click
+2024-01-18 23:57:59.637 +07:00 [INF] listBill_Click
+2024-01-18 23:58:06.549 +07:00 [INF] btnTambah_Click
+2024-01-18 23:58:06.717 +07:00 [INF] btnTambah_Click
+2024-01-18 23:58:06.869 +07:00 [INF] btnTambah_Click
+2024-01-18 23:58:07.815 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-18 23:58:11.085 +07:00 [INF] button1_Click
+2024-01-18 23:58:12.462 +07:00 [INF] btnSetPrice3_Click
+2024-01-18 23:58:13.208 +07:00 [INF] btnSimpan_Click
+2024-01-18 23:58:20.230 +07:00 [ERR] Attempt 1: An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 514
+2024-01-18 23:58:22.564 +07:00 [ERR] Attempt 1: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 714
+2024-01-18 23:58:23.020 +07:00 [ERR] Attempt 2: An error occurred: An invalid argument was supplied. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10022): An invalid argument was supplied. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 514
+2024-01-18 23:58:27.525 +07:00 [ERR] Attempt 3: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 514
+2024-01-18 23:58:29.998 +07:00 [ERR] Attempt 2: An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 714
+2024-01-18 23:58:31.309 +07:00 [INF] btnExit_Click
+2024-01-18 23:59:06.449 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:59:17.802 +07:00 [ERR] An error occurred: bluetoothString is not a valid Bluetooth address.
+System.FormatException: bluetoothString is not a valid Bluetooth address.
+   at InTheHand.Net.BluetoothAddress.Parse(String bluetoothString)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 408
+2024-01-18 23:59:18.538 +07:00 [ERR] An error occurred: bluetoothString is not a valid Bluetooth address.
+System.FormatException: bluetoothString is not a valid Bluetooth address.
+   at InTheHand.Net.BluetoothAddress.Parse(String bluetoothString)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 408
+2024-01-18 23:59:19.098 +07:00 [ERR] An error occurred: bluetoothString is not a valid Bluetooth address.
+System.FormatException: bluetoothString is not a valid Bluetooth address.
+   at InTheHand.Net.BluetoothAddress.Parse(String bluetoothString)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 408
+2024-01-18 23:59:19.697 +07:00 [ERR] An error occurred: bluetoothString is not a valid Bluetooth address.
+System.FormatException: bluetoothString is not a valid Bluetooth address.
+   at InTheHand.Net.BluetoothAddress.Parse(String bluetoothString)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 408
+2024-01-18 23:59:22.093 +07:00 [INF] btnExit_Click
+2024-01-18 23:59:44.702 +07:00 [INF] btnMaximize_Click
+2024-01-18 23:59:55.938 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 424
+2024-01-18 23:59:56.761 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 424
+2024-01-18 23:59:57.433 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 424
+2024-01-18 23:59:58.081 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 424

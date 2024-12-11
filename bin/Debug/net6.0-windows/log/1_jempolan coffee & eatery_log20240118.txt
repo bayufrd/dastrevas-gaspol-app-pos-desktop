@@ -1,0 +1,249 @@
+2024-01-18 18:55:57.633 +07:00 [INF] btnMaximize_Click
+2024-01-18 19:00:17.658 +07:00 [INF] button1_Click
+2024-01-18 19:00:20.464 +07:00 [INF] btnReportShift_Click
+2024-01-18 19:00:22.170 +07:00 [INF] btnPrintUlang_Click
+2024-01-18 19:00:24.470 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 225
+2024-01-18 19:00:30.744 +07:00 [INF] btnReportShift_Click
+2024-01-18 19:01:10.868 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 19:01:11.629 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 19:01:12.428 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 19:01:13.204 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 366
+2024-01-18 19:01:23.373 +07:00 [INF] button6_Click
+2024-01-18 19:01:24.476 +07:00 [INF] button1_Click
+2024-01-18 20:11:15.524 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:11:52.175 +07:00 [INF] button1_Click
+2024-01-18 20:12:05.262 +07:00 [INF] btnExit_Click
+2024-01-18 20:12:23.302 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:12:59.683 +07:00 [INF] button1_Click
+2024-01-18 20:13:12.478 +07:00 [INF] btnExit_Click
+2024-01-18 20:13:25.228 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:13:32.293 +07:00 [INF] button1_Click
+2024-01-18 20:13:38.134 +07:00 [INF] btnExit_Click
+2024-01-18 20:13:48.712 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:13:54.116 +07:00 [INF] button1_Click
+2024-01-18 20:13:59.839 +07:00 [INF] btnExit_Click
+2024-01-18 20:14:36.956 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:18:42.585 +07:00 [INF] button1_Click
+2024-01-18 20:24:50.715 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:26:24.717 +07:00 [INF] button1_Click
+2024-01-18 20:26:29.594 +07:00 [ERR] An error occurred: String '1-202401' was not recognized as a valid DateTime.
+System.FormatException: String '1-202401' was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at KASIR.Komponen.inputPin.LoadData() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 169
+2024-01-18 20:26:31.420 +07:00 [INF] btnExit_Click
+2024-01-18 20:29:31.561 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:30:01.751 +07:00 [INF] button1_Click
+2024-01-18 20:30:33.754 +07:00 [ERR] An error occurred: String '202954' was not recognized as a valid DateTime.
+System.FormatException: String '202954' was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at KASIR.Komponen.inputPin.LoadData() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 170
+2024-01-18 20:30:42.253 +07:00 [INF] btnExit_Click
+2024-01-18 20:34:39.832 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:34:49.006 +07:00 [INF] button1_Click
+2024-01-18 20:34:59.230 +07:00 [ERR] An error occurred: String '20240118-203231' was not recognized as a valid DateTime.
+System.FormatException: String '20240118-203231' was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at KASIR.Komponen.inputPin.LoadData() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 169
+2024-01-18 20:35:01.175 +07:00 [INF] btnExit_Click
+2024-01-18 20:36:58.619 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:37:10.415 +07:00 [INF] button1_Click
+2024-01-18 20:37:27.335 +07:00 [ERR] An error occurred: String '20240118' was not recognized as a valid DateTime.
+System.FormatException: String '20240118' was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at KASIR.Komponen.inputPin.LoadData() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 169
+2024-01-18 20:37:29.400 +07:00 [INF] btnExit_Click
+2024-01-18 20:38:11.423 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:39:02.193 +07:00 [INF] button1_Click
+2024-01-18 20:39:15.575 +07:00 [ERR] An error occurred: String '20240118-203718' was not recognized as a valid DateTime.
+System.FormatException: String '20240118-203718' was not recognized as a valid DateTime.
+   at System.DateTime.ParseExact(String s, String format, IFormatProvider provider)
+   at KASIR.Komponen.inputPin.LoadData() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 169
+2024-01-18 20:39:17.257 +07:00 [INF] btnExit_Click
+2024-01-18 20:43:32.665 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:43:34.473 +07:00 [INF] button1_Click
+2024-01-18 20:43:43.507 +07:00 [INF] btnExit_Click
+2024-01-18 20:43:58.014 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:43:59.750 +07:00 [INF] button1_Click
+2024-01-18 20:44:17.539 +07:00 [INF] btnExit_Click
+2024-01-18 20:44:51.730 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:44:52.938 +07:00 [INF] button1_Click
+2024-01-18 20:46:47.133 +07:00 [INF] btnExit_Click
+2024-01-18 20:56:10.851 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:57:47.883 +07:00 [INF] btnMaximize_Click
+2024-01-18 20:57:49.922 +07:00 [INF] button1_Click
+2024-01-18 20:57:55.585 +07:00 [INF] btnExit_Click
+2024-01-18 20:59:29.942 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:00:23.570 +07:00 [INF] button1_Click
+2024-01-18 21:32:05.657 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:32:07.995 +07:00 [INF] button1_Click
+2024-01-18 21:32:15.263 +07:00 [INF] btnExit_Click
+2024-01-18 21:34:36.016 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:34:39.464 +07:00 [INF] button1_Click
+2024-01-18 21:34:48.025 +07:00 [INF] btnExit_Click
+2024-01-18 21:36:11.578 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:36:13.904 +07:00 [INF] button1_Click
+2024-01-18 21:36:26.361 +07:00 [INF] btnExit_Click
+2024-01-18 21:37:30.823 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:37:35.488 +07:00 [INF] button1_Click
+2024-01-18 21:40:08.383 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:40:09.763 +07:00 [INF] button1_Click
+2024-01-18 21:40:14.531 +07:00 [INF] btnExit_Click
+2024-01-18 21:42:39.511 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:42:41.629 +07:00 [INF] button1_Click
+2024-01-18 21:42:55.316 +07:00 [INF] btnExit_Click
+2024-01-18 21:44:16.431 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:44:18.787 +07:00 [INF] button1_Click
+2024-01-18 21:44:26.188 +07:00 [INF] btnExit_Click
+2024-01-18 21:47:07.958 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:47:09.540 +07:00 [INF] button1_Click
+2024-01-18 21:47:13.403 +07:00 [ERR] An error occurred: Input string was not in a correct format.
+System.FormatException: Input string was not in a correct format.
+   at System.Text.ValueStringBuilder.ThrowFormatError()
+   at System.Text.ValueStringBuilder.AppendFormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.FormatHelper(IFormatProvider provider, String format, ParamsArray args)
+   at System.String.Format(String format, Object arg0)
+   at KASIR.Komponen.inputPin.LoadData() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 177
+2024-01-18 21:47:15.742 +07:00 [INF] btnExit_Click
+2024-01-18 21:48:19.599 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:48:22.486 +07:00 [INF] button1_Click
+2024-01-18 21:48:49.230 +07:00 [INF] btnExit_Click
+2024-01-18 21:49:23.208 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:49:25.332 +07:00 [INF] button1_Click
+2024-01-18 21:50:00.359 +07:00 [INF] btnExit_Click
+2024-01-18 21:50:22.965 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:50:24.838 +07:00 [INF] button1_Click
+2024-01-18 21:50:31.719 +07:00 [INF] btnExit_Click
+2024-01-18 21:50:49.164 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:50:50.982 +07:00 [INF] button1_Click
+2024-01-18 21:51:00.231 +07:00 [INF] btnExit_Click
+2024-01-18 21:51:19.022 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:51:20.893 +07:00 [INF] button1_Click
+2024-01-18 21:51:26.535 +07:00 [INF] btnExit_Click
+2024-01-18 21:51:36.401 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:51:38.063 +07:00 [INF] button1_Click
+2024-01-18 21:51:45.504 +07:00 [INF] btnExit_Click
+2024-01-18 21:51:56.234 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:51:58.063 +07:00 [INF] button1_Click
+2024-01-18 21:52:12.800 +07:00 [INF] btnExit_Click
+2024-01-18 21:52:25.621 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:52:27.390 +07:00 [INF] button1_Click
+2024-01-18 21:52:34.784 +07:00 [INF] btnExit_Click
+2024-01-18 21:52:45.217 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:52:47.055 +07:00 [INF] button1_Click
+2024-01-18 21:53:26.096 +07:00 [INF] btnExit_Click
+2024-01-18 21:54:33.614 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:54:35.295 +07:00 [INF] button1_Click
+2024-01-18 21:54:52.337 +07:00 [INF] btnExit_Click
+2024-01-18 21:55:08.765 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:55:10.752 +07:00 [INF] button1_Click
+2024-01-18 21:55:18.385 +07:00 [INF] btnExit_Click
+2024-01-18 21:55:46.679 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:55:48.480 +07:00 [INF] button1_Click
+2024-01-18 21:58:23.522 +07:00 [INF] btnExit_Click
+2024-01-18 21:58:40.228 +07:00 [INF] btnMaximize_Click
+2024-01-18 21:58:41.634 +07:00 [INF] button1_Click
+2024-01-18 21:58:50.979 +07:00 [INF] btnExit_Click
+2024-01-18 22:03:04.855 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:03:08.514 +07:00 [INF] button1_Click
+2024-01-18 22:03:28.836 +07:00 [INF] btnExit_Click
+2024-01-18 22:03:51.593 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:03:55.812 +07:00 [INF] button1_Click
+2024-01-18 22:06:06.571 +07:00 [INF] button6_Click
+2024-01-18 22:06:09.334 +07:00 [INF] btnMinimize_Click
+2024-01-18 22:09:12.577 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:09:14.260 +07:00 [INF] button1_Click
+2024-01-18 22:09:40.391 +07:00 [INF] btnExit_Click
+2024-01-18 22:10:17.427 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:10:18.707 +07:00 [INF] button1_Click
+2024-01-18 22:10:31.552 +07:00 [INF] btnExit_Click
+2024-01-18 22:13:03.522 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:13:06.049 +07:00 [INF] button1_Click
+2024-01-18 22:13:09.078 +07:00 [INF] button6_Click
+2024-01-18 22:13:10.789 +07:00 [INF] button1_Click
+2024-01-18 22:15:41.657 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:15:43.528 +07:00 [INF] button1_Click
+2024-01-18 22:15:48.890 +07:00 [INF] btnExit_Click
+2024-01-18 22:16:41.682 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:16:44.432 +07:00 [INF] button1_Click
+2024-01-18 22:17:00.626 +07:00 [INF] btnExit_Click
+2024-01-18 22:21:48.501 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:21:50.300 +07:00 [INF] button1_Click
+2024-01-18 22:22:01.172 +07:00 [INF] btnExit_Click
+2024-01-18 22:22:56.611 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:22:58.443 +07:00 [INF] button1_Click
+2024-01-18 22:23:04.037 +07:00 [INF] btnExit_Click
+2024-01-18 22:24:46.686 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:24:49.123 +07:00 [INF] button1_Click
+2024-01-18 22:26:46.868 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:26:49.813 +07:00 [INF] button1_Click
+2024-01-18 22:27:04.927 +07:00 [INF] btnExit_Click
+2024-01-18 22:29:16.110 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:29:18.037 +07:00 [INF] button1_Click
+2024-01-18 22:29:28.824 +07:00 [INF] btnExit_Click
+2024-01-18 22:31:16.472 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:31:18.200 +07:00 [INF] button1_Click
+2024-01-18 22:31:49.969 +07:00 [INF] btnExit_Click
+2024-01-18 22:32:16.241 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:32:17.920 +07:00 [INF] button1_Click
+2024-01-18 22:32:24.633 +07:00 [INF] btnExit_Click
+2024-01-18 22:32:48.595 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:32:50.255 +07:00 [INF] button1_Click
+2024-01-18 22:32:55.353 +07:00 [INF] btnExit_Click
+2024-01-18 22:33:53.256 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:33:54.771 +07:00 [INF] button1_Click
+2024-01-18 22:35:17.370 +07:00 [INF] btnExit_Click
+2024-01-18 22:35:34.461 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:35:37.065 +07:00 [INF] button6_Click
+2024-01-18 22:35:39.620 +07:00 [INF] button6_Click
+2024-01-18 22:35:42.016 +07:00 [INF] button1_Click
+2024-01-18 22:35:56.410 +07:00 [INF] btnExit_Click
+2024-01-18 22:36:35.746 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:36:37.385 +07:00 [INF] button1_Click
+2024-01-18 22:43:32.979 +07:00 [INF] button6_Click
+2024-01-18 22:44:38.779 +07:00 [INF] button1_Click
+2024-01-18 22:44:52.154 +07:00 [INF] button6_Click
+2024-01-18 22:44:52.738 +07:00 [INF] button1_Click
+2024-01-18 22:45:21.936 +07:00 [INF] btnReportShift_Click
+2024-01-18 22:45:36.223 +07:00 [INF] btnReportShift_Click
+2024-01-18 22:50:34.741 +07:00 [INF] button6_Click
+2024-01-18 22:50:37.536 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:51:31.821 +07:00 [INF] button1_Click
+2024-01-18 22:52:46.008 +07:00 [INF] button6_Click
+2024-01-18 22:52:47.758 +07:00 [INF] button1_Click
+2024-01-18 22:52:48.542 +07:00 [INF] button6_Click
+2024-01-18 22:52:49.686 +07:00 [INF] button1_Click
+2024-01-18 22:53:53.874 +07:00 [INF] btnExit_Click
+2024-01-18 22:54:34.038 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:54:39.275 +07:00 [INF] button5_ClickAsync
+2024-01-18 22:54:40.458 +07:00 [INF] button1_Click
+2024-01-18 22:54:41.880 +07:00 [INF] button1_Click
+2024-01-18 22:55:23.762 +07:00 [INF] btnExit_Click
+2024-01-18 22:55:56.911 +07:00 [INF] btnMaximize_Click
+2024-01-18 22:55:59.641 +07:00 [INF] button1_Click
+2024-01-18 22:57:37.177 +07:00 [INF] button6_Click
+2024-01-18 22:57:44.124 +07:00 [INF] btnExit_Click

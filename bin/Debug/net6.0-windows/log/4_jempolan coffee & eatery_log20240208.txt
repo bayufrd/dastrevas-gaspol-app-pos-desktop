@@ -1,0 +1,79 @@
+2024-02-08 20:05:04.697 +07:00 [INF] btnMaximize_Click
+2024-02-08 20:05:12.193 +07:00 [INF] btnExit_Click
+2024-02-08 20:07:22.084 +07:00 [INF] btnMaximize_Click
+2024-02-08 20:07:25.316 +07:00 [INF] button6_Click
+2024-02-08 20:07:27.034 +07:00 [INF] btnExit_Click
+2024-02-08 20:08:31.142 +07:00 [INF] btnMaximize_Click
+2024-02-08 20:08:34.218 +07:00 [INF] btnExit_Click
+2024-02-08 20:34:11.749 +07:00 [INF] btnMaximize_Click
+2024-02-08 20:34:16.686 +07:00 [INF] button1_Click
+2024-02-08 20:34:17.838 +07:00 [INF] btnReportShift_Click
+2024-02-08 20:34:59.477 +07:00 [INF] button2_Click
+2024-02-08 20:35:05.659 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 914
+2024-02-08 20:35:08.273 +07:00 [INF] btnReportShift_Click
+2024-02-08 20:35:48.051 +07:00 [INF] btnPrintUlang_Click
+2024-02-08 20:35:52.588 +07:00 [INF] btnPrintUlang_Click
+2024-02-08 20:35:53.667 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-02-08 20:35:53.667 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-02-08 20:35:58.191 +07:00 [INF] btnReportShift_Click
+2024-02-08 20:36:01.062 +07:00 [INF] btnReportShift_Click
+2024-02-08 20:37:09.459 +07:00 [INF] btnReportShift_Click
+2024-02-08 20:37:12.926 +07:00 [INF] btnExit_Click
+2024-02-08 20:37:37.688 +07:00 [INF] btnMaximize_Click
+2024-02-08 20:37:43.071 +07:00 [INF] button6_Click
+2024-02-08 20:37:44.299 +07:00 [INF] button1_Click
+2024-02-08 20:37:50.067 +07:00 [INF] button6_Click
+2024-02-08 20:37:52.230 +07:00 [INF] button1_Click
+2024-02-08 20:37:53.790 +07:00 [INF] btnReportShift_Click
+2024-02-08 20:38:13.270 +07:00 [INF] btnPrintUlang_Click
+2024-02-08 20:38:18.968 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-02-08 20:38:20.366 +07:00 [INF] btnReportShift_Click
+2024-02-08 20:38:36.923 +07:00 [INF] btnExit_Click
+2024-02-08 20:41:45.967 +07:00 [INF] btnMaximize_Click
+2024-02-08 20:41:48.594 +07:00 [INF] button1_Click
+2024-02-08 20:41:50.796 +07:00 [INF] btnExit_Click
+2024-02-08 21:42:27.193 +07:00 [INF] btnMaximize_Click
+2024-02-08 21:42:29.963 +07:00 [INF] button1_Click
+2024-02-08 21:42:31.402 +07:00 [INF] btnReportShift_Click
+2024-02-08 21:42:33.733 +07:00 [INF] btnPrintUlang_Click
+2024-02-08 21:44:19.631 +07:00 [INF] btnMaximize_Click
+2024-02-08 21:44:22.209 +07:00 [INF] button1_Click
+2024-02-08 21:44:23.667 +07:00 [INF] btnReportShift_Click
+2024-02-08 21:44:27.350 +07:00 [INF] btnPrintUlang_Click
+2024-02-08 21:47:01.819 +07:00 [INF] button6_Click
+2024-02-08 21:47:03.263 +07:00 [INF] button1_Click
+2024-02-08 21:47:04.362 +07:00 [INF] button6_Click
+2024-02-08 21:47:12.863 +07:00 [INF] btnExit_Click
+2024-02-08 21:48:14.228 +07:00 [INF] btnMaximize_Click
+2024-02-08 21:48:25.194 +07:00 [INF] btnExit_Click
+2024-02-08 21:48:59.414 +07:00 [INF] btnMaximize_Click
+2024-02-08 21:49:03.550 +07:00 [INF] btnExit_Click
+2024-02-08 21:50:48.434 +07:00 [INF] btnMaximize_Click
+2024-02-08 21:50:57.468 +07:00 [INF] button6_Click
+2024-02-08 21:50:58.477 +07:00 [INF] button1_Click
+2024-02-08 21:50:59.555 +07:00 [INF] button6_Click
+2024-02-08 21:51:02.170 +07:00 [INF] button1_Click
+2024-02-08 21:51:03.914 +07:00 [INF] button6_Click
+2024-02-08 21:51:11.616 +07:00 [INF] button1_Click
+2024-02-08 21:51:13.820 +07:00 [INF] button6_Click
+2024-02-08 21:51:22.780 +07:00 [INF] btnExit_Click

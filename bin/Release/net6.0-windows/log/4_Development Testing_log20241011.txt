@@ -1,0 +1,83 @@
+2024-10-11 12:32:22.936 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-11 12:32:22.936 +07:00 [ERR] Terjadi kesalahan IO: {ioEx.Message}
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\LogoSC.bmp'.
+File name: 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\LogoSC.bmp'
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at KASIR.Form1.DuplicateAndRenameToOutletLogo(String file2Path) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Form1.cs:line 268
+2024-10-11 12:32:40.280 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 12:32:41.970 +07:00 [INF] button1_Click
+2024-10-11 12:32:43.733 +07:00 [INF] btnSimpan_Click
+2024-10-11 12:32:48.359 +07:00 [ERR] An error occurred: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\OutletLogo.bmp
+System.IO.FileNotFoundException: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\OutletLogo.bmp
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at KASIR.Printer.PrinterModel.PrintLogo(Stream stream, String logoPath, Int32 targetWidthPx) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3119
+   at KASIR.Printer.PrinterModel.PrintCustomerReceipt(Stream stream, GetStrukCustomerTransaction datas, List`1 cartDetails, Int32 totalTransactions, String Kakimu) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 5159
+   at KASIR.Printer.PrinterModel.PrintModelPayform(GetStrukCustomerTransaction datas, List`1 cartDetails, List`1 KitchenCartDetails, List`1 BarCartDetails, List`1 KitchenCancelItems, List`1 BarCancelItems, Int32 totalTransactions, String Kakimu) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 4886
+2024-10-11 12:51:58.576 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-11 12:52:04.846 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 12:52:07.904 +07:00 [INF] button1_Click
+2024-10-11 12:52:10.452 +07:00 [INF] btnSimpan_Click
+2024-10-11 12:52:58.579 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-11 12:53:11.105 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 12:53:14.351 +07:00 [INF] button1_Click
+2024-10-11 12:53:16.219 +07:00 [INF] btnSimpan_Click
+2024-10-11 12:54:55.568 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 12:54:57.388 +07:00 [INF] button1_Click
+2024-10-11 12:54:59.682 +07:00 [INF] btnSimpan_Click
+2024-10-11 12:55:14.134 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 12:55:16.720 +07:00 [INF] button2_Click
+2024-10-11 12:55:18.607 +07:00 [INF] btnSimpan_Click
+2024-10-11 12:55:21.593 +07:00 [INF] btnSimpan_Click
+2024-10-11 12:55:22.604 +07:00 [ERR] Text parameter is null
+System.NullReferenceException: Object reference not set to an instance of an object.
+2024-10-11 12:55:27.934 +07:00 [INF] listBill_Click
+2024-10-11 12:55:45.015 +07:00 [INF] listBill_Click
+2024-10-11 12:55:57.389 +07:00 [INF] button1_Click
+2024-10-11 12:56:00.140 +07:00 [INF] btnSimpan_Click
+2024-10-11 15:01:47.716 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-11 15:01:53.942 +07:00 [INF] btnTambah_Click
+2024-10-11 15:01:54.099 +07:00 [INF] btnTambah_Click
+2024-10-11 15:01:54.269 +07:00 [INF] btnTambah_Click
+2024-10-11 15:01:59.205 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 15:02:01.954 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 15:02:03.972 +07:00 [INF] button1_Click
+2024-10-11 15:02:05.868 +07:00 [INF] btnSimpan_Click
+2024-10-11 18:07:13.523 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-11 18:07:27.006 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 18:07:29.928 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 18:07:34.854 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 18:07:39.135 +07:00 [INF] button1_Click
+2024-10-11 18:07:41.494 +07:00 [INF] btnSimpan_Click
+2024-10-11 18:11:09.587 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-11 18:11:15.660 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 18:11:18.608 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 18:11:21.517 +07:00 [INF] button1_Click
+2024-10-11 18:11:23.864 +07:00 [INF] btnSimpan_Click
+2024-10-11 18:12:41.608 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 18:12:56.032 +07:00 [INF] btnTambah_Click
+2024-10-11 18:12:56.198 +07:00 [INF] btnTambah_Click
+2024-10-11 18:12:56.375 +07:00 [INF] btnTambah_Click
+2024-10-11 18:12:56.529 +07:00 [INF] btnTambah_Click
+2024-10-11 18:12:56.705 +07:00 [INF] btnTambah_Click
+2024-10-11 18:12:56.920 +07:00 [INF] btnTambah_Click
+2024-10-11 18:12:57.745 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 18:13:00.695 +07:00 [INF] button1_Click
+2024-10-11 18:13:02.618 +07:00 [INF] btnSimpan_Click
+2024-10-11 18:13:55.411 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-11 18:13:57.033 +07:00 [INF] button1_Click
+2024-10-11 18:13:58.653 +07:00 [INF] btnSimpan_Click
+2024-10-11 18:15:36.949 +07:00 [INF] btnKonfirmasi_Click
+2024-10-11 18:15:45.680 +07:00 [INF] button2_Click
+2024-10-11 18:40:14.807 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-11 18:41:13.951 +07:00 [ERR] An error occurred: The process cannot access the file 'C:\Temp\reload_signal.txt' because it is being used by another process.
+System.IO.IOException: The process cannot access the file 'C:\Temp\reload_signal.txt' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.StreamWriter.ValidateArgsAndOpenPath(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.File.WriteAllText(String path, String contents)
+   at KASIR.komponen.masterPos.SignalReload() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1977
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 2102

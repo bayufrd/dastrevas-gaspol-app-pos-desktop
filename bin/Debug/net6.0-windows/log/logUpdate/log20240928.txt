@@ -1,0 +1,22 @@
+2024-09-28 20:43:23.888 +07:00 [INF] checkUpdate
+2024-09-28 20:43:23.942 +07:00 [WRN] Open Updater
+2024-09-28 20:43:25.748 +07:00 [ERR] An error occurred: Could not find file 'C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\KASIR.dll.config'.
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\KASIR.dll.config'.
+File name: 'C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\KASIR.dll.config'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlTextReaderImpl.OpenUrl()
+   at System.Xml.XmlTextReaderImpl.Read()
+   at System.Xml.XmlLoader.Load(XmlDocument doc, XmlReader reader, Boolean preserveWhitespace)
+   at System.Xml.XmlDocument.Load(XmlReader reader)
+   at System.Xml.XmlDocument.Load(String filename)
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 134
+2024-09-28 20:43:37.266 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-09-28 20:43:37.457 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-09-28 20:43:37.847 +07:00 [INF] openAppKasir

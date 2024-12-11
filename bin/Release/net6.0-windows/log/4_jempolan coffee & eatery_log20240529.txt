@@ -1,0 +1,152 @@
+2024-05-29 02:53:47.443 +07:00 [INF] btnMaximize_Click
+2024-05-29 02:55:21.081 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-29 02:55:23.766 +07:00 [INF] button1_Click
+2024-05-29 02:55:39.929 +07:00 [INF] btnSimpan_Click
+2024-05-29 02:55:43.800 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 558
+2024-05-29 02:55:54.120 +07:00 [INF] button1_Click
+2024-05-29 02:56:02.981 +07:00 [INF] button6_Click
+2024-05-29 02:56:50.623 +07:00 [INF] button1_Click
+2024-05-29 02:56:54.519 +07:00 [INF] button6_Click
+2024-05-29 02:56:55.386 +07:00 [INF] button1_Click
+2024-05-29 02:56:56.740 +07:00 [INF] btnReportShift_Click
+2024-05-29 02:57:32.763 +07:00 [INF] button2_Click
+2024-05-29 02:57:33.864 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 914
+2024-05-29 02:57:37.334 +07:00 [INF] btnReportShift_Click
+2024-05-29 02:57:46.286 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 02:57:48.069 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 02:57:49.980 +07:00 [INF] btnReportShift_Click
+2024-05-29 02:57:51.931 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 02:57:53.124 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 02:57:54.510 +07:00 [INF] btnReportShift_Click
+2024-05-29 02:57:58.185 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 02:57:59.423 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 02:58:01.358 +07:00 [INF] btnReportShift_Click
+2024-05-29 02:58:04.273 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-05-29 02:58:15.411 +07:00 [INF] button2_Click
+2024-05-29 02:58:21.385 +07:00 [INF] btnReportShift_Click
+2024-05-29 02:58:42.213 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 02:58:43.842 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 02:58:44.235 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 02:58:44.241 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 02:58:46.766 +07:00 [INF] btnReportShift_Click
+2024-05-29 02:59:00.349 +07:00 [INF] btnExit_Click
+2024-05-29 03:00:32.523 +07:00 [INF] btnMaximize_Click
+2024-05-29 03:00:34.775 +07:00 [INF] button1_Click
+2024-05-29 03:00:36.380 +07:00 [INF] btnReportShift_Click
+2024-05-29 03:00:45.939 +07:00 [INF] btnExit_Click
+2024-05-29 03:01:43.716 +07:00 [INF] btnMaximize_Click
+2024-05-29 03:01:46.080 +07:00 [INF] button1_Click
+2024-05-29 03:01:47.445 +07:00 [INF] btnReportShift_Click
+2024-05-29 03:02:14.623 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 03:02:15.849 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 03:02:16.553 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 03:02:16.779 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 03:02:16.827 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 03:02:16.780 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 03:02:18.534 +07:00 [INF] btnReportShift_Click
+2024-05-29 03:02:20.136 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 03:02:21.694 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 03:02:21.834 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 03:02:21.964 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 03:02:23.150 +07:00 [INF] btnReportShift_Click
+2024-05-29 03:02:51.068 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 03:02:52.290 +07:00 [INF] btnPrintUlang_Click
+2024-05-29 03:02:52.558 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 03:02:52.565 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1259
+2024-05-29 03:02:54.666 +07:00 [INF] button6_Click
+2024-05-29 03:03:07.285 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-29 03:03:18.116 +07:00 [INF] btnTambah_Click_1
+2024-05-29 03:03:18.275 +07:00 [INF] btnTambah_Click_1
+2024-05-29 03:03:18.484 +07:00 [INF] btnTambah_Click_1
+2024-05-29 03:03:19.962 +07:00 [INF] btnSimpan_Click
+2024-05-29 03:03:32.946 +07:00 [INF] listBill_Click
+2024-05-29 03:03:36.721 +07:00 [INF] listBill_Click
+2024-05-29 03:03:39.079 +07:00 [INF] listBill_Click
+2024-05-29 03:03:43.182 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1575
+2024-05-29 03:03:43.250 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1575
+2024-05-29 03:03:45.770 +07:00 [INF] button5_ClickAsync
+2024-05-29 03:03:47.803 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at KASIR.komponen.masterPos.button5_ClickAsync(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 463
+2024-05-29 03:03:49.216 +07:00 [INF] listBill_Click
+2024-05-29 03:03:53.986 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1575
+2024-05-29 03:03:54.053 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1575
+2024-05-29 03:03:55.076 +07:00 [INF] btnExit_Click

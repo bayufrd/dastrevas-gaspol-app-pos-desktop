@@ -1,0 +1,23 @@
+2024-05-23 00:00:53.125 +07:00 [INF] btnMaximize_Click
+2024-05-23 00:01:03.713 +07:00 [INF] button1_Click
+2024-05-23 00:01:05.976 +07:00 [INF] btnSetPrice2_Click_1
+2024-05-23 00:01:07.167 +07:00 [INF] btnSimpan_Click
+2024-05-23 00:01:10.853 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 527
+2024-05-23 00:01:25.522 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-23 00:01:28.192 +07:00 [INF] button1_Click
+2024-05-23 00:01:30.025 +07:00 [INF] btnSimpan_Click
+2024-05-23 00:01:31.887 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 527
+2024-05-23 00:01:42.251 +07:00 [INF] button1_Click
+2024-05-23 00:01:44.081 +07:00 [INF] btnReportShift_Click
+2024-05-23 00:02:19.757 +07:00 [INF] btnReportShift_Click
+2024-05-23 00:02:38.392 +07:00 [INF] btnExit_Click

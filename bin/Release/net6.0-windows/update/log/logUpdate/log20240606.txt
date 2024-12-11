@@ -1,0 +1,36 @@
+2024-06-06 18:21:13.875 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 143
+2024-06-06 18:21:16.144 +07:00 [INF] checkUpdate
+2024-06-06 18:21:16.154 +07:00 [WRN] Open Updater
+2024-06-06 18:21:27.856 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-06 18:21:28.671 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-06 18:21:29.463 +07:00 [INF] openAppKasir
+2024-06-06 18:24:28.646 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 146
+2024-06-06 18:24:30.473 +07:00 [INF] checkUpdate
+2024-06-06 18:24:30.477 +07:00 [WRN] Open Updater
+2024-06-06 18:24:41.996 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-06 18:24:42.002 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-06 18:24:42.117 +07:00 [INF] openAppKasir
+2024-06-06 18:32:37.777 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 143
+2024-06-06 18:43:10.139 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 144
+2024-06-06 18:44:29.742 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 144
+2024-06-06 18:48:05.335 +07:00 [INF] checkUpdate
+2024-06-06 18:49:14.560 +07:00 [INF] checkUpdate
+2024-06-06 18:49:16.060 +07:00 [WRN] Open Updater
+2024-06-06 18:49:27.523 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-06 18:49:27.602 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-06 18:49:28.084 +07:00 [INF] openAppKasir
+2024-06-06 18:50:35.039 +07:00 [INF] checkUpdate
+2024-06-06 18:50:35.129 +07:00 [WRN] Open Updater
+2024-06-06 18:50:46.589 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-06 18:50:46.599 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-06 18:50:46.741 +07:00 [INF] openAppKasir

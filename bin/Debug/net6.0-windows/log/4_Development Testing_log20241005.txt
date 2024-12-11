@@ -1,0 +1,72 @@
+2024-10-05 07:52:12.494 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-05 07:52:27.144 +07:00 [INF] btnCetakStruk_Click
+2024-10-05 07:52:30.021 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakLaporanShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1099
+2024-10-05 07:52:48.308 +07:00 [INF] btnRiwayatShift_Click
+2024-10-05 07:52:50.236 +07:00 [INF] btnPrintUlang_Click
+2024-10-05 07:52:52.797 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1852
+2024-10-05 07:53:28.406 +07:00 [INF] btnRiwayatShift_Click
+2024-10-05 08:00:42.882 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-05 08:07:05.609 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-05 08:07:13.322 +07:00 [INF] btnRiwayatShift_Click
+2024-10-05 08:07:15.387 +07:00 [INF] btnPrintUlang_Click
+2024-10-05 08:07:18.251 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1852
+2024-10-05 08:10:30.867 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-05 08:10:42.730 +07:00 [INF] btnRiwayatShift_Click
+2024-10-05 08:10:44.476 +07:00 [INF] btnPrintUlang_Click
+2024-10-05 08:10:46.855 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1854
+2024-10-05 08:10:49.380 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1854
+2024-10-05 08:10:51.915 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1854
+2024-10-05 08:10:52.108 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1854
+   at KASIR.Komponen.printReportShift.HandleSuccessfulTransaction(String response) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 906
+2024-10-05 08:16:13.528 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-05 08:16:18.819 +07:00 [INF] btnRiwayatShift_Click
+2024-10-05 08:16:20.445 +07:00 [INF] btnPrintUlang_Click
+2024-10-05 08:16:22.396 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1859
+2024-10-05 08:16:24.873 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1859
+2024-10-05 08:16:27.433 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1859
+2024-10-05 08:16:27.632 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelCetakUlangShift(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 1859
+   at KASIR.Komponen.printReportShift.HandleSuccessfulTransaction(String response) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 906

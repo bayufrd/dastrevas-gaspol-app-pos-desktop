@@ -1,0 +1,84 @@
+2024-05-27 10:22:26.348 +07:00 [INF] btnMaximize_Click
+2024-05-27 10:22:42.269 +07:00 [INF] button1_Click
+2024-05-27 10:22:44.255 +07:00 [INF] btnSimpan_Click
+2024-05-27 10:22:46.786 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 527
+2024-05-27 10:22:57.077 +07:00 [INF] button1_Click
+2024-05-27 10:23:28.914 +07:00 [INF] btnUpdate_Click
+2024-05-27 10:23:30.550 +07:00 [WRN] File not found
+2024-05-27 10:23:34.648 +07:00 [INF] btnExit_Click
+2024-05-27 20:33:17.261 +07:00 [INF] btnMaximize_Click
+2024-05-27 20:33:32.801 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:33:38.474 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:33:41.579 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:33:46.268 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:33:50.057 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:33:52.472 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:33:55.380 +07:00 [INF] button2_Click
+2024-05-27 20:33:57.702 +07:00 [INF] btnSimpan_Click
+2024-05-27 20:34:21.798 +07:00 [INF] listBill_Click
+2024-05-27 20:34:28.097 +07:00 [ERR] An error occurred: Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.GetActiveCart(String url) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Network\ApiService.cs:line 161
+   at KASIR.Komponen.dataBill.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\dataBill.cs:line 357
+2024-05-27 20:34:31.674 +07:00 [INF] listBill_Click
+2024-05-27 20:34:54.139 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:35:04.819 +07:00 [INF] button5_ClickAsync
+2024-05-27 20:35:07.772 +07:00 [INF] button1_Click
+2024-05-27 20:35:09.614 +07:00 [INF] button1_Click
+2024-05-27 20:35:11.320 +07:00 [INF] btnSimpan_Click
+2024-05-27 20:35:14.439 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 527
+2024-05-27 20:35:26.253 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:35:31.366 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:35:52.697 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 20:35:57.762 +07:00 [INF] btnExit_Click
+2024-05-27 22:40:56.474 +07:00 [INF] btnMaximize_Click
+2024-05-27 22:41:04.232 +07:00 [INF] button1_Click
+2024-05-27 22:41:10.118 +07:00 [INF] button1_Click
+2024-05-27 22:41:15.322 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 22:41:21.240 +07:00 [INF] button1_Click
+2024-05-27 22:41:27.198 +07:00 [INF] btnExit_Click
+2024-05-27 22:41:52.206 +07:00 [INF] btnMaximize_Click
+2024-05-27 22:42:01.363 +07:00 [INF] button1_Click
+2024-05-27 22:42:14.317 +07:00 [INF] button1_Click
+2024-05-27 22:42:32.959 +07:00 [INF] button1_Click
+2024-05-27 22:42:34.873 +07:00 [INF] btnSimpan_Click
+2024-05-27 22:42:37.087 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 534
+2024-05-27 22:42:46.566 +07:00 [INF] button1_Click
+2024-05-27 22:45:38.577 +07:00 [INF] btnMaximize_Click
+2024-05-27 22:47:15.060 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 22:47:18.602 +07:00 [INF] button1_Click
+2024-05-27 22:47:27.326 +07:00 [INF] btnExit_Click
+2024-05-27 22:48:37.648 +07:00 [INF] btnMaximize_Click
+2024-05-27 22:48:50.349 +07:00 [INF] button1_Click
+2024-05-27 22:48:57.036 +07:00 [INF] button1_Click
+2024-05-27 22:49:01.443 +07:00 [INF] btnSimpan_ClickAsync
+2024-05-27 22:49:03.733 +07:00 [INF] button1_Click
+2024-05-27 22:49:08.878 +07:00 [INF] btnExit_Click
+2024-05-27 22:50:24.314 +07:00 [INF] btnMaximize_Click
+2024-05-27 22:50:35.190 +07:00 [INF] button1_Click
+2024-05-27 22:50:38.367 +07:00 [INF] btnExit_Click
+2024-05-27 22:51:48.005 +07:00 [INF] btnMaximize_Click
+2024-05-27 22:51:54.945 +07:00 [INF] button1_Click
+2024-05-27 22:52:01.692 +07:00 [INF] button1_Click
+2024-05-27 22:52:05.075 +07:00 [INF] button1_Click
+2024-05-27 22:52:19.094 +07:00 [INF] btnExit_Click
+2024-05-27 22:53:32.389 +07:00 [INF] btnMaximize_Click
+2024-05-27 22:53:38.617 +07:00 [INF] button1_Click
+2024-05-27 22:53:59.607 +07:00 [INF] button1_Click
+2024-05-27 22:54:29.457 +07:00 [INF] btnExit_Click

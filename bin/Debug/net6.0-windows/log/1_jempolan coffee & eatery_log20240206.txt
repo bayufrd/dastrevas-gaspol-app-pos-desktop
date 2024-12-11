@@ -1,0 +1,105 @@
+2024-02-06 00:06:19.749 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:10:37.737 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:14:22.282 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:17:58.315 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:21:50.194 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:21:54.561 +07:00 [INF] button1_Click
+2024-02-06 00:21:59.786 +07:00 [INF] button6_Click
+2024-02-06 00:22:02.644 +07:00 [INF] button1_Click
+2024-02-06 00:23:54.435 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:28:23.552 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:30:09.826 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:30:21.933 +07:00 [ERR] An error occurred: Value of '101' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'. (Parameter 'value')
+Actual value was 101.
+System.ArgumentOutOfRangeException: Value of '101' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'. (Parameter 'value')
+Actual value was 101.
+   at System.Windows.Forms.ProgressBar.set_Value(Int32 value)
+   at KASIR.Komponen.CacheDataApp.LoadCacheMenuItems() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\CacheDataApp.cs:line 88
+2024-02-06 00:31:06.684 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:31:21.775 +07:00 [ERR] An error occurred: Value of '101' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'. (Parameter 'value')
+Actual value was 101.
+System.ArgumentOutOfRangeException: Value of '101' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'. (Parameter 'value')
+Actual value was 101.
+   at System.Windows.Forms.ProgressBar.set_Value(Int32 value)
+   at KASIR.Komponen.CacheDataApp.LoadCacheMenuItems() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\CacheDataApp.cs:line 88
+2024-02-06 00:31:27.144 +07:00 [INF] btnExit_Click
+2024-02-06 00:36:09.016 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:36:44.903 +07:00 [ERR] An error occurred: Value of '101' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'. (Parameter 'value')
+Actual value was 101.
+System.ArgumentOutOfRangeException: Value of '101' is not valid for 'Value'. 'Value' should be between 'minimum' and 'maximum'. (Parameter 'value')
+Actual value was 101.
+   at System.Windows.Forms.ProgressBar.set_Value(Int32 value)
+   at KASIR.Komponen.CacheDataApp.LoadCacheMenuItems() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\CacheDataApp.cs:line 88
+2024-02-06 00:41:26.071 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:43:56.258 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:44:17.123 +07:00 [INF] btnExit_Click
+2024-02-06 00:44:47.269 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:45:24.289 +07:00 [INF] btnExit_Click
+2024-02-06 00:47:36.124 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:47:51.597 +07:00 [INF] btnMinimize_Click
+2024-02-06 00:52:15.988 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:52:31.263 +07:00 [INF] btnExit_Click
+2024-02-06 00:52:57.343 +07:00 [INF] btnMaximize_Click
+2024-02-06 00:55:01.601 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:02:12.518 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:02:29.031 +07:00 [INF] btnExit_Click
+2024-02-06 01:05:15.750 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:05:29.728 +07:00 [INF] btnMinimize_Click
+2024-02-06 01:06:15.454 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:06:39.501 +07:00 [INF] btnExit_Click
+2024-02-06 01:07:09.793 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:07:30.885 +07:00 [INF] btnExit_Click
+2024-02-06 01:09:13.976 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:09:18.490 +07:00 [INF] btnExit_Click
+2024-02-06 01:10:40.820 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:11:01.574 +07:00 [INF] btnExit_Click
+2024-02-06 01:12:10.654 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:13:30.557 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:14:38.684 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:15:43.043 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:16:04.549 +07:00 [INF] btnExit_Click
+2024-02-06 01:17:06.570 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:17:47.890 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:20:05.420 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 01:22:30.056 +07:00 [INF] btnExit_Click
+2024-02-06 01:41:57.683 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:44:09.352 +07:00 [INF] btnTambah_Click
+2024-02-06 01:44:09.509 +07:00 [INF] btnTambah_Click
+2024-02-06 01:44:09.647 +07:00 [INF] btnTambah_Click
+2024-02-06 01:44:09.850 +07:00 [INF] btnTambah_Click
+2024-02-06 01:44:11.172 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 01:44:41.230 +07:00 [INF] btnSimpan_Click
+2024-02-06 01:45:01.601 +07:00 [INF] btnExit_Click
+2024-02-06 01:45:55.501 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:46:01.122 +07:00 [INF] btnTambah_Click
+2024-02-06 01:46:01.264 +07:00 [INF] btnTambah_Click
+2024-02-06 01:46:01.484 +07:00 [INF] btnTambah_Click
+2024-02-06 01:46:02.563 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 01:47:28.094 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:48:12.613 +07:00 [INF] btnExit_Click
+2024-02-06 01:51:17.444 +07:00 [INF] btnMaximize_Click
+2024-02-06 01:51:32.047 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 01:51:35.123 +07:00 [INF] button1_Click
+2024-02-06 01:51:39.636 +07:00 [INF] button1_Click
+2024-02-06 01:51:58.012 +07:00 [INF] button1_Click
+2024-02-06 01:52:00.405 +07:00 [INF] btnReportShift_Click
+2024-02-06 01:52:37.744 +07:00 [INF] button6_Click
+2024-02-06 01:52:42.483 +07:00 [INF] button6_Click
+2024-02-06 01:53:28.027 +07:00 [INF] button6_Click
+2024-02-06 01:53:35.057 +07:00 [INF] button6_Click
+2024-02-06 01:53:42.694 +07:00 [INF] button6_Click
+2024-02-06 01:53:57.619 +07:00 [INF] button6_Click
+2024-02-06 01:54:20.975 +07:00 [INF] btnExit_Click
+2024-02-06 02:07:16.042 +07:00 [INF] btnMaximize_Click
+2024-02-06 02:07:22.115 +07:00 [INF] button6_Click
+2024-02-06 02:08:03.556 +07:00 [INF] btnExit_Click
+2024-02-06 09:46:00.396 +07:00 [INF] btnMaximize_Click
+2024-02-06 09:47:23.828 +07:00 [INF] button1_Click
+2024-02-06 09:47:25.622 +07:00 [INF] button6_Click
+2024-02-06 09:47:28.359 +07:00 [INF] btnExit_Click
+2024-02-06 10:41:20.365 +07:00 [INF] btnMaximize_Click
+2024-02-06 10:41:29.690 +07:00 [INF] button1_Click
+2024-02-06 10:41:31.540 +07:00 [INF] btnReportShift_Click
+2024-02-06 10:47:24.669 +07:00 [INF] btnReportShift_Click
+2024-02-06 10:48:08.538 +07:00 [INF] btnReportShift_Click
+2024-02-06 11:01:55.022 +07:00 [INF] btnExit_Click

@@ -1,0 +1,139 @@
+2024-09-28 04:12:36.954 +07:00 [WRN] Open Updater App Dastrevass
+2024-09-28 04:12:42.037 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:12:45.845 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:12:47.921 +07:00 [INF] button1_Click
+2024-09-28 04:12:49.586 +07:00 [INF] btnSimpan_Click
+2024-09-28 04:12:53.092 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceiptsAsync(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 1146
+2024-09-28 04:12:53.340 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceiptAsync(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 588
+2024-09-28 04:14:37.329 +07:00 [WRN] Open Updater App Dastrevass
+2024-09-28 04:14:41.610 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:14:44.498 +07:00 [INF] button1_Click
+2024-09-28 04:14:46.163 +07:00 [INF] btnSimpan_Click
+2024-09-28 04:14:50.467 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceiptsAsync(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 1133
+2024-09-28 04:15:07.773 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceiptAsync(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 588
+2024-09-28 04:15:10.615 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:15:35.296 +07:00 [INF] button1_Click
+2024-09-28 04:15:37.073 +07:00 [INF] btnSimpan_Click
+2024-09-28 04:22:12.139 +07:00 [WRN] Open Updater App Dastrevass
+2024-09-28 04:22:16.539 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:22:19.421 +07:00 [INF] button1_Click
+2024-09-28 04:22:21.588 +07:00 [INF] btnSimpan_Click
+2024-09-28 04:22:42.545 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:22:44.763 +07:00 [INF] button1_Click
+2024-09-28 04:22:46.224 +07:00 [INF] btnSimpan_Click
+2024-09-28 04:22:49.187 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceiptsAsync(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 1165
+2024-09-28 04:22:49.378 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass57_0.<<PrintPurchaseReceiptAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 620
+2024-09-28 04:24:59.078 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:25:06.221 +07:00 [INF] button1_Click
+2024-09-28 04:25:08.030 +07:00 [INF] btnSimpan_Click
+2024-09-28 04:26:29.694 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:26:34.102 +07:00 [INF] button1_Click
+2024-09-28 04:26:35.780 +07:00 [INF] btnSimpan_Click
+2024-09-28 04:33:17.854 +07:00 [WRN] Open Updater App Dastrevass
+2024-09-28 04:33:22.235 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:33:23.896 +07:00 [INF] button1_Click
+2024-09-28 04:33:25.573 +07:00 [INF] btnSimpan_Click
+2024-09-28 04:40:35.065 +07:00 [WRN] Open Updater App Dastrevass
+2024-09-28 04:40:39.896 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 04:40:42.336 +07:00 [INF] button1_Click
+2024-09-28 04:40:44.016 +07:00 [INF] btnSimpan_Click
+2024-09-28 21:27:07.305 +07:00 [WRN] Open Updater App Dastrevass
+2024-09-28 21:28:44.542 +07:00 [INF] btnSimpan_ClickAsync
+2024-09-28 21:28:46.592 +07:00 [INF] button1_Click
+2024-09-28 21:28:48.332 +07:00 [INF] btnSimpan_Click
+2024-09-28 21:28:54.447 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass60_0.<<PrintKitchenAndBarReceiptsAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 1031
+2024-09-28 21:28:54.668 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass60_0.<<PrintKitchenAndBarReceiptsAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 1031
+--- End of stack trace from previous location ---
+   at KASIR.komponen.payForm.RetryPolicyAsync(Func`1 printTask, Int32 maxAttempts, Int32 retryDelayMilliseconds) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 575
+2024-09-28 21:28:54.797 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass57_0.<<PrintPurchaseReceiptAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 639
+2024-09-28 21:28:54.961 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass57_0.<<PrintPurchaseReceiptAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 639
+--- End of stack trace from previous location ---
+   at KASIR.komponen.payForm.RetryPolicyAsync(Func`1 printTask, Int32 maxAttempts, Int32 retryDelayMilliseconds) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 575
+2024-09-28 21:28:56.846 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass60_0.<<PrintKitchenAndBarReceiptsAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 1031
+2024-09-28 21:28:57.016 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass60_0.<<PrintKitchenAndBarReceiptsAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 1031
+--- End of stack trace from previous location ---
+   at KASIR.komponen.payForm.RetryPolicyAsync(Func`1 printTask, Int32 maxAttempts, Int32 retryDelayMilliseconds) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 575
+2024-09-28 21:28:57.160 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass57_0.<<PrintPurchaseReceiptAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 639
+2024-09-28 21:28:57.340 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass57_0.<<PrintPurchaseReceiptAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 639
+--- End of stack trace from previous location ---
+   at KASIR.komponen.payForm.RetryPolicyAsync(Func`1 printTask, Int32 maxAttempts, Int32 retryDelayMilliseconds) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 575
+2024-09-28 21:28:59.192 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass60_0.<<PrintKitchenAndBarReceiptsAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 1031
+2024-09-28 21:28:59.351 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass60_0.<<PrintKitchenAndBarReceiptsAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 1031
+--- End of stack trace from previous location ---
+   at KASIR.komponen.payForm.RetryPolicyAsync(Func`1 printTask, Int32 maxAttempts, Int32 retryDelayMilliseconds) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 575
+2024-09-28 21:28:59.708 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass57_0.<<PrintPurchaseReceiptAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 639
+2024-09-28 21:28:59.973 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.<>c__DisplayClass57_0.<<PrintPurchaseReceiptAsync>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 639
+--- End of stack trace from previous location ---
+   at KASIR.komponen.payForm.RetryPolicyAsync(Func`1 printTask, Int32 maxAttempts, Int32 retryDelayMilliseconds) in C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 575

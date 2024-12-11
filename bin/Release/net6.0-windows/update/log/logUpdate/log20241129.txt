@@ -1,0 +1,154 @@
+2024-11-29 14:22:37.867 +07:00 [ERR] An error occurred: Could not find file 'C:\Users\Bayu Farid\Documents\GitHub\KASIRinstaller\update\Not Detect!'.
+System.Net.WebException: Could not find file 'C:\Users\Bayu Farid\Documents\GitHub\KASIRinstaller\update\Not Detect!'.
+ ---> System.Net.WebException: Could not find file 'C:\Users\Bayu Farid\Documents\GitHub\KASIRinstaller\update\Not Detect!'.
+ ---> System.IO.FileNotFoundException: Could not find file 'C:\Users\Bayu Farid\Documents\GitHub\KASIRinstaller\update\Not Detect!'.
+File name: 'C:\Users\Bayu Farid\Documents\GitHub\KASIRinstaller\update\Not Detect!'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, Boolean useAsync)
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean useAsync)
+   --- End of inner exception stack trace ---
+   at System.Net.FileWebResponse..ctor(FileWebRequest request, Uri uri, FileAccess access, Boolean useAsync)
+   at System.Net.FileWebRequest.CreateResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.FileWebRequest.CreateResponse()
+   at System.Net.FileWebRequest.<>c.<BeginGetResponse>b__59_0(Object s)
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.<>c.<.cctor>b__272_0(Object obj)
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunFromThreadPoolDispatchLoop(Thread threadPoolThread, ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.Tasks.Task.ExecuteWithThreadLocal(Task& currentTaskSlot, Thread threadPoolThread)
+--- End of stack trace from previous location ---
+   at System.Threading.Tasks.TaskToApm.End[TResult](IAsyncResult asyncResult)
+   at System.Net.FileWebRequest.EndGetResponse(IAsyncResult asyncResult)
+   at System.Net.FileWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream)
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at update.Form1.checkUpdate() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 228
+2024-11-29 14:33:51.882 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 198
+2024-11-29 14:33:51.976 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 198
+   at update.Form1.InitializeUpdater() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 39
+2024-11-29 20:13:24.999 +07:00 [ERR] An error occurred: No such host is known. (gaspollmanagementcenter.com:80)
+System.Net.WebException: No such host is known. (gaspollmanagementcenter.com:80)
+ ---> System.Net.Http.HttpRequestException: No such host is known. (gaspollmanagementcenter.com:80)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, ValueStopwatch stopwatch)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.HttpWebRequest.<>c__DisplayClass216_0.<<CreateHttpClient>b__1>d.MoveNext()
+--- End of stack trace from previous location ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellation(CancellationToken cancellationToken)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageInvoker.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream)
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadString(Uri address)
+   at System.Net.WebClient.DownloadString(String address)
+   at update.Form1.checkUpdate() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 224
+2024-11-29 20:13:25.100 +07:00 [WRN] Bad Connection: Failed to send data to Telegram, saved in log.
+2024-11-29 20:13:25.101 +07:00 [WRN] Bad Connection: Failed to send data to Telegram, saved in log.
+2024-11-29 20:13:25.104 +07:00 [WRN] Bad Connection: Failed to send data to Telegram, saved in log.
+2024-11-29 20:13:25.105 +07:00 [ERR] An error occurred: No such host is known. (raw.githubusercontent.com:443)
+System.Net.Http.HttpRequestException: No such host is known. (raw.githubusercontent.com:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at update.Form1.checkDownloadSize(String fileUrl) in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 106
+2024-11-29 20:13:25.122 +07:00 [WRN] Bad Connection: Failed to send data to Telegram, saved in log.
+2024-11-29 20:13:25.133 +07:00 [ERR] An error occurred: No such host is known. (raw.githubusercontent.com:443)
+System.Net.WebException: No such host is known. (raw.githubusercontent.com:443)
+ ---> System.Net.Http.HttpRequestException: No such host is known. (raw.githubusercontent.com:443)
+ ---> System.Net.Sockets.SocketException (11001): No such host is known.
+   at System.Net.Dns.GetHostEntryOrAddressesCore(String hostName, Boolean justAddresses, AddressFamily addressFamily, ValueStopwatch stopwatch)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress, AddressFamily family)
+   at System.Net.Dns.GetHostAddresses(String hostNameOrAddress)
+   at System.Net.Sockets.Socket.Connect(String host, Int32 port)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Net.HttpWebRequest.<>c__DisplayClass216_0.<<CreateHttpClient>b__1>d.MoveNext()
+--- End of stack trace from previous location ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellation(CancellationToken cancellationToken)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageHandlerStage.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.SocketsHttpHandler.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpMessageInvoker.Send(HttpRequestMessage request, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.Send(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationToken cancellationToken)
+   at System.Net.HttpWebRequest.SendRequest(Boolean async)
+   at System.Net.HttpWebRequest.GetResponse()
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetResponse()
+   at System.Net.WebClient.GetWebResponse(WebRequest request)
+   at System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream)
+   at System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   at System.Net.WebClient.DownloadData(Uri address)
+   at update.Form1.BackgroundWorkerDoWork(Object sender, DoWorkEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 283
+2024-11-29 20:13:25.141 +07:00 [WRN] Bad Connection: Failed to send data to Telegram, saved in log.
+2024-11-29 20:13:25.150 +07:00 [ERR] An error occurred: Could not find file 'C:\Users\Bayu Farid\Downloads\update.rar'.
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Bayu Farid\Downloads\update.rar'.
+File name: 'C:\Users\Bayu Farid\Downloads\update.rar'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileInfo.OpenRead()
+   at SharpCompress.Archives.ArchiveFactory.FindFactory[T](FileInfo finfo)
+   at SharpCompress.Archives.ArchiveFactory.Open(FileInfo fileInfo, ReaderOptions options)
+   at SharpCompress.Archives.ArchiveFactory.Open(String filePath, ReaderOptions options)
+   at update.Form1.ExtractAndUpdateFiles() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 0
+2024-11-29 20:13:25.187 +07:00 [WRN] Bad Connection: Failed to send data to Telegram, saved in log.
+2024-11-29 20:13:25.187 +07:00 [WRN] Bad Connection: Failed to send data to Telegram, saved in log.

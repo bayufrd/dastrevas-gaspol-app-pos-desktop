@@ -1,0 +1,1436 @@
+2024-02-06 09:53:17.910 +07:00 [INF] btnMaximize_Click
+2024-02-06 09:53:48.400 +07:00 [INF] button1_Click
+2024-02-06 09:53:49.896 +07:00 [INF] button6_Click
+2024-02-06 09:54:04.385 +07:00 [INF] btnTambah_Click
+2024-02-06 09:54:04.542 +07:00 [INF] btnTambah_Click
+2024-02-06 09:54:04.716 +07:00 [INF] btnTambah_Click
+2024-02-06 09:54:04.951 +07:00 [INF] btnTambah_Click
+2024-02-06 09:54:05.044 +07:00 [INF] btnTambah_Click
+2024-02-06 09:54:06.011 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 09:54:28.463 +07:00 [INF] btnSimpan_Click
+2024-02-06 09:54:34.322 +07:00 [INF] btnGet_Click
+2024-02-06 09:54:58.786 +07:00 [INF] button1_Click
+2024-02-06 09:55:01.749 +07:00 [INF] btnSimpan_Click
+2024-02-06 09:55:05.620 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 528
+2024-02-06 09:55:05.842 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 702
+2024-02-06 09:55:08.947 +07:00 [INF] button1_Click
+2024-02-06 09:55:36.437 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 09:56:06.617 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 09:56:12.974 +07:00 [INF] button6_Click
+2024-02-06 09:56:45.491 +07:00 [INF] btnTambah_Click
+2024-02-06 09:56:46.616 +07:00 [INF] btnTambah_Click
+2024-02-06 09:56:46.790 +07:00 [INF] btnTambah_Click
+2024-02-06 09:56:47.006 +07:00 [INF] btnTambah_Click
+2024-02-06 09:56:48.531 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 09:58:26.858 +07:00 [INF] button6_Click
+2024-02-06 10:00:04.427 +07:00 [INF] button1_Click
+2024-02-06 10:00:11.679 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 10:00:34.783 +07:00 [INF] button2_Click
+2024-02-06 10:00:36.835 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.refund.PrintPurchaseReceipt(DataRefundStruk datas, List`1 refundDetailStruks) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\refund.cs:line 452
+2024-02-06 10:00:55.733 +07:00 [INF] button6_Click
+2024-02-06 10:01:00.812 +07:00 [INF] button1_Click
+2024-02-06 10:01:02.852 +07:00 [INF] btnSimpan_Click
+2024-02-06 10:01:05.023 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 528
+2024-02-06 10:01:05.101 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 702
+2024-02-06 10:01:08.189 +07:00 [INF] button1_Click
+2024-02-06 10:01:17.479 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 10:01:41.556 +07:00 [INF] button2_Click
+2024-02-06 10:01:43.394 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.refund.PrintPurchaseReceipt(DataRefundStruk datas, List`1 refundDetailStruks) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\refund.cs:line 452
+2024-02-06 10:02:12.743 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 10:02:25.524 +07:00 [INF] button2_Click
+2024-02-06 10:02:31.360 +07:00 [INF] button2_Click
+2024-02-06 10:02:33.318 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.refund.PrintPurchaseReceipt(DataRefundStruk datas, List`1 refundDetailStruks) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\refund.cs:line 452
+2024-02-06 10:14:42.384 +07:00 [INF] btnMaximize_Click
+2024-02-06 10:14:46.583 +07:00 [INF] btnTambah_Click
+2024-02-06 10:14:46.732 +07:00 [INF] btnTambah_Click
+2024-02-06 10:14:46.958 +07:00 [INF] btnTambah_Click
+2024-02-06 10:14:48.095 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 10:14:52.838 +07:00 [INF] btnTambah_Click
+2024-02-06 10:14:53.004 +07:00 [INF] btnTambah_Click
+2024-02-06 10:14:53.156 +07:00 [INF] btnTambah_Click
+2024-02-06 10:14:54.057 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 10:14:57.877 +07:00 [INF] button1_Click
+2024-02-06 10:14:59.733 +07:00 [INF] btnSimpan_Click
+2024-02-06 10:15:02.251 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 528
+2024-02-06 10:15:02.500 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 702
+2024-02-06 10:15:04.616 +07:00 [INF] button1_Click
+2024-02-06 10:15:11.195 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 10:15:40.840 +07:00 [INF] button2_Click
+2024-02-06 10:15:44.162 +07:00 [INF] button2_Click
+2024-02-06 10:15:49.318 +07:00 [INF] button2_Click
+2024-02-06 10:15:50.757 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.refund.PrintPurchaseReceipt(DataRefundStruk datas, List`1 refundDetailStruks) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\refund.cs:line 457
+2024-02-06 10:16:17.477 +07:00 [INF] btnExit_Click
+2024-02-06 10:16:48.637 +07:00 [INF] btnMaximize_Click
+2024-02-06 10:16:53.012 +07:00 [INF] button1_Click
+2024-02-06 10:17:00.668 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 10:18:47.083 +07:00 [INF] button2_Click
+2024-02-06 10:18:53.257 +07:00 [INF] button2_Click
+2024-02-06 10:18:55.128 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.refund.PrintPurchaseReceipt(DataRefundStruk datas, List`1 refundDetailStruks) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\refund.cs:line 457
+2024-02-06 10:19:43.056 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-02-06 10:20:38.621 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-02-06 10:20:42.180 +07:00 [INF] btnReportShift_Click
+2024-02-06 10:20:45.994 +07:00 [INF] button6_Click
+2024-02-06 10:20:58.665 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 10:21:10.638 +07:00 [INF] button6_Click
+2024-02-06 10:21:33.945 +07:00 [INF] button6_Click
+2024-02-06 10:21:37.127 +07:00 [INF] button6_Click
+2024-02-06 10:21:40.935 +07:00 [INF] button1_Click
+2024-02-06 10:21:42.658 +07:00 [INF] btnSimpan_Click
+2024-02-06 10:21:44.095 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 528
+2024-02-06 10:21:44.174 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 702
+2024-02-06 10:21:49.607 +07:00 [INF] button1_Click
+2024-02-06 10:21:51.304 +07:00 [INF] button6_Click
+2024-02-06 10:22:01.071 +07:00 [INF] btnExit_Click
+2024-02-06 10:40:46.604 +07:00 [INF] btnMaximize_Click
+2024-02-06 10:40:54.967 +07:00 [INF] button1_Click
+2024-02-06 10:40:56.557 +07:00 [INF] btnReportShift_Click
+2024-02-06 10:41:01.757 +07:00 [INF] btnExit_Click
+2024-02-06 11:13:35.903 +07:00 [INF] btnMaximize_Click
+2024-02-06 11:13:41.234 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:42.492 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:42.786 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:43.040 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:43.816 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:43.983 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:44.135 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:44.296 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:44.440 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:45.238 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:45.398 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:45.558 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:45.722 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:45.876 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:46.100 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:46.770 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:46.930 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:47.780 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:47.930 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:48.090 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:48.250 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:48.426 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:48.586 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:49.504 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:49.685 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:49.854 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:50.038 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:50.206 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:51.003 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:51.180 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:51.340 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:51.507 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:51.681 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:51.841 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:52.069 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:52.768 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:52.936 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:53.101 +07:00 [INF] btnTambah_Click
+2024-02-06 11:13:53.931 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:54.108 +07:00 [INF] btnKurang_Click
+2024-02-06 11:13:54.334 +07:00 [INF] btnKurang_Click
+2024-02-06 11:14:20.429 +07:00 [INF] btnKurang_Click
+2024-02-06 11:14:21.348 +07:00 [INF] btnTambah_Click
+2024-02-06 11:14:21.507 +07:00 [INF] btnTambah_Click
+2024-02-06 11:14:21.674 +07:00 [INF] btnTambah_Click
+2024-02-06 11:14:21.833 +07:00 [INF] btnTambah_Click
+2024-02-06 11:14:22.053 +07:00 [INF] btnTambah_Click
+2024-02-06 11:14:22.736 +07:00 [INF] btnKurang_Click
+2024-02-06 11:14:22.902 +07:00 [INF] btnKurang_Click
+2024-02-06 11:14:23.062 +07:00 [INF] btnKurang_Click
+2024-02-06 11:14:23.222 +07:00 [INF] btnKurang_Click
+2024-02-06 11:14:23.397 +07:00 [INF] btnKurang_Click
+2024-02-06 11:14:23.615 +07:00 [INF] btnKurang_Click
+2024-02-06 11:14:34.226 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 11:14:42.802 +07:00 [INF] btnMinimize_Click
+2024-02-06 11:15:34.574 +07:00 [INF] button1_Click
+2024-02-06 11:15:37.199 +07:00 [INF] button6_Click
+2024-02-06 11:15:44.256 +07:00 [INF] btnMaximize_Click
+2024-02-06 11:17:59.942 +07:00 [INF] btnKurang_Click
+2024-02-06 11:18:01.177 +07:00 [INF] btnTambah_Click
+2024-02-06 11:18:02.741 +07:00 [INF] btnKurang_Click
+2024-02-06 11:18:02.891 +07:00 [INF] btnKurang_Click
+2024-02-06 11:18:03.059 +07:00 [INF] btnKurang_Click
+2024-02-06 11:18:03.219 +07:00 [INF] btnKurang_Click
+2024-02-06 11:18:03.841 +07:00 [INF] btnTambah_Click
+2024-02-06 11:18:03.999 +07:00 [INF] btnTambah_Click
+2024-02-06 11:18:04.151 +07:00 [INF] btnTambah_Click
+2024-02-06 11:18:04.303 +07:00 [INF] btnTambah_Click
+2024-02-06 11:18:04.447 +07:00 [INF] btnTambah_Click
+2024-02-06 11:18:05.213 +07:00 [INF] btnKurang_Click
+2024-02-06 11:18:05.357 +07:00 [INF] btnKurang_Click
+2024-02-06 11:18:05.515 +07:00 [INF] btnKurang_Click
+2024-02-06 11:18:05.725 +07:00 [INF] btnKurang_Click
+2024-02-06 11:18:06.678 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 11:18:09.851 +07:00 [ERR] An error occurred: Object cannot be cast from DBNull to other types.
+System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at KASIR.komponen.masterPos.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1725
+2024-02-06 11:18:10.708 +07:00 [ERR] An error occurred: Object cannot be cast from DBNull to other types.
+System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at KASIR.komponen.masterPos.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1725
+2024-02-06 11:19:10.692 +07:00 [ERR] An error occurred: Object cannot be cast from DBNull to other types.
+System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at KASIR.komponen.masterPos.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1725
+2024-02-06 11:19:16.427 +07:00 [INF] btnExit_Click
+2024-02-06 11:23:05.031 +07:00 [INF] btnMaximize_Click
+2024-02-06 11:23:15.449 +07:00 [INF] button6_Click
+2024-02-06 11:23:20.708 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:23:20.876 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:23:21.050 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:23:21.210 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:23:21.427 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:23:25.971 +07:00 [INF] btnSimpan_Click
+2024-02-06 11:23:31.068 +07:00 [INF] btnExit_Click
+2024-02-06 11:24:53.593 +07:00 [INF] btnMaximize_Click
+2024-02-06 11:25:19.499 +07:00 [INF] btnTambah_Click
+2024-02-06 11:25:19.712 +07:00 [INF] btnTambah_Click
+2024-02-06 11:25:20.054 +07:00 [INF] btnTambah_Click
+2024-02-06 11:25:20.271 +07:00 [INF] btnTambah_Click
+2024-02-06 11:25:21.516 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 11:25:26.244 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:27.175 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:27.397 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:28.142 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:28.300 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:28.468 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:28.618 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:28.835 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:29.610 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:29.792 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:29.958 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:30.118 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:30.340 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:30.749 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:31.602 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:31.782 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:31.958 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:32.124 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:32.902 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:33.068 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:33.261 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:33.418 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:33.584 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:34.448 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:34.608 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:34.766 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:34.916 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:35.066 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:35.242 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:35.400 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:36.194 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:36.368 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:36.574 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:36.756 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:36.946 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:37.168 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:37.352 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:37.540 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:37.756 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:37.945 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:38.128 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:39.246 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:39.420 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:39.610 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:39.784 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:39.952 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:40.190 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:40.406 +07:00 [INF] btnTambah_Click_1
+2024-02-06 11:25:40.992 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:41.142 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:41.318 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:41.484 +07:00 [INF] btnKurang_Click_1
+2024-02-06 11:25:47.902 +07:00 [INF] btnSimpan_Click
+2024-02-06 11:25:58.745 +07:00 [INF] button1_Click
+2024-02-06 11:26:08.974 +07:00 [INF] btnExit_Click
+2024-02-06 11:28:00.306 +07:00 [INF] btnMaximize_Click
+2024-02-06 11:28:05.311 +07:00 [INF] button2_Click
+2024-02-06 11:28:09.634 +07:00 [INF] button1_Click
+2024-02-06 11:28:11.330 +07:00 [INF] btnSimpan_Click
+2024-02-06 11:28:14.163 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 528
+2024-02-06 11:28:14.353 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 702
+2024-02-06 11:28:17.469 +07:00 [INF] button1_Click
+2024-02-06 11:28:28.038 +07:00 [INF] btnReportShift_Click
+2024-02-06 11:28:33.677 +07:00 [INF] btnReportShift_Click
+2024-02-06 11:28:37.412 +07:00 [INF] btnReportShift_Click
+2024-02-06 11:28:40.115 +07:00 [INF] btnReportShift_Click
+2024-02-06 11:28:46.188 +07:00 [INF] button2_Click
+2024-02-06 11:28:48.449 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 910
+2024-02-06 11:28:51.708 +07:00 [INF] btnReportShift_Click
+2024-02-06 11:29:02.539 +07:00 [INF] btnPrintUlang_Click
+2024-02-06 11:29:03.794 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1253
+2024-02-06 11:29:10.334 +07:00 [INF] btnReportShift_Click
+2024-02-06 11:29:14.098 +07:00 [INF] btnPrintUlang_Click
+2024-02-06 11:29:17.146 +07:00 [INF] btnPrintUlang_Click
+2024-02-06 11:29:18.349 +07:00 [INF] btnPrintUlang_Click
+2024-02-06 11:29:20.069 +07:00 [INF] btnPrintUlang_Click
+2024-02-06 11:29:20.179 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1253
+2024-02-06 11:29:20.170 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1253
+2024-02-06 11:29:20.179 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1253
+2024-02-06 11:29:25.612 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1253
+2024-02-06 11:29:44.647 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-02-06 11:29:49.115 +07:00 [INF] btnExit_Click
+2024-02-06 11:35:46.626 +07:00 [INF] btnMaximize_Click
+2024-02-06 11:36:01.756 +07:00 [INF] button1_Click
+2024-02-06 11:36:06.495 +07:00 [INF] btnReportShift_Click
+2024-02-06 11:36:10.181 +07:00 [INF] btnPrintUlang_Click
+2024-02-06 11:36:11.872 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftUlangReceipt(DataStrukShift dataShifts, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 1255
+2024-02-06 11:37:34.381 +07:00 [INF] btnExit_Click
+2024-02-06 14:05:01.256 +07:00 [INF] btnMaximize_Click
+2024-02-06 14:05:18.739 +07:00 [INF] btnTambah_Click
+2024-02-06 14:05:18.946 +07:00 [INF] btnTambah_Click
+2024-02-06 14:05:20.291 +07:00 [INF] btnTambah_Click
+2024-02-06 14:05:20.475 +07:00 [INF] btnTambah_Click
+2024-02-06 14:05:20.680 +07:00 [INF] btnTambah_Click
+2024-02-06 14:06:05.579 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 14:06:57.979 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 14:07:07.240 +07:00 [INF] btnTambah_Click_1
+2024-02-06 14:07:07.416 +07:00 [INF] btnTambah_Click_1
+2024-02-06 14:07:07.600 +07:00 [INF] btnTambah_Click_1
+2024-02-06 14:07:07.776 +07:00 [INF] btnTambah_Click_1
+2024-02-06 14:07:07.986 +07:00 [INF] btnTambah_Click_1
+2024-02-06 14:07:10.277 +07:00 [INF] btnSimpan_Click
+2024-02-06 14:07:11.573 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:11.902 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:11.964 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:13.086 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:13.133 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:13.188 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:13.333 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:13.445 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:13.483 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:13.605 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:13.693 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:13.730 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:15.100 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:15.157 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:16.005 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:16.043 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:16.262 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:16.308 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:16.528 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:16.565 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:16.787 +07:00 [INF] button6_Click
+2024-02-06 14:07:17.349 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:18.463 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:18.760 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:19.065 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:20.024 +07:00 [INF] button6_Click
+2024-02-06 14:07:20.570 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:21.561 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:21.815 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:22.076 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:22.582 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:23.474 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:23.761 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:23.967 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:24.015 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:24.819 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:25.067 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:25.310 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:26.438 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:26.790 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:26.943 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:26.998 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:27.210 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:27.423 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:27.557 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:27.686 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:27.758 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:27.813 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:27.853 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:27.946 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.064 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.103 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.143 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.200 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.313 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.350 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.388 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.593 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.638 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.678 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.834 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:28.927 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:29.001 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:29.171 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:29.257 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:29.310 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:29.486 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:29.526 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:30.237 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:30.379 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:30.611 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:30.673 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:30.953 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:31.016 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:32.032 +07:00 [INF] btnTambah_Click
+2024-02-06 14:07:32.191 +07:00 [INF] btnTambah_Click
+2024-02-06 14:07:32.407 +07:00 [INF] btnTambah_Click
+2024-02-06 14:07:33.397 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 14:07:34.689 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:35.667 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:35.939 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:36.247 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:36.466 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:37.129 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:37.239 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:37.333 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:37.452 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:37.983 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:37.993 +07:00 [INF] button1_Click
+2024-02-06 14:07:38.115 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.247 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.366 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.409 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.531 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.567 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.605 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.648 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.688 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.836 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.890 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:38.958 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:39.120 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:39.195 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:40.516 +07:00 [INF] button6_Click
+2024-02-06 14:07:41.044 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 464.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:42.276 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:42.583 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:42.949 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:46.019 +07:00 [INF] btnTambah_Click
+2024-02-06 14:07:46.171 +07:00 [INF] btnTambah_Click
+2024-02-06 14:07:46.355 +07:00 [INF] btnTambah_Click
+2024-02-06 14:07:47.292 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 14:07:48.608 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 466.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 466.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:07:49.890 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:50.185 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:07:50.471 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:08:05.582 +07:00 [ERR] An error occurred: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 466.
+Newtonsoft.Json.JsonReaderException: Input string '95056.5' is not a valid integer. Path 'data.cart_details[0].total_price', line 1, position 466.
+   at Newtonsoft.Json.JsonTextReader.ParseReadNumber(ReadType readType, Char firstChar, Int32 initialPosition)
+   at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.SetPropertyValue(JsonProperty property, JsonConverter propertyConverter, JsonContainerContract containerContract, JsonProperty containerProperty, JsonReader reader, Object target)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateObject(Object newObject, JsonReader reader, JsonObjectContract contract, JsonProperty member, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateObject(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1458
+2024-02-06 14:08:06.591 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:08:06.836 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:08:07.084 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-02-06 14:08:09.051 +07:00 [INF] btnExit_Click
+2024-02-06 14:09:07.351 +07:00 [INF] btnMaximize_Click
+2024-02-06 14:09:16.763 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:16.920 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:17.128 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:18.040 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 14:09:23.353 +07:00 [INF] btnTambah_Click_1
+2024-02-06 14:09:23.520 +07:00 [INF] btnTambah_Click_1
+2024-02-06 14:09:23.670 +07:00 [INF] btnTambah_Click_1
+2024-02-06 14:09:23.877 +07:00 [INF] btnTambah_Click_1
+2024-02-06 14:09:25.104 +07:00 [INF] btnSimpan_Click
+2024-02-06 14:09:53.190 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:53.358 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:53.524 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:53.693 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:53.844 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:54.004 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:54.164 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:54.325 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:54.477 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:54.612 +07:00 [INF] btnTambah_Click
+2024-02-06 14:09:58.747 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 14:10:18.947 +07:00 [INF] button6_Click
+2024-02-06 14:10:25.187 +07:00 [ERR] An error occurred: Object cannot be cast from DBNull to other types.
+System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at KASIR.komponen.masterPos.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1725
+2024-02-06 14:10:37.074 +07:00 [INF] button6_Click
+2024-02-06 14:10:45.320 +07:00 [INF] button6_Click
+2024-02-06 14:11:09.216 +07:00 [INF] btnSimpan_Click
+2024-02-06 14:11:15.248 +07:00 [ERR] An error occurred: Object cannot be cast from DBNull to other types.
+System.InvalidCastException: Object cannot be cast from DBNull to other types.
+   at System.DBNull.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ToInt32(Object value)
+   at KASIR.komponen.masterPos.dataGridView1_CellContentClick(Object sender, DataGridViewCellEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1725
+2024-02-06 14:11:19.996 +07:00 [INF] btnSimpan_Click
+2024-02-06 14:12:02.157 +07:00 [INF] button1_Click
+2024-02-06 14:12:07.439 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-02-06 14:12:18.743 +07:00 [INF] btnReportShift_Click
+2024-02-06 14:13:25.139 +07:00 [INF] button6_Click
+2024-02-06 14:13:31.163 +07:00 [INF] btnGet_Click
+2024-02-06 14:13:41.963 +07:00 [INF] button1_Click
+2024-02-06 14:13:44.553 +07:00 [INF] btnSimpan_Click
+2024-02-06 14:13:47.185 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 528
+2024-02-06 14:13:47.314 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 702
+2024-02-06 14:13:50.407 +07:00 [INF] button1_Click
+2024-02-06 14:14:11.370 +07:00 [INF] btnExit_Click
+2024-02-06 14:23:34.337 +07:00 [INF] btnMaximize_Click
+2024-02-06 14:24:58.451 +07:00 [INF] button1_Click
+2024-02-06 14:25:09.967 +07:00 [INF] btnExit_Click
+2024-02-06 14:25:55.197 +07:00 [INF] btnMaximize_Click
+2024-02-06 14:25:57.472 +07:00 [INF] button1_Click
+2024-02-06 14:26:07.320 +07:00 [INF] btnExit_Click
+2024-02-06 14:28:02.506 +07:00 [INF] btnMaximize_Click
+2024-02-06 14:28:05.349 +07:00 [INF] button1_Click
+2024-02-06 14:28:21.894 +07:00 [INF] btnExit_Click
+2024-02-06 14:29:03.383 +07:00 [INF] btnMaximize_Click
+2024-02-06 14:29:05.638 +07:00 [INF] button1_Click
+2024-02-06 14:29:11.405 +07:00 [INF] btnExit_Click
+2024-02-06 14:29:30.581 +07:00 [INF] btnMaximize_Click
+2024-02-06 14:29:32.870 +07:00 [INF] button1_Click
+2024-02-06 14:29:41.494 +07:00 [INF] btnExit_Click
+2024-02-06 14:31:35.302 +07:00 [INF] btnMaximize_Click
+2024-02-06 14:31:36.919 +07:00 [INF] button1_Click
+2024-02-06 14:32:56.331 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 14:33:08.649 +07:00 [INF] button2_Click
+2024-02-06 14:33:10.586 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.refund.PrintPurchaseReceipt(DataRefundStruk datas, List`1 refundDetailStruks) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\refund.cs:line 457
+2024-02-06 14:33:50.478 +07:00 [INF] button6_Click
+2024-02-06 14:34:16.698 +07:00 [INF] button1_Click
+2024-02-06 14:34:40.015 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 14:34:57.868 +07:00 [INF] button2_Click
+2024-02-06 14:35:02.789 +07:00 [INF] button2_Click
+2024-02-06 14:35:04.525 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.refund.PrintPurchaseReceipt(DataRefundStruk datas, List`1 refundDetailStruks) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\refund.cs:line 457
+2024-02-06 14:37:00.770 +07:00 [INF] btnReportShift_Click
+2024-02-06 14:37:09.173 +07:00 [INF] button6_Click
+2024-02-06 14:37:10.669 +07:00 [INF] button1_Click
+2024-02-06 14:37:17.259 +07:00 [INF] btnReportShift_Click
+2024-02-06 14:37:41.721 +07:00 [INF] btnExit_Click
+2024-02-06 14:54:35.824 +07:00 [INF] btnMaximize_Click
+2024-02-06 14:57:08.072 +07:00 [INF] button1_Click
+2024-02-06 14:57:34.600 +07:00 [INF] button6_Click
+2024-02-06 14:57:36.056 +07:00 [INF] button3_Click
+2024-02-06 16:28:06.766 +07:00 [INF] btnTambah_Click
+2024-02-06 16:28:06.975 +07:00 [INF] btnTambah_Click
+2024-02-06 16:28:08.417 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 16:28:13.506 +07:00 [INF] btnKurang_Click
+2024-02-06 16:28:13.655 +07:00 [INF] btnKurang_Click
+2024-02-06 16:28:31.204 +07:00 [INF] listBill_Click
+2024-02-06 16:28:43.094 +07:00 [INF] btnTambah_Click_1
+2024-02-06 16:28:45.547 +07:00 [INF] btnKurang_Click_1
+2024-02-06 16:28:47.237 +07:00 [INF] btnSimpan_Click
+2024-02-06 16:29:01.908 +07:00 [INF] button2_Click
+2024-02-06 16:33:47.073 +07:00 [INF] button2_Click
+2024-02-06 16:33:48.690 +07:00 [INF] btnSimpan_Click
+2024-02-06 16:33:50.133 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.saveBill.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails, List`1 canceledItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\saveBill.cs:line 235
+2024-02-06 16:33:50.301 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.saveBill.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\saveBill.cs:line 401
+2024-02-06 17:01:47.959 +07:00 [INF] button6_Click
+2024-02-06 17:01:50.064 +07:00 [INF] button1_Click
+2024-02-06 17:01:51.205 +07:00 [INF] button6_Click
+2024-02-06 17:02:01.402 +07:00 [INF] button1_Click
+2024-02-06 17:02:02.606 +07:00 [INF] button6_Click
+2024-02-06 17:02:41.256 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 17:03:04.296 +07:00 [INF] btnKurang_Click_1
+2024-02-06 17:03:05.745 +07:00 [INF] btnKurang_Click_1
+2024-02-06 17:03:05.952 +07:00 [INF] btnKurang_Click_1
+2024-02-06 17:03:06.361 +07:00 [INF] btnKurang_Click_1
+2024-02-06 17:03:07.513 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:07.718 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:08.807 +07:00 [INF] btnKurang_Click_1
+2024-02-06 17:03:08.991 +07:00 [INF] btnKurang_Click_1
+2024-02-06 17:03:09.184 +07:00 [INF] btnKurang_Click_1
+2024-02-06 17:03:09.367 +07:00 [INF] btnKurang_Click_1
+2024-02-06 17:03:10.237 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:10.437 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:10.632 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:10.813 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:11.007 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:11.197 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:11.399 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:11.608 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:11.998 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:03:12.640 +07:00 [INF] btnTambah_Click_1
+2024-02-06 17:05:03.282 +07:00 [INF] button1_Click
+2024-02-06 17:05:04.877 +07:00 [INF] button6_Click
+2024-02-06 17:05:06.973 +07:00 [INF] button1_Click
+2024-02-06 17:05:10.518 +07:00 [INF] btnSimpan_Click
+2024-02-06 17:05:11.744 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 528
+2024-02-06 17:05:11.819 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 702
+2024-02-06 17:05:19.813 +07:00 [INF] button1_Click
+2024-02-06 17:05:27.446 +07:00 [INF] btnKonfirmasi_Click
+2024-02-06 17:05:50.303 +07:00 [INF] button6_Click
+2024-02-06 17:05:57.247 +07:00 [INF] btnTambah_Click
+2024-02-06 17:05:57.415 +07:00 [INF] btnTambah_Click
+2024-02-06 17:05:57.575 +07:00 [INF] btnTambah_Click
+2024-02-06 17:05:57.727 +07:00 [INF] btnTambah_Click
+2024-02-06 17:05:57.895 +07:00 [INF] btnTambah_Click
+2024-02-06 17:05:58.100 +07:00 [INF] btnTambah_Click
+2024-02-06 17:05:59.741 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-06 17:06:01.507 +07:00 [INF] iconButton4_Click
+2024-02-06 17:06:15.888 +07:00 [INF] button3_Click
+2024-02-06 17:06:19.022 +07:00 [INF] button3_Click
+2024-02-06 17:06:25.617 +07:00 [INF] button2_Click
+2024-02-06 17:06:40.591 +07:00 [INF] button6_Click
+2024-02-06 17:07:06.359 +07:00 [INF] button6_Click
+2024-02-06 17:10:29.822 +07:00 [INF] btnGet_Click
+2024-02-06 17:11:10.562 +07:00 [INF] btnMaximize_Click
+2024-02-06 17:11:12.801 +07:00 [INF] button1_Click
+2024-02-06 17:11:13.951 +07:00 [INF] button6_Click
+2024-02-06 17:11:15.309 +07:00 [INF] button1_Click
+2024-02-06 17:11:19.609 +07:00 [INF] btnExit_Click
+2024-02-06 17:20:22.937 +07:00 [INF] btnMaximize_Click
+2024-02-06 17:20:44.094 +07:00 [INF] btnExit_Click
+2024-02-06 17:25:01.727 +07:00 [INF] btnMaximize_Click
+2024-02-06 17:25:07.161 +07:00 [INF] button6_Click
+2024-02-06 17:25:09.269 +07:00 [INF] button1_Click
+2024-02-06 17:25:10.442 +07:00 [INF] button6_Click
+2024-02-06 17:25:11.463 +07:00 [INF] button1_Click
+2024-02-06 17:25:12.364 +07:00 [INF] button6_Click
+2024-02-06 17:25:12.746 +07:00 [INF] button6_Click
+2024-02-06 17:25:13.956 +07:00 [INF] button1_Click
+2024-02-06 17:25:14.868 +07:00 [INF] button6_Click
+2024-02-06 17:25:18.365 +07:00 [INF] btnExit_Click
+2024-02-06 17:26:07.768 +07:00 [INF] btnMaximize_Click
+2024-02-06 17:26:10.363 +07:00 [INF] button6_Click
+2024-02-06 17:26:11.393 +07:00 [INF] button1_Click
+2024-02-06 17:26:12.798 +07:00 [INF] button6_Click
+2024-02-06 17:26:13.822 +07:00 [INF] button1_Click
+2024-02-06 17:26:14.723 +07:00 [INF] button6_Click
+2024-02-06 17:26:15.679 +07:00 [INF] button1_Click
+2024-02-06 17:26:16.657 +07:00 [INF] button6_Click
+2024-02-06 17:26:18.330 +07:00 [INF] button1_Click
+2024-02-06 17:26:19.395 +07:00 [INF] button6_Click
+2024-02-06 17:26:20.313 +07:00 [INF] button1_Click
+2024-02-06 17:26:35.339 +07:00 [INF] button6_Click
+2024-02-06 17:26:36.254 +07:00 [INF] button1_Click
+2024-02-06 17:26:37.182 +07:00 [INF] button6_Click
+2024-02-06 17:26:38.188 +07:00 [INF] button1_Click
+2024-02-06 17:26:39.235 +07:00 [INF] button6_Click
+2024-02-06 17:26:40.634 +07:00 [INF] button1_Click
+2024-02-06 17:26:42.089 +07:00 [INF] button6_Click
+2024-02-06 17:26:43.539 +07:00 [INF] button1_Click
+2024-02-06 17:26:44.746 +07:00 [INF] button6_Click
+2024-02-06 17:26:45.718 +07:00 [INF] button1_Click
+2024-02-06 17:26:46.931 +07:00 [INF] button6_Click
+2024-02-06 17:26:47.969 +07:00 [INF] button1_Click
+2024-02-06 17:26:48.883 +07:00 [INF] button6_Click
+2024-02-06 17:26:49.860 +07:00 [INF] button1_Click
+2024-02-06 17:26:50.915 +07:00 [INF] button6_Click
+2024-02-06 17:26:51.914 +07:00 [INF] button1_Click
+2024-02-06 17:26:53.846 +07:00 [INF] button6_Click
+2024-02-06 17:26:55.184 +07:00 [INF] button1_Click
+2024-02-06 17:26:56.126 +07:00 [INF] button6_Click
+2024-02-06 17:26:57.493 +07:00 [INF] button1_Click
+2024-02-06 17:26:58.525 +07:00 [INF] button6_Click
+2024-02-06 17:26:59.656 +07:00 [INF] button1_Click
+2024-02-06 17:27:00.672 +07:00 [INF] button6_Click
+2024-02-06 17:27:01.968 +07:00 [INF] button1_Click
+2024-02-06 17:27:04.400 +07:00 [INF] button6_Click
+2024-02-06 17:27:05.750 +07:00 [INF] button1_Click
+2024-02-06 17:27:06.905 +07:00 [INF] button6_Click
+2024-02-06 17:27:09.294 +07:00 [INF] button1_Click
+2024-02-06 17:27:12.409 +07:00 [INF] btnReportShift_Click
+2024-02-06 17:27:28.131 +07:00 [INF] button6_Click
+2024-02-06 17:27:34.657 +07:00 [INF] link_Click
+2024-02-06 17:28:00.260 +07:00 [INF] button1_Click
+2024-02-06 17:28:03.178 +07:00 [INF] button6_Click
+2024-02-06 17:28:09.439 +07:00 [INF] button6_Click
+2024-02-06 17:28:10.780 +07:00 [INF] button1_Click
+2024-02-06 17:28:12.187 +07:00 [INF] button6_Click
+2024-02-06 17:28:13.742 +07:00 [INF] button1_Click
+2024-02-06 17:28:19.765 +07:00 [INF] button1_Click
+2024-02-06 17:28:22.907 +07:00 [INF] button1_Click
+2024-02-06 17:28:24.477 +07:00 [INF] button6_Click
+2024-02-06 17:28:25.954 +07:00 [INF] button1_Click
+2024-02-06 17:28:27.313 +07:00 [INF] button6_Click
+2024-02-06 17:28:29.036 +07:00 [INF] button6_Click
+2024-02-06 17:28:42.473 +07:00 [INF] listBill_Click
+2024-02-06 17:29:00.619 +07:00 [INF] listBill_Click
+2024-02-06 17:29:03.486 +07:00 [INF] button6_Click
+2024-02-06 17:29:07.682 +07:00 [INF] button6_Click
+2024-02-06 17:29:08.847 +07:00 [INF] button6_Click
+2024-02-06 17:29:22.212 +07:00 [INF] btnExit_Click

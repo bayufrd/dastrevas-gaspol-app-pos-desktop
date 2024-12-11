@@ -1,0 +1,203 @@
+2024-01-16 10:41:39.486 +07:00 [INF] btnMaximize_Click
+2024-01-16 10:41:41.172 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:41:42.265 +07:00 [INF] button1_Click
+2024-01-16 10:41:42.639 +07:00 [INF] button6_Click
+2024-01-16 10:41:42.878 +07:00 [INF] button6_Click
+2024-01-16 10:41:43.151 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:41:43.160 +07:00 [INF] button1_Click
+2024-01-16 10:41:43.424 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:41:43.432 +07:00 [INF] button6_Click
+2024-01-16 10:41:43.612 +07:00 [INF] button1_Click
+2024-01-16 10:41:43.780 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:41:44.026 +07:00 [INF] button1_Click
+2024-01-16 10:41:44.269 +07:00 [INF] button6_Click
+2024-01-16 10:41:44.468 +07:00 [INF] button1_Click
+2024-01-16 10:41:44.620 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:41:44.881 +07:00 [INF] button1_Click
+2024-01-16 10:41:45.124 +07:00 [INF] button6_Click
+2024-01-16 10:41:45.401 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:41:45.409 +07:00 [INF] button1_Click
+2024-01-16 10:41:45.580 +07:00 [INF] button6_Click
+2024-01-16 10:41:45.812 +07:00 [INF] button1_Click
+2024-01-16 10:41:45.928 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:23.053 +07:00 [INF] button6_Click
+2024-01-16 10:44:23.352 +07:00 [INF] button1_Click
+2024-01-16 10:44:23.470 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:23.525 +07:00 [INF] button6_Click
+2024-01-16 10:44:23.802 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:23.979 +07:00 [INF] button6_Click
+2024-01-16 10:44:24.191 +07:00 [INF] button1_Click
+2024-01-16 10:44:24.329 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:24.429 +07:00 [INF] button6_Click
+2024-01-16 10:44:24.748 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:24.765 +07:00 [INF] button1_Click
+2024-01-16 10:44:24.973 +07:00 [INF] button6_Click
+2024-01-16 10:44:25.236 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:25.243 +07:00 [INF] button1_Click
+2024-01-16 10:44:25.444 +07:00 [INF] button6_Click
+2024-01-16 10:44:25.693 +07:00 [INF] button1_Click
+2024-01-16 10:44:25.836 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:25.957 +07:00 [INF] button6_Click
+2024-01-16 10:44:26.230 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:26.237 +07:00 [INF] button1_Click
+2024-01-16 10:44:26.445 +07:00 [INF] button6_Click
+2024-01-16 10:44:26.685 +07:00 [INF] button1_Click
+2024-01-16 10:44:26.837 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:31.174 +07:00 [INF] button6_Click
+2024-01-16 10:44:31.438 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:31.449 +07:00 [INF] button1_Click
+2024-01-16 10:44:31.717 +07:00 [INF] button6_Click
+2024-01-16 10:44:31.985 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:31.991 +07:00 [INF] button1_Click
+2024-01-16 10:44:32.280 +07:00 [INF] button6_Click
+2024-01-16 10:44:32.549 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:32.557 +07:00 [INF] button1_Click
+2024-01-16 10:44:32.863 +07:00 [INF] button6_Click
+2024-01-16 10:44:33.125 +07:00 [INF] button1_Click
+2024-01-16 10:44:33.303 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:33.398 +07:00 [INF] button6_Click
+2024-01-16 10:44:33.669 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:33.678 +07:00 [INF] button1_Click
+2024-01-16 10:44:33.919 +07:00 [INF] button6_Click
+2024-01-16 10:44:34.187 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:34.195 +07:00 [INF] button1_Click
+2024-01-16 10:44:34.495 +07:00 [INF] button6_Click
+2024-01-16 10:44:34.733 +07:00 [INF] button1_Click
+2024-01-16 10:44:34.920 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:35.016 +07:00 [INF] button6_Click
+2024-01-16 10:44:35.244 +07:00 [INF] button1_Click
+2024-01-16 10:44:35.439 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:35.527 +07:00 [INF] button6_Click
+2024-01-16 10:44:35.799 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:35.822 +07:00 [INF] button1_Click
+2024-01-16 10:44:36.110 +07:00 [INF] button6_Click
+2024-01-16 10:44:36.373 +07:00 [INF] button1_Click
+2024-01-16 10:44:36.582 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:36.702 +07:00 [INF] button6_Click
+2024-01-16 10:44:36.976 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:44:36.983 +07:00 [INF] button1_Click
+2024-01-16 10:46:15.488 +07:00 [INF] button6_Click
+2024-01-16 10:46:15.755 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:46:15.763 +07:00 [INF] button1_Click
+2024-01-16 10:46:16.654 +07:00 [INF] button6_Click
+2024-01-16 10:46:16.894 +07:00 [INF] button1_Click
+2024-01-16 10:46:17.119 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:46:21.347 +07:00 [INF] button6_Click
+2024-01-16 10:46:21.989 +07:00 [ERR] An error occurred: Response status code does not indicate success: 404 (Not Found).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 404 (Not Found).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.Get(String url) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 684
+2024-01-16 10:47:40.434 +07:00 [INF] btnExit_Click

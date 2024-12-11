@@ -1,0 +1,61 @@
+2024-06-06 01:09:32.595 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 01:13:28.558 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 01:30:23.328 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 01:31:47.543 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 02:04:31.570 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 02:05:42.688 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 02:12:11.532 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-06 02:12:19.053 +07:00 [INF] button1_Click
+2024-06-06 02:12:25.171 +07:00 [INF] btnSimpan_Click
+2024-06-06 02:12:37.883 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 753
+2024-06-06 02:37:27.956 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 02:39:47.703 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 02:40:07.291 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-06-06 02:40:15.251 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-06-06 02:40:17.961 +07:00 [INF] btnReportShift_Click
+2024-06-06 02:42:11.902 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-06 02:42:48.765 +07:00 [INF] listBill_Click
+2024-06-06 02:47:30.092 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 02:47:38.749 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-06 02:47:42.592 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-06 02:54:12.645 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 02:54:17.340 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-06 02:54:23.503 +07:00 [INF] iconButton4_Click
+2024-06-06 02:54:28.269 +07:00 [INF] btnSimpanSplit_ClickAsync
+2024-06-06 02:54:30.739 +07:00 [INF] button1_Click
+2024-06-06 02:54:32.519 +07:00 [INF] btnSimpan_Click
+2024-06-06 02:54:43.043 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 753
+2024-06-06 03:00:08.752 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 03:00:13.791 +07:00 [INF] iconButton4_Click
+2024-06-06 03:00:17.229 +07:00 [INF] btnSimpanSplit_ClickAsync
+2024-06-06 03:00:20.136 +07:00 [INF] button1_Click
+2024-06-06 03:00:21.950 +07:00 [INF] btnSimpan_Click
+2024-06-06 03:00:32.451 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 753
+2024-06-06 03:01:33.082 +07:00 [INF] button1_Click
+2024-06-06 03:01:35.106 +07:00 [INF] btnSimpan_Click
+2024-06-06 03:02:01.090 +07:00 [INF] btnTambah_Click
+2024-06-06 03:02:01.249 +07:00 [INF] btnTambah_Click
+2024-06-06 03:02:01.459 +07:00 [INF] btnTambah_Click
+2024-06-06 03:02:02.679 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-06 03:02:16.269 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-06 03:04:21.817 +07:00 [INF] listBill_Click
+2024-06-06 03:07:09.103 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-06 03:08:54.020 +07:00 [INF] button1_Click
+2024-06-06 03:08:55.753 +07:00 [INF] btnSimpan_Click
+2024-06-06 03:10:01.118 +07:00 [INF] button3_Click
+2024-06-06 03:10:08.970 +07:00 [INF] button3_Click

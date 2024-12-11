@@ -1,0 +1,8 @@
+2024-02-12 22:49:55.041 +07:00 [INF] btnMaximize_Click
+2024-02-12 22:50:30.324 +07:00 [INF] button6_Click
+2024-02-12 22:50:33.617 +07:00 [INF] button1_Click
+2024-02-12 22:50:34.885 +07:00 [INF] button6_Click
+2024-02-12 22:52:34.540 +07:00 [INF] button1_Click
+2024-02-12 22:52:37.051 +07:00 [INF] btnReportShift_Click
+2024-02-12 22:53:15.495 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-02-12 22:55:10.176 +07:00 [INF] btnExit_Click

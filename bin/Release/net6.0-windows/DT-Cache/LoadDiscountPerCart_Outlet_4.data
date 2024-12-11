@@ -1,0 +1,1 @@
+{"data":[{"id":6,"code":"meriah","is_percent":1,"is_discount_cart":1,"value":20,"start_date":"2024-01-16T05:00:00Z","end_date":"2026-01-15T05:00:00Z","min_purchase":100000,"max_discount":90000000},{"id":8,"code":"lahapaya","is_percent":0,"is_discount_cart":1,"value":10000,"start_date":"2024-01-09T05:00:00Z","end_date":"2026-01-22T05:00:00Z","min_purchase":0,"max_discount":null}]}

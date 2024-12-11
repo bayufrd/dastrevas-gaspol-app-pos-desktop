@@ -1,0 +1,4 @@
+2/2/2024 11:05:37 PM - Start extracting 'C:\Users\Bayu Farid\Downloads\update.rar' to 'C:\Users\Bayu Farid\Documents\GitHub\KASIRinstaller'
+2/2/2024 11:05:37 PM - Error during extraction: Operation did not complete successfully because the file contains a virus or potentially unwanted software. : 'C:\Users\Bayu Farid\Downloads\update.rar'
+2/3/2024 12:31:54 PM - Start extracting 'C:\Users\Bayu Farid\Downloads\update.rar' to 'C:\Users\Bayu Farid\Documents\GitHub\KASIRinstaller'
+2/3/2024 12:31:54 PM - Extraction successful. Files are in 'C:\Users\Bayu Farid\Documents\GitHub\KASIRinstaller'.

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Properties\PublishProfiles\Without Net.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\blur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\BlurredBackgroundForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\buyerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\CacheDataApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\Check For Update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\create.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Komponen\create1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\DownloadProgress.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\inputPin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\KembalianForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\refund.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\saveBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\payForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\CustomRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Komponen\dataBill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\masterMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Komponen\dtlPesanan.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Komponen\dtlPesanan1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\masterPos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\SettingsApp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Komponen\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\successTransaction.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Komponen\update.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\update1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Komponen\updateCartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\UpdateInformation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Komponen\widget.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Model\AutoSizeLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Model\GradationPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Model\MenuUserControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Model\RoundedPictureBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Model\RoundedButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Model\SButtonby.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Model\SerializablePanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

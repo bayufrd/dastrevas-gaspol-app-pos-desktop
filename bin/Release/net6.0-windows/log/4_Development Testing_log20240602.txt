@@ -1,0 +1,360 @@
+2024-06-02 00:00:28.129 +07:00 [INF] button1_Click
+2024-06-02 00:00:29.556 +07:00 [INF] button6_Click
+2024-06-02 00:00:30.974 +07:00 [INF] button1_Click
+2024-06-02 00:00:32.093 +07:00 [INF] button6_Click
+2024-06-02 00:00:33.449 +07:00 [INF] button1_Click
+2024-06-02 00:00:34.601 +07:00 [INF] button6_Click
+2024-06-02 00:06:16.230 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 00:06:54.479 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 386
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 00:06:59.043 +07:00 [INF] button1_Click
+2024-06-02 00:07:00.577 +07:00 [INF] button6_Click
+2024-06-02 00:07:05.649 +07:00 [INF] button1_Click
+2024-06-02 00:07:06.720 +07:00 [INF] button6_Click
+2024-06-02 00:32:11.120 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 00:32:18.841 +07:00 [INF] button1_Click
+2024-06-02 00:32:21.066 +07:00 [INF] button6_Click
+2024-06-02 00:32:22.627 +07:00 [INF] button6_Click
+2024-06-02 00:32:23.564 +07:00 [INF] button6_Click
+2024-06-02 00:32:24.112 +07:00 [INF] button6_Click
+2024-06-02 00:32:25.000 +07:00 [INF] button6_Click
+2024-06-02 00:32:26.056 +07:00 [INF] button6_Click
+2024-06-02 00:32:27.243 +07:00 [INF] button1_Click
+2024-06-02 00:32:29.260 +07:00 [INF] button6_Click
+2024-06-02 00:32:30.918 +07:00 [INF] button1_Click
+2024-06-02 00:32:31.956 +07:00 [INF] button6_Click
+2024-06-02 00:32:34.018 +07:00 [INF] button6_Click
+2024-06-02 00:32:36.076 +07:00 [INF] button1_Click
+2024-06-02 00:33:01.775 +07:00 [INF] button6_Click
+2024-06-02 01:46:53.138 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 01:47:01.773 +07:00 [INF] btnTambah_Click
+2024-06-02 01:47:01.916 +07:00 [INF] btnTambah_Click
+2024-06-02 01:47:04.012 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-02 01:47:07.535 +07:00 [INF] btnTambah_Click
+2024-06-02 01:47:07.779 +07:00 [INF] btnTambah_Click
+2024-06-02 01:47:07.839 +07:00 [INF] btnTambah_Click
+2024-06-02 01:47:09.108 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-02 01:47:17.051 +07:00 [INF] button1_Click
+2024-06-02 01:53:31.896 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 01:53:35.027 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 01:53:43.849 +07:00 [INF] button1_Click
+2024-06-02 01:53:46.311 +07:00 [INF] button6_Click
+2024-06-02 01:53:49.389 +07:00 [INF] button1_Click
+2024-06-02 02:18:16.525 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 02:18:26.899 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 02:19:05.293 +07:00 [INF] button1_Click
+2024-06-02 02:20:25.081 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 02:20:28.290 +07:00 [INF] button1_Click
+2024-06-02 02:21:07.700 +07:00 [INF] button1_Click
+2024-06-02 02:27:19.396 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 02:27:21.629 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 02:27:26.472 +07:00 [INF] button1_Click
+2024-06-02 02:34:18.172 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 02:34:24.429 +07:00 [INF] button1_Click
+2024-06-02 02:40:07.385 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 02:40:13.319 +07:00 [INF] button1_Click
+2024-06-02 02:44:40.823 +07:00 [INF] button1_Click
+2024-06-02 02:54:10.807 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 02:55:32.260 +07:00 [INF] button1_Click
+2024-06-02 03:49:41.077 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 03:49:59.363 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 03:50:00.906 +07:00 [INF] button1_Click
+2024-06-02 04:00:32.612 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 04:00:37.570 +07:00 [INF] button1_Click
+2024-06-02 04:04:46.280 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 04:04:51.297 +07:00 [INF] button1_Click
+2024-06-02 04:06:37.209 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 04:06:39.818 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 04:07:07.107 +07:00 [INF] listBill_Click
+2024-06-02 04:07:13.564 +07:00 [INF] button1_Click
+2024-06-02 04:21:24.529 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 04:21:28.757 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 04:21:34.796 +07:00 [INF] button1_Click
+2024-06-02 04:25:52.776 +07:00 [INF] button1_Click
+2024-06-02 07:35:33.600 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 07:35:40.959 +07:00 [INF] button1_Click
+2024-06-02 07:41:25.437 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 07:41:28.837 +07:00 [INF] button1_Click
+2024-06-02 07:43:40.887 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 07:43:44.694 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 07:45:49.011 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 07:45:50.486 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 07:45:55.511 +07:00 [INF] button1_Click
+2024-06-02 07:49:13.199 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 07:49:34.976 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 07:49:36.291 +07:00 [INF] button1_Click
+2024-06-02 07:51:30.680 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 07:51:33.170 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 07:51:37.355 +07:00 [INF] button1_Click
+2024-06-02 08:29:50.317 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 08:29:52.254 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 08:29:56.829 +07:00 [INF] button1_Click
+2024-06-02 08:33:19.066 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 08:36:34.202 +07:00 [INF] button1_Click
+2024-06-02 09:42:22.123 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 09:42:29.348 +07:00 [WRN] Starting Bluetooth connection process.
+2024-06-02 09:42:29.358 +07:00 [WRN] Printer found: 86:67:7a:ab:33:f6
+2024-06-02 09:42:29.363 +07:00 [WRN] Attempting to pair with printer.
+2024-06-02 09:42:29.367 +07:00 [WRN] Pairing successful. Attempting to connect.
+2024-06-02 09:42:32.315 +07:00 [ERR] Socket error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 409
+2024-06-02 09:42:34.418 +07:00 [WRN] Starting Bluetooth connection process.
+2024-06-02 09:42:34.420 +07:00 [WRN] Printer found: 86:67:7a:ab:33:f6
+2024-06-02 09:42:34.420 +07:00 [WRN] Attempting to pair with printer.
+2024-06-02 09:42:34.421 +07:00 [WRN] Pairing successful. Attempting to connect.
+2024-06-02 09:42:36.852 +07:00 [ERR] Socket error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 409
+2024-06-02 09:42:42.956 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-02 09:42:44.615 +07:00 [INF] button1_Click
+2024-06-02 09:42:52.392 +07:00 [INF] btnSimpan_Click
+2024-06-02 09:42:53.844 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 571
+2024-06-02 09:42:55.783 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 743
+2024-06-02 09:45:34.279 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 09:45:40.592 +07:00 [WRN] Starting Bluetooth connection process.
+2024-06-02 09:45:40.691 +07:00 [WRN] Printer found: 86:67:7a:ab:33:f6
+2024-06-02 09:45:40.697 +07:00 [WRN] Attempting to pair with printer.
+2024-06-02 09:45:43.292 +07:00 [WRN] Pairing successful. Attempting to connect.
+2024-06-02 09:45:46.938 +07:00 [ERR] Socket error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 409
+2024-06-02 09:46:11.498 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-02 09:46:19.799 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-02 09:46:23.971 +07:00 [INF] button1_Click
+2024-06-02 09:46:26.306 +07:00 [INF] btnSimpan_Click
+2024-06-02 09:46:28.929 +07:00 [ERR] An error occurred: The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 571
+2024-06-02 09:46:55.099 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 743
+2024-06-02 19:04:36.463 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 19:05:53.731 +07:00 [WRN] Starting Bluetooth connection process.
+2024-06-02 19:05:53.854 +07:00 [WRN] Printer found: 86:67:7a:ab:33:f6
+2024-06-02 19:05:54.116 +07:00 [WRN] Attempting to pair with printer.
+2024-06-02 19:06:02.270 +07:00 [WRN] Pairing failed to 86:67:7a:ab:33:f6
+2024-06-02 19:06:26.807 +07:00 [WRN] Starting Bluetooth connection process.
+2024-06-02 19:06:26.810 +07:00 [WRN] Printer found: 86:67:7a:ab:33:f6
+2024-06-02 19:06:26.810 +07:00 [WRN] Attempting to pair with printer.
+2024-06-02 19:07:03.654 +07:00 [WRN] Pairing failed to 86:67:7a:ab:33:f6
+2024-06-02 19:07:23.238 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-02 19:07:26.138 +07:00 [INF] button1_Click
+2024-06-02 19:07:33.989 +07:00 [INF] btnSimpan_Click
+2024-06-02 19:09:49.584 +07:00 [WRN] Starting Bluetooth connection process.
+2024-06-02 19:09:49.587 +07:00 [WRN] Printer found: 86:67:7a:ab:33:f6
+2024-06-02 19:09:49.587 +07:00 [WRN] Attempting to pair with printer.
+2024-06-02 19:09:50.366 +07:00 [WRN] Pairing successful. Attempting to connect.
+2024-06-02 19:09:52.180 +07:00 [ERR] Socket error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 409
+2024-06-02 19:09:54.009 +07:00 [WRN] Starting Bluetooth connection process.
+2024-06-02 19:09:54.011 +07:00 [WRN] Printer found: 86:67:7a:ab:33:f6
+2024-06-02 19:09:54.011 +07:00 [WRN] Attempting to pair with printer.
+2024-06-02 19:09:55.144 +07:00 [WRN] Pairing successful. Attempting to connect.
+2024-06-02 19:09:56.586 +07:00 [ERR] Socket error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 409
+2024-06-02 19:10:06.846 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-02 19:10:09.487 +07:00 [INF] button1_Click
+2024-06-02 19:10:11.208 +07:00 [INF] btnSimpan_Click
+2024-06-02 19:10:18.013 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 752
+2024-06-02 19:10:32.557 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 19:14:32.592 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 19:14:46.986 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-02 19:14:49.508 +07:00 [INF] button1_Click
+2024-06-02 19:15:13.277 +07:00 [INF] btnSimpan_Click
+2024-06-02 19:16:37.865 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 19:20:17.357 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 19:20:30.514 +07:00 [INF] btnTambah_Click
+2024-06-02 19:20:30.727 +07:00 [INF] btnTambah_Click
+2024-06-02 19:20:31.833 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-02 19:21:19.907 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 19:21:25.669 +07:00 [INF] button1_Click
+2024-06-02 19:21:27.859 +07:00 [INF] btnSimpan_Click
+2024-06-02 19:21:29.312 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 572
+2024-06-02 19:21:30.862 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 753
+2024-06-02 19:21:39.169 +07:00 [INF] button1_Click
+2024-06-02 19:25:41.341 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 19:25:49.158 +07:00 [WRN] Starting Bluetooth connection process.
+2024-06-02 19:25:49.197 +07:00 [WRN] Printer found: 86:67:7a:ab:33:f6
+2024-06-02 19:25:49.202 +07:00 [WRN] Attempting to pair with printer.
+2024-06-02 19:25:51.471 +07:00 [WRN] Pairing successful. Attempting to connect.
+2024-06-02 19:25:53.214 +07:00 [ERR] Socket error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 408
+2024-06-02 19:25:55.995 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 479
+2024-06-02 19:38:42.510 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKasir_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 479
+2024-06-02 19:38:43.615 +07:00 [WRN] Starting Bluetooth connection process.
+2024-06-02 19:38:43.617 +07:00 [WRN] Printer found: 86:67:7a:ab:33:f6
+2024-06-02 19:38:43.617 +07:00 [WRN] Attempting to pair with printer.
+2024-06-02 19:38:44.890 +07:00 [WRN] Pairing successful. Attempting to connect.
+2024-06-02 19:38:46.650 +07:00 [ERR] Socket error occurred: The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 408
+2024-06-02 19:42:12.270 +07:00 [INF] listBill_Click
+2024-06-02 19:59:59.981 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 20:00:11.923 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90
+2024-06-02 20:00:26.692 +07:00 [INF] button6_Click
+2024-06-02 20:00:28.229 +07:00 [INF] button1_Click
+2024-06-02 20:00:29.427 +07:00 [INF] button6_Click
+2024-06-02 20:57:23.496 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-02 20:57:48.755 +07:00 [INF] button6_Click
+2024-06-02 21:01:33.289 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 393
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 90

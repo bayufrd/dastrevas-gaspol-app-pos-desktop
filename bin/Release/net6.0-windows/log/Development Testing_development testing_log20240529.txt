@@ -1,0 +1,5 @@
+2024-05-29 03:45:13.341 +07:00 [INF] btnMaximize_Click
+2024-05-29 03:45:13.855 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1575
+2024-05-29 03:45:31.505 +07:00 [INF] btnExit_Click

@@ -1,0 +1,9 @@
+2024-06-11 00:34:06.001 +07:00 [INF] checkUpdate
+2024-06-11 00:34:17.679 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at update.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 214
+   at update.Form1.loadVersionKasir() in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 121
+2024-06-11 00:34:19.418 +07:00 [WRN] Open Updater

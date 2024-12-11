@@ -1,0 +1,5 @@
+2024-02-03 12:31:42.867 +07:00 [INF] checkUpdate
+2024-02-03 12:31:42.936 +07:00 [WRN] Open Updater
+2024-02-03 12:31:54.265 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-02-03 12:31:54.303 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-02-03 12:31:54.498 +07:00 [INF] openAppKasir

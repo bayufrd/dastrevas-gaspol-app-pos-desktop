@@ -1,0 +1,15 @@
+2024-06-16 23:14:25.366 +07:00 [INF] BackgroundWorkerRunWorkerCompleted
+2024-06-16 23:14:25.432 +07:00 [ERR] An error occurred: Could not find file 'C:\Users\Bayu Farid\Downloads\update.rar'.
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Bayu Farid\Downloads\update.rar'.
+File name: 'C:\Users\Bayu Farid\Downloads\update.rar'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileInfo.OpenRead()
+   at SharpCompress.Archives.ArchiveFactory.FindFactory[T](FileInfo finfo)
+   at SharpCompress.Archives.ArchiveFactory.Open(FileInfo fileInfo, ReaderOptions options)
+   at SharpCompress.Archives.ArchiveFactory.Open(String filePath, ReaderOptions options)
+   at update.Form1.BackgroundWorkerRunWorkerCompleted(Object sender, RunWorkerCompletedEventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\updateKasir\Form1.cs:line 258
+2024-06-16 23:14:25.521 +07:00 [INF] openAppKasir

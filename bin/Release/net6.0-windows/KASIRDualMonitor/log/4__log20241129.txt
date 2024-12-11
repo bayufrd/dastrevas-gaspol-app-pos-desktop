@@ -1,0 +1,3 @@
+2024-11-29 01:03:14.040 +07:00 [ERR] An error occurred: Object reference not set to an instance of an object.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at KASIR_Dual_Monitor.ApiService.LoadBaseOutlet() in C:\Users\Bayu Farid\Documents\Gaspol\KASIR Dual Monitor\KASIR Dual Monitor\ApiService.cs:line 42

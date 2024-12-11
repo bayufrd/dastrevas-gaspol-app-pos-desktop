@@ -1,0 +1,3 @@
+2024-10-05 04:26:11.267 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-05 04:26:34.321 +07:00 [INF] btnRiwayatShift_Click
+2024-10-05 04:26:49.092 +07:00 [INF] btnPrintUlang_Click

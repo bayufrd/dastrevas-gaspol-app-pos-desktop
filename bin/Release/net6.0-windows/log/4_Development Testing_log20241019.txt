@@ -1,0 +1,18 @@
+2024-10-19 08:42:51.280 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-19 09:17:17.760 +07:00 [ERR] An error occurred: Collection was modified; enumeration operation may not execute.
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3589
+2024-10-19 09:18:23.464 +07:00 [ERR] An error occurred: Collection was modified; enumeration operation may not execute.
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3589
+2024-10-19 09:18:52.143 +07:00 [ERR] An error occurred: Collection was modified; enumeration operation may not execute.
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3589
+2024-10-19 09:18:59.624 +07:00 [ERR] An error occurred: Collection was modified; enumeration operation may not execute.
+System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.Collections.Generic.Dictionary`2.Enumerator.MoveNext()
+   at KASIR.Printer.PrinterModel.PrintModelDataBill(DataRestruk datas, List`1 cartDetails, List`1 canceledItems, Int32 totalTransactions) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3589
+2024-10-19 23:16:58.472 +07:00 [WRN] Open Updater App Dastrevass

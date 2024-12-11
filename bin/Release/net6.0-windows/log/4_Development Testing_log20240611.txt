@@ -1,0 +1,72 @@
+2024-06-11 00:27:50.206 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-11 00:28:01.359 +07:00 [INF] button1_Click
+2024-06-11 00:28:03.721 +07:00 [INF] btnSetPrice2_Click_1
+2024-06-11 00:28:05.003 +07:00 [INF] btnSetPrice1_Click
+2024-06-11 00:28:05.893 +07:00 [INF] btnSetPrice3_Click
+2024-06-11 00:28:06.750 +07:00 [INF] btnSetPrice2_Click_1
+2024-06-11 00:28:19.455 +07:00 [INF] btnSimpan_Click
+2024-06-11 00:28:20.014 +07:00 [ERR] An error occurred: Response status code does not indicate success: 500 (Internal Server Error).
+System.Net.Http.HttpRequestException: Response status code does not indicate success: 500 (Internal Server Error).
+   at System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   at KASIR.Network.ApiService.PayBillTransaction(String jsonString, String url) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Network\ApiService.cs:line 112
+   at KASIR.komponen.payForm.btnSimpan_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 314
+2024-06-11 00:29:04.812 +07:00 [INF] button1_Click
+2024-06-11 00:29:06.607 +07:00 [INF] btnSimpan_Click
+2024-06-11 00:33:49.832 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-11 00:33:57.963 +07:00 [WRN] Open Update.exe
+2024-06-11 06:11:37.803 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-11 06:11:46.172 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-11 06:12:04.077 +07:00 [INF] button2_Click
+2024-06-11 06:12:13.491 +07:00 [INF] listBill_Click
+2024-06-11 06:14:00.624 +07:00 [INF] button1_Click
+2024-06-11 06:14:18.917 +07:00 [ERR] An error occurred: A socket operation was attempted to an unreachable host. (62.72.59.78:8080)
+System.Net.Http.HttpRequestException: A socket operation was attempted to an unreachable host. (62.72.59.78:8080)
+ ---> System.Net.Sockets.SocketException (10065): A socket operation was attempted to an unreachable host.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|277_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(HttpRequestMessage request)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.GetHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at KASIR.Network.ApiService.Get(String url) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Network\ApiService.cs:line 28
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1931
+2024-06-11 06:28:33.954 +07:00 [INF] button1_Click
+2024-06-11 06:28:36.302 +07:00 [INF] btnSimpan_Click
+2024-06-11 06:29:04.040 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-11 06:36:37.996 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-11 06:36:50.374 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'value')
+System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1931
+2024-06-11 06:36:54.939 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'value')
+System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at KASIR.komponen.addCartForm.returnPriceByServingTypeAsync(String id, String varian) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\addCartForm.cs:line 259
+   at KASIR.komponen.addCartForm.btnSimpan_ClickAsync(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\addCartForm.cs:line 413
+2024-06-11 06:36:55.946 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'value')
+System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at KASIR.Komponen.successTransaction.LoadData() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\successTransaction.cs:line 66
+2024-06-11 06:36:57.092 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'value')
+System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1931
+2024-06-11 06:36:59.301 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'value')
+System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at KASIR.Komponen.successTransaction.LoadData() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\successTransaction.cs:line 66
+2024-06-11 06:37:00.312 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'value')
+System.ArgumentNullException: Value cannot be null. (Parameter 'value')
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at KASIR.komponen.masterPos.LoadCart() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 1931
+2024-06-11 06:37:15.335 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-06-11 06:37:15.440 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 
+2024-06-11 06:37:15.447 +07:00 [WRN] bad Connection gagal mengirim data ke telegram, tersimpan dalam log :) 

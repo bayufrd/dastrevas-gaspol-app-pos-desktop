@@ -1,0 +1,7 @@
+2024-01-04 22:57:14.582 +07:00 [INF] btnMaximize_Click
+2024-01-04 22:57:23.876 +07:00 [INF] button1_Click
+2024-01-04 22:57:39.992 +07:00 [INF] button6_Click
+2024-01-04 22:58:19.955 +07:00 [INF] btnMaximize_Click
+2024-01-04 22:58:23.647 +07:00 [INF] button1_Click
+2024-01-04 22:58:24.647 +07:00 [INF] button6_Click
+2024-01-04 22:58:36.218 +07:00 [INF] btnExit_Click

@@ -1,0 +1,2 @@
+2024-07-12 17:58:28.144 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-12 17:58:30.343 +07:00 [WRN] Open Update.exe

@@ -1,0 +1,6 @@
+2024-07-19 18:44:51.327 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-19 18:44:58.251 +07:00 [INF] btnRiwayatShift_Click
+2024-07-19 18:45:01.715 +07:00 [INF] btnPrintUlang_Click
+2024-07-19 20:38:49.525 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-19 20:38:54.536 +07:00 [INF] btnRiwayatShift_Click
+2024-07-19 20:38:56.561 +07:00 [INF] btnPrintUlang_Click

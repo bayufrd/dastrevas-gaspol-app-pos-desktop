@@ -1,0 +1,121 @@
+2024-06-01 19:38:22.269 +07:00 [INF] btnMaximize_Click
+2024-06-01 19:38:32.842 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:38:59.418 +07:00 [INF] button1_Click
+2024-06-01 19:39:01.600 +07:00 [INF] btnSimpan_Click
+2024-06-01 19:41:06.547 +07:00 [INF] btnMaximize_Click
+2024-06-01 19:41:19.163 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:41:21.642 +07:00 [INF] button1_Click
+2024-06-01 19:41:34.999 +07:00 [INF] btnSetPrice2_Click_1
+2024-06-01 19:41:54.362 +07:00 [INF] btnExit_Click
+2024-06-01 19:44:15.069 +07:00 [INF] btnMaximize_Click
+2024-06-01 19:44:20.707 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:20.924 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:21.953 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:44:25.425 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:25.592 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:25.808 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:26.833 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:44:26.992 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:44:30.514 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:30.674 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:30.886 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:32.425 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:44:32.590 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:44:38.082 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:38.289 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:39.298 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:44:39.467 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:44:52.542 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:52.700 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:52.852 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:52.990 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:53.191 +07:00 [INF] btnTambah_Click
+2024-06-01 19:44:54.542 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:44:54.694 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:58:23.135 +07:00 [INF] btnMaximize_Click
+2024-06-01 19:58:40.560 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:58:43.886 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:58:47.398 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 19:58:51.276 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 20:00:01.142 +07:00 [INF] button1_Click
+2024-06-01 20:00:03.135 +07:00 [INF] btnSimpan_Click
+2024-06-01 21:18:25.521 +07:00 [INF] btnMaximize_Click
+2024-06-01 21:18:47.357 +07:00 [INF] btnExit_Click
+2024-06-01 21:19:19.682 +07:00 [INF] btnMaximize_Click
+2024-06-01 21:19:19.724 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 353
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 0
+2024-06-01 21:19:22.150 +07:00 [INF] btnExit_Click
+2024-06-01 21:22:24.480 +07:00 [INF] btnMaximize_Click
+2024-06-01 21:22:24.466 +07:00 [WRN] Open Updater
+2024-06-01 21:22:24.667 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 354
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 89
+2024-06-01 21:27:29.940 +07:00 [INF] btnMaximize_Click
+2024-06-01 21:27:29.927 +07:00 [WRN] Open Updater
+2024-06-01 21:27:32.018 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 356
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 89
+2024-06-01 21:33:04.599 +07:00 [INF] btnMaximize_Click
+2024-06-01 21:33:04.579 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-01 21:33:04.842 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 373
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 89
+2024-06-01 21:43:08.910 +07:00 [INF] btnMinimize_Click
+2024-06-01 21:48:53.144 +07:00 [INF] btnExit_Click
+2024-06-01 21:53:36.165 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-01 21:53:36.165 +07:00 [INF] btnMaximize_Click
+2024-06-01 21:53:36.478 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 373
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 89
+2024-06-01 21:54:32.909 +07:00 [INF] btnExit_Click
+2024-06-01 23:44:25.211 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-01 23:44:33.664 +07:00 [INF] button6_Click
+2024-06-01 23:44:35.120 +07:00 [INF] button1_Click
+2024-06-01 23:44:36.736 +07:00 [INF] button6_Click
+2024-06-01 23:44:37.838 +07:00 [INF] button6_Click
+2024-06-01 23:44:51.198 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 384
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 89
+2024-06-01 23:44:57.294 +07:00 [INF] button1_Click
+2024-06-01 23:44:58.282 +07:00 [INF] button6_Click
+2024-06-01 23:57:31.845 +07:00 [WRN] Open Updater App Dastrevass
+2024-06-01 23:57:34.271 +07:00 [ERR] An error occurred: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+System.UnauthorizedAccessException: Access to the path 'C:\Users\Bayu Farid\Documents\My Music' is denied.
+   at System.IO.Enumeration.FileSystemEnumerator`1.CreateRelativeDirectoryHandle(ReadOnlySpan`1 relativePath, String fullPath)
+   at System.IO.Enumeration.FileSystemEnumerator`1.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at KASIR.Form1.FindLinkFolderBeforeStartupPath(String startupPath, String linkFolderName) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 384
+   at KASIR.Form1.cekLastUpdaterApp() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Form1.cs:line 89
+2024-06-01 23:57:41.424 +07:00 [INF] button1_Click
+2024-06-01 23:57:42.882 +07:00 [INF] button6_Click
+2024-06-01 23:57:47.033 +07:00 [INF] btnTambah_Click
+2024-06-01 23:57:47.176 +07:00 [INF] btnTambah_Click
+2024-06-01 23:57:48.348 +07:00 [INF] btnSimpan_ClickAsync
+2024-06-01 23:57:53.146 +07:00 [INF] btnTambah_Click
+2024-06-01 23:57:53.306 +07:00 [INF] btnTambah_Click
+2024-06-01 23:57:55.184 +07:00 [INF] btnSimpan_ClickAsync

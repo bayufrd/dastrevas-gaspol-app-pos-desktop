@@ -1,0 +1,373 @@
+2024-01-17 02:52:04.834 +07:00 [INF] btnMaximize_Click
+2024-01-17 02:53:36.890 +07:00 [INF] btnMaximize_Click
+2024-01-17 03:03:02.272 +07:00 [INF] btnMaximize_Click
+2024-01-17 03:05:34.451 +07:00 [INF] btnMaximize_Click
+2024-01-17 03:06:20.446 +07:00 [INF] btnMaximize_Click
+2024-01-17 03:17:19.858 +07:00 [INF] btnMaximize_Click
+2024-01-17 03:17:53.278 +07:00 [INF] btnMaximize_Click
+2024-01-17 03:17:56.913 +07:00 [INF] listBill_Click
+2024-01-17 03:17:59.728 +07:00 [INF] button6_Click
+2024-01-17 03:18:02.167 +07:00 [INF] button1_Click
+2024-01-17 03:18:03.390 +07:00 [INF] button6_Click
+2024-01-17 03:18:06.305 +07:00 [INF] btnExit_Click
+2024-01-17 03:19:59.568 +07:00 [INF] btnMaximize_Click
+2024-01-17 03:20:18.308 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-17 03:20:25.712 +07:00 [INF] button6_Click
+2024-01-17 03:20:30.596 +07:00 [INF] btnHapus_Click
+2024-01-17 03:20:35.251 +07:00 [INF] button1_Click
+2024-01-17 03:20:35.868 +07:00 [INF] button6_Click
+2024-01-17 03:25:05.989 +07:00 [INF] btnTambah_Click
+2024-01-17 03:25:06.172 +07:00 [INF] btnTambah_Click
+2024-01-17 03:25:06.300 +07:00 [INF] btnTambah_Click
+2024-01-17 03:25:06.996 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-17 03:25:10.699 +07:00 [INF] btnGet_Click
+2024-01-17 03:25:21.337 +07:00 [INF] button1_Click
+2024-01-17 03:25:23.181 +07:00 [INF] btnReportShift_Click
+2024-01-17 03:25:24.566 +07:00 [INF] btnPrintUlang_Click
+2024-01-17 03:25:27.212 +07:00 [INF] btnReportShift_Click
+2024-01-17 03:25:27.918 +07:00 [INF] button2_Click
+2024-01-17 03:25:30.445 +07:00 [INF] btnReportShift_Click
+2024-01-17 03:25:31.300 +07:00 [INF] btnPrintUlang_Click
+2024-01-17 03:25:37.412 +07:00 [INF] btnExit_Click
+2024-01-17 05:00:18.660 +07:00 [INF] btnMaximize_Click
+2024-01-17 05:00:25.825 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-17 05:00:33.381 +07:00 [INF] button1_Click
+2024-01-17 05:00:37.095 +07:00 [INF] btnSimpan_Click
+2024-01-17 05:00:41.515 +07:00 [INF] btnSimpan_Click
+2024-01-17 05:00:49.633 +07:00 [INF] button1_Click
+2024-01-17 05:00:50.106 +07:00 [INF] button6_Click
+2024-01-17 05:00:53.380 +07:00 [INF] btnExit_Click
+2024-01-17 16:06:19.330 +07:00 [INF] btnMaximize_Click
+2024-01-17 16:06:32.973 +07:00 [INF] btnTambah_Click
+2024-01-17 16:06:33.132 +07:00 [INF] btnTambah_Click
+2024-01-17 16:06:33.285 +07:00 [INF] btnTambah_Click
+2024-01-17 16:06:33.436 +07:00 [INF] btnTambah_Click
+2024-01-17 16:06:33.588 +07:00 [INF] btnTambah_Click
+2024-01-17 16:06:34.230 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-17 16:06:40.622 +07:00 [INF] button1_Click
+2024-01-17 16:06:46.400 +07:00 [INF] btnSimpan_Click
+2024-01-17 16:07:17.560 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:07:51.036 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:07:52.692 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:07:53.747 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:07:58.381 +07:00 [INF] btnExit_Click
+2024-01-17 16:08:02.945 +07:00 [INF] btnMaximize_Click
+2024-01-17 16:08:06.351 +07:00 [INF] btnTambah_Click
+2024-01-17 16:08:06.501 +07:00 [INF] btnTambah_Click
+2024-01-17 16:08:06.669 +07:00 [INF] btnTambah_Click
+2024-01-17 16:08:06.805 +07:00 [INF] btnTambah_Click
+2024-01-17 16:08:07.640 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-17 16:08:11.135 +07:00 [INF] button1_Click
+2024-01-17 16:08:20.176 +07:00 [INF] btnSimpan_Click
+2024-01-17 16:08:29.109 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:09:06.424 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:09:11.324 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:09:19.038 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:09:45.091 +07:00 [INF] button1_Click
+2024-01-17 16:09:46.031 +07:00 [INF] btnReportShift_Click
+2024-01-17 16:09:47.248 +07:00 [INF] btnPrintUlang_Click
+2024-01-17 16:09:48.628 +07:00 [ERR] An error occurred: Exception has been thrown by the target of an invocation.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 222
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Delegate.DynamicInvoke(Object[] args)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, WM msg, IntPtr wparam, IntPtr lparam)
+   at Interop.User32.MessageBoxW(IntPtr hWnd, String lpText, String lpCaption, MB uType)
+   at Interop.User32.MessageBoxW(HandleRef hWnd, String lpText, String lpCaption, MB uType)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text, String caption, MessageBoxButtons buttons)
+   at KASIR.Komponen.printReportShift.btnPrintUlang_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 453
+2024-01-17 16:09:55.526 +07:00 [INF] btnReportShift_Click
+2024-01-17 16:09:56.215 +07:00 [INF] button2_Click
+2024-01-17 16:09:57.179 +07:00 [ERR] An error occurred: Exception has been thrown by the target of an invocation.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 222
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Delegate.DynamicInvoke(Object[] args)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, WM msg, IntPtr wparam, IntPtr lparam)
+   at Interop.User32.MessageBoxW(IntPtr hWnd, String lpText, String lpCaption, MB uType)
+   at Interop.User32.MessageBoxW(HandleRef hWnd, String lpText, String lpCaption, MB uType)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text, String caption, MessageBoxButtons buttons)
+   at KASIR.Komponen.printReportShift.button2_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 136
+2024-01-17 16:10:00.851 +07:00 [INF] button6_Click
+2024-01-17 16:10:06.462 +07:00 [INF] button3_Click
+2024-01-17 16:10:14.085 +07:00 [INF] btnTambah_Click
+2024-01-17 16:10:14.254 +07:00 [INF] btnTambah_Click
+2024-01-17 16:10:14.390 +07:00 [INF] btnTambah_Click
+2024-01-17 16:10:15.438 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-17 16:10:21.436 +07:00 [INF] button1_Click
+2024-01-17 16:10:23.512 +07:00 [INF] btnCetakStruk_Click
+2024-01-17 16:10:28.722 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.inputPin.PrintPurchaseReceipt(DataRestruk datas, List`1 cartDetails, List`1 cartRefundDetails, List`1 canceledItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 357
+2024-01-17 16:11:41.214 +07:00 [INF] btnReportShift_Click
+2024-01-17 16:11:42.399 +07:00 [INF] button2_Click
+2024-01-17 16:11:45.127 +07:00 [ERR] An error occurred: Exception has been thrown by the target of an invocation.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 222
+   at System.Threading.Tasks.Task.<>c.<ThrowAsync>b__128_0(Object state)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Delegate.DynamicInvokeImpl(Object[] args)
+   at System.Delegate.DynamicInvoke(Object[] args)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackDo(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbackHelper(Object obj)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+--- End of stack trace from previous location ---
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Windows.Forms.Control.InvokeMarshaledCallback(ThreadMethodEntry tme)
+   at System.Windows.Forms.Control.InvokeMarshaledCallbacks()
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, WM msg, IntPtr wparam, IntPtr lparam)
+   at Interop.User32.MessageBoxW(IntPtr hWnd, String lpText, String lpCaption, MB uType)
+   at Interop.User32.MessageBoxW(HandleRef hWnd, String lpText, String lpCaption, MB uType)
+   at System.Windows.Forms.MessageBox.ShowCore(IWin32Window owner, String text, String caption, MessageBoxButtons buttons, MessageBoxIcon icon, MessageBoxDefaultButton defaultButton, MessageBoxOptions options, Boolean showHelp)
+   at System.Windows.Forms.MessageBox.Show(String text, String caption, MessageBoxButtons buttons)
+   at KASIR.Komponen.printReportShift.button2_Click(Object sender, EventArgs e) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 136
+2024-01-17 16:11:52.554 +07:00 [INF] button6_Click
+2024-01-17 16:11:54.487 +07:00 [INF] button1_Click
+2024-01-17 16:11:58.895 +07:00 [INF] btnSimpan_Click
+2024-01-17 16:12:21.920 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:12:23.358 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:12:24.581 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:12:25.158 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:12:35.583 +07:00 [INF] btnExit_Click
+2024-01-17 16:33:14.791 +07:00 [INF] btnMaximize_Click
+2024-01-17 16:33:23.742 +07:00 [INF] button1_Click
+2024-01-17 16:33:24.649 +07:00 [INF] btnReportShift_Click
+2024-01-17 16:33:25.745 +07:00 [INF] button2_Click
+2024-01-17 16:33:26.861 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 225
+2024-01-17 16:33:30.536 +07:00 [INF] btnReportShift_Click
+2024-01-17 16:33:32.049 +07:00 [INF] btnPrintUlang_Click
+2024-01-17 16:33:32.727 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 225
+2024-01-17 16:35:50.022 +07:00 [INF] button6_Click
+2024-01-17 16:35:52.008 +07:00 [INF] btnTambah_Click
+2024-01-17 16:35:52.168 +07:00 [INF] btnTambah_Click
+2024-01-17 16:35:52.321 +07:00 [INF] btnTambah_Click
+2024-01-17 16:35:53.218 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-17 16:35:55.921 +07:00 [INF] button1_Click
+2024-01-17 16:35:58.355 +07:00 [INF] btnSimpan_Click
+2024-01-17 16:36:08.722 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:36:15.173 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:36:21.184 +07:00 [ERR] An error occurred: An invalid argument was supplied. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10022): An invalid argument was supplied. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 504
+2024-01-17 16:36:25.264 +07:00 [INF] button1_Click
+2024-01-17 16:36:27.331 +07:00 [INF] button6_Click
+2024-01-17 16:36:29.713 +07:00 [INF] btnExit_Click
+2024-01-17 22:50:10.941 +07:00 [INF] btnMaximize_Click
+2024-01-17 22:50:22.863 +07:00 [INF] btnTambah_Click
+2024-01-17 22:50:23.031 +07:00 [INF] btnTambah_Click
+2024-01-17 22:50:23.601 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-17 22:50:27.848 +07:00 [INF] button1_Click
+2024-01-17 22:50:35.015 +07:00 [INF] btnSimpan_Click
+2024-01-17 22:50:55.828 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 508
+2024-01-17 22:50:58.421 +07:00 [INF] button1_Click
+2024-01-17 22:50:59.719 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 508
+2024-01-17 22:51:01.968 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 508
+2024-01-17 22:51:03.685 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 508
+2024-01-17 22:51:06.520 +07:00 [INF] btnReportShift_Click
+2024-01-17 22:51:08.529 +07:00 [INF] button2_Click
+2024-01-17 22:51:11.211 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.printReportShift.PrintShiftReceipt(DataStrukShift datas, List`1 expenditures, List`1 cartDetailsSuccess, List`1 cartDetailsPendings, List`1 cartDetailsCanceled, List`1 refundDetails, List`1 paymentDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\printReportShift.cs:line 225
+2024-01-17 22:51:14.417 +07:00 [INF] btnNotifikasiPengeluaran_Click
+2024-01-17 22:51:15.849 +07:00 [INF] button2_Click
+2024-01-17 22:51:20.793 +07:00 [INF] btnCetakStruk_Click
+2024-01-17 22:51:24.798 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.inputPin.PrintPurchaseReceipt(DataRestruk datas, List`1 cartDetails, List`1 cartRefundDetails, List`1 canceledItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\inputPin.cs:line 357
+2024-01-17 22:53:33.240 +07:00 [INF] btnExit_Click
+2024-01-17 23:13:26.156 +07:00 [INF] btnMaximize_Click
+2024-01-17 23:13:31.002 +07:00 [INF] btnTambah_Click
+2024-01-17 23:13:31.168 +07:00 [INF] btnTambah_Click
+2024-01-17 23:13:31.312 +07:00 [INF] btnTambah_Click
+2024-01-17 23:13:31.464 +07:00 [INF] btnTambah_Click
+2024-01-17 23:13:32.346 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-17 23:13:35.017 +07:00 [INF] button1_Click
+2024-01-17 23:13:38.475 +07:00 [INF] btnSimpan_Click
+2024-01-17 23:13:48.665 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 508
+2024-01-17 23:13:52.277 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 508
+2024-01-17 23:13:52.965 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 508
+2024-01-17 23:13:53.614 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 508
+2024-01-17 23:13:58.878 +07:00 [INF] button6_Click
+2024-01-17 23:20:17.099 +07:00 [INF] btnExit_Click

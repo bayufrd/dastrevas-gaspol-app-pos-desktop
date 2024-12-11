@@ -1,0 +1,62 @@
+2024-07-18 00:24:30.069 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 00:24:57.046 +07:00 [INF] listBill_Click
+2024-07-18 02:10:00.094 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 02:10:06.061 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 02:17:35.014 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 02:17:40.920 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 02:19:01.823 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 02:19:12.698 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 02:37:09.597 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 02:38:57.350 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 02:39:02.323 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 02:41:17.537 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 02:41:23.874 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 02:41:56.529 +07:00 [INF] listBill_Click
+2024-07-18 02:42:11.770 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 02:43:30.397 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 02:43:39.917 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 02:45:17.150 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 02:56:46.460 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 02:56:51.993 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 02:58:30.730 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 02:58:43.522 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 22:52:53.275 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 22:53:18.296 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 22:56:07.535 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 22:56:12.356 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 22:56:52.325 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:06:57.735 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 23:07:02.849 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:09:04.275 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 23:09:08.872 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:15:44.859 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 23:15:50.089 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:25:21.905 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 23:25:28.051 +07:00 [INF] listBill_Click
+2024-07-18 23:25:43.070 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:31:54.654 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 23:32:01.324 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:33:02.931 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:33:48.851 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 23:34:04.081 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:35:17.120 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:36:17.154 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 23:36:29.611 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:06.311 +07:00 [WRN] Open Updater App Dastrevass
+2024-07-18 23:38:11.699 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:13.406 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:15.338 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:16.968 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:18.559 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:30.293 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:32.404 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:34.204 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:36.154 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:38.314 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:40.144 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:41.964 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:44.560 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:47.043 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:48.779 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:50.704 +07:00 [INF] btnRiwayatShift_Click
+2024-07-18 23:38:52.681 +07:00 [INF] btnRiwayatShift_Click

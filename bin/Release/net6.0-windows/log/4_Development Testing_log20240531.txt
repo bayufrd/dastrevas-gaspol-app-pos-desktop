@@ -1,0 +1,2 @@
+2024-05-31 00:19:41.003 +07:00 [INF] btnMaximize_Click
+2024-05-31 00:20:05.182 +07:00 [INF] btnExit_Click

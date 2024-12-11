@@ -1,0 +1,527 @@
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\KASIR.exe
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\KASIR.dll.config
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\KASIR.deps.json
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\KASIR.runtimeconfig.json
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\KASIR.dll
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\KASIR.pdb
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.csproj.AssemblyReference.cache
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Form1.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.addCartForm.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.blur.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.buyerForm.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.create.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.createMenuForm.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.dataBill.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.detailMenuForm.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan1.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.masterMenu.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.masterPos.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.payForm.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.update.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.update1.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.updateCartForm.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.widget.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Properties.Resources.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.csproj.GenerateResource.cache
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.AssemblyInfoInputs.cache
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.AssemblyInfo.cs
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.csproj.CoreCompileInputs.cache
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.csproj.CopyComplete
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.dll
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\refint\KASIR.dll
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.pdb
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.genruntimeconfig.cache
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\ref\KASIR.dll
+D:\Project\ATP2\GaspolApp\bin\Release\net6.0-windows\InTheHand.Net.Bluetooth.dll
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.create1.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.refund.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.saveBill.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.successTransaction.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.cicilRefund.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.dataDiskon.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.inputPin.resources
+D:\Last\GaspolApp\bin\Release\net6.0-windows\KASIR.exe
+D:\Last\GaspolApp\bin\Release\net6.0-windows\KASIR.dll.config
+D:\Last\GaspolApp\bin\Release\net6.0-windows\KASIR.deps.json
+D:\Last\GaspolApp\bin\Release\net6.0-windows\KASIR.runtimeconfig.json
+D:\Last\GaspolApp\bin\Release\net6.0-windows\KASIR.dll
+D:\Last\GaspolApp\bin\Release\net6.0-windows\KASIR.pdb
+D:\Last\GaspolApp\bin\Release\net6.0-windows\InTheHand.Net.Bluetooth.dll
+D:\Last\GaspolApp\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Last\GaspolApp\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Last\GaspolApp\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Last\GaspolApp\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.csproj.AssemblyReference.cache
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Form1.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.addCartForm.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.blur.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.buyerForm.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.cicilRefund.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.create.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.create1.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.createMenuForm.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.dataBill.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.dataDiskon.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.detailMenuForm.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan1.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.inputPin.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.masterMenu.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.masterPos.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.payForm.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.refund.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.saveBill.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.successTransaction.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.update.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.update1.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.updateCartForm.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.komponen.widget.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.Properties.Resources.resources
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.csproj.GenerateResource.cache
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.AssemblyInfoInputs.cache
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.AssemblyInfo.cs
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.csproj.CoreCompileInputs.cache
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.csproj.CopyComplete
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.dll
+D:\Last\GaspolApp\obj\Release\net6.0-windows\refint\KASIR.dll
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.pdb
+D:\Last\GaspolApp\obj\Release\net6.0-windows\KASIR.genruntimeconfig.cache
+D:\Last\GaspolApp\obj\Release\net6.0-windows\ref\KASIR.dll
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.deleteForm.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.notifikasiPengeluaran.resources
+D:\Project\ATP2\GaspolApp\obj\Release\net6.0-windows\KASIR.Komponen.printReportShift.resources
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.exe
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll.config
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.deps.json
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.runtimeconfig.json
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.pdb
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\FontAwesome.Sharp.dll
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\InTheHand.Net.Bluetooth.dll
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.AssemblyReference.cache
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Form1.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.addCartForm.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.blur.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.buyerForm.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.cicilRefund.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create1.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.createMenuForm.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataBill.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataDiskon.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deleteForm.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.detailMenuForm.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan1.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.inputPin.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterMenu.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterPos.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.notifikasiPengeluaran.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.payForm.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.printReportShift.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.refund.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.saveBill.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.splitBill.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.successTransaction.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update1.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updateCartForm.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.widget.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Properties.Resources.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.GenerateResource.cache
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfoInputs.cache
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfo.cs
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CoreCompileInputs.cache
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.sourcelink.json
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CopyComplete
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.dll
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\refint\KASIR.dll
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.pdb
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.genruntimeconfig.cache
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\ref\KASIR.dll
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deletePerItemForm.resources
+D:\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updatePerItemForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.exe
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll.config
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.deps.json
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.runtimeconfig.json
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.pdb
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\FontAwesome.Sharp.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\InTheHand.Net.Bluetooth.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.Console.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.File.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.AssemblyReference.cache
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Form1.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.addCartForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.blur.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.buyerForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.Check_For_Update.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.cicilRefund.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create1.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.createMenuForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataBill.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataDiskon.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deleteForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deletePerItemForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.detailMenuForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.DownloadProgress.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan1.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.inputPin.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterMenu.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterPos.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.notifikasiPengeluaran.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.payForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.printReportShift.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.refund.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.saveBill.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.SettingsForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.splitBill.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.successTransaction.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update1.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updateCartForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updatePerItemForm.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.widget.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Properties.Resources.resources
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.GenerateResource.cache
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfoInputs.cache
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfo.cs
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CoreCompileInputs.cache
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.sourcelink.json
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CopyComplete
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\refint\KASIR.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.pdb
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.genruntimeconfig.cache
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\ref\KASIR.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\Interop.AtlasSerialPortLib.dll
+D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.ResolveComReference.cache
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.exe
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll.config
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.deps.json
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.runtimeconfig.json
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.pdb
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\InTheHand.Net.Bluetooth.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.Console.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.File.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\System.CodeDom.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.AssemblyReference.cache
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Form1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.addCartForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.blur.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.BlurredBackgroundForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.buyerForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.Check_For_Update.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.cicilRefund.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.createMenuForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataDiskon.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deleteForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deletePerItemForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.detailMenuForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.DownloadProgress.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.inputPin.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterMenu.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterPos.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.notifikasiPengeluaran.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.payForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.printReportShift.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.refund.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.saveBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.SettingsForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.splitBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.successTransaction.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updateCartForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updatePerItemForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.widget.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Properties.Resources.resources
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.GenerateResource.cache
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfoInputs.cache
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfo.cs
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CoreCompileInputs.cache
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.sourcelink.json
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CopyComplete
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\refint\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.pdb
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.genruntimeconfig.cache
+C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\ref\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.exe
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll.config
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.deps.json
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.runtimeconfig.json
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.pdb
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.Console.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.File.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\System.CodeDom.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.AssemblyReference.cache
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Form1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.addCartForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.blur.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.BlurredBackgroundForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.buyerForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.Check_For_Update.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.cicilRefund.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.createMenuForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataDiskon.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deleteForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deletePerItemForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.detailMenuForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.DownloadProgress.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.inputPin.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterMenu.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterPos.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.notifikasiPengeluaran.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.payForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.printReportShift.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.refund.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.saveBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.SettingsForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.splitBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.successTransaction.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updateCartForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.UpdateInformation.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updatePerItemForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.widget.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Properties.Resources.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.GenerateResource.cache
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfoInputs.cache
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfo.cs
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CoreCompileInputs.cache
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.sourcelink.json
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CopyComplete
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\refint\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.pdb
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.genruntimeconfig.cache
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\ref\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.CacheDataApp.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.editMember.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.addMember.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\SharpCompress.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataMember.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\InTheHand.Net.Personal.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\selenium-manager\linux\selenium-manager
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\selenium-manager\macos\selenium-manager
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\selenium-manager\windows\selenium-manager.exe
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\WebDriver.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.KembalianForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Polly.dll
+C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Polly.Core.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.exe
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll.config
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.deps.json
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.runtimeconfig.json
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.pdb
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\InTheHand.Net.Personal.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Polly.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Polly.Core.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.Console.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.File.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\SharpCompress.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\System.CodeDom.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.AssemblyReference.cache
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Form1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.addCartForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.addMember.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.blur.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.BlurredBackgroundForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.buyerForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.CacheDataApp.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.Check_For_Update.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.cicilRefund.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.createMenuForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataDiskon.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataMember.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deleteForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deletePerItemForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.detailMenuForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.DownloadProgress.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.editMember.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.inputPin.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.KembalianForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterMenu.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterPos.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.notifikasiPengeluaran.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.payForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.printReportShift.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.refund.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.saveBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.SettingsForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.shiftReport.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.splitBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.successTransaction.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updateCartForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.UpdateInformation.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updatePerItemForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.widget.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Properties.Resources.resources
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.GenerateResource.cache
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfoInputs.cache
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfo.cs
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CoreCompileInputs.cache
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.sourcelink.json
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CopyComplete
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\refint\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.pdb
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.genruntimeconfig.cache
+C:\Users\Bayu Farid\Documents\Gaspol\KASIRinstaller\Original\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\ref\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.AssemblyReference.cache
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Form1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.addCartForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.addMember.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.blur.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.BlurredBackgroundForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.buyerForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.CacheDataApp.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.Check_For_Update.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.cicilRefund.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.create1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.createMenuForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataDiskon.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.dataMember.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deleteForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.deletePerItemForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.detailMenuForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.DownloadProgress.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.dtlPesanan1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.editMember.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.inputPin.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.KembalianForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterMenu.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.masterPos.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.notifikasiPengeluaran.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.payForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.printReportShift.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.refund.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.saveBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.SettingsConfig.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.SettingsForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.shiftReport.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.splitBill.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.successTransaction.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.update1.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updateCartForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.UpdateInformation.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.updatePerItemForm.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.komponen.widget.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Properties.Resources.resources
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.GenerateResource.cache
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfoInputs.cache
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.AssemblyInfo.cs
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CoreCompileInputs.cache
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.sourcelink.json
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.exe
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll.config
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.deps.json
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.runtimeconfig.json
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\KASIR.pdb
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\InTheHand.Net.Personal.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\FontAwesome.Sharp.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Polly.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Polly.Core.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.Console.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\Serilog.Sinks.File.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\SharpCompress.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\System.CodeDom.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\System.Management.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\ZstdSharp.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.csproj.CopyComplete
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\refint\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.pdb
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.genruntimeconfig.cache
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\ref\KASIR.dll
+C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\obj\Release\net6.0-windows\KASIR.Komponen.SettingsDual.resources

@@ -1,0 +1,18 @@
+2024-10-10 10:25:49.217 +07:00 [ERR] Terjadi kesalahan IO: {ioEx.Message}
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\LogoJempolan.bmp'.
+File name: 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\icon\LogoJempolan.bmp'
+   at System.IO.FileSystem.CopyFile(String sourceFullPath, String destFullPath, Boolean overwrite)
+   at System.IO.File.Copy(String sourceFileName, String destFileName, Boolean overwrite)
+   at KASIR.Form1.DuplicateAndRenameToOutletLogo(String file2Path) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Form1.cs:line 268
+2024-10-10 10:25:47.177 +07:00 [ERR] An error occurred: Could not find file 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\setting\configDualMonitor.data'.
+System.IO.FileNotFoundException: Could not find file 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\setting\configDualMonitor.data'.
+File name: 'C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Release\net6.0-windows\setting\configDualMonitor.data'
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.File.AsyncStreamReader(String path, Encoding encoding)
+   at System.IO.File.InternalReadAllTextAsync(String path, Encoding encoding, CancellationToken cancellationToken)
+   at KASIR.Form1.DualMonitorChecker() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Form1.cs:line 205
+2024-10-10 10:25:49.705 +07:00 [WRN] Open Updater App Dastrevass

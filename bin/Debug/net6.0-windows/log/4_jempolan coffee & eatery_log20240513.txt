@@ -1,0 +1,3 @@
+2024-05-13 11:32:53.806 +07:00 [INF] btnMaximize_Click
+2024-05-13 11:36:17.179 +07:00 [INF] btnMinimize_Click
+2024-05-13 11:36:54.212 +07:00 [INF] btnMinimize_Click

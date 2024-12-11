@@ -1,0 +1,65 @@
+2024-01-20 00:42:53.888 +07:00 [INF] btnMaximize_Click
+2024-01-20 00:50:57.530 +07:00 [INF] button1_Click
+2024-01-20 01:00:30.390 +07:00 [INF] button6_Click
+2024-01-20 01:00:41.745 +07:00 [INF] btnExit_Click
+2024-01-20 01:19:18.745 +07:00 [INF] btnMaximize_Click
+2024-01-20 01:19:20.723 +07:00 [INF] button3_Click
+2024-01-20 01:20:38.010 +07:00 [INF] btnExit_Click
+2024-01-20 01:21:11.923 +07:00 [INF] btnMaximize_Click
+2024-01-20 01:21:16.077 +07:00 [INF] button3_Click
+2024-01-20 01:21:34.083 +07:00 [INF] btnExit_Click
+2024-01-20 01:22:02.311 +07:00 [INF] btnMaximize_Click
+2024-01-20 01:22:04.084 +07:00 [INF] button3_Click
+2024-01-20 01:29:06.654 +07:00 [INF] button3_Click
+2024-01-20 01:38:39.627 +07:00 [INF] btnTambah_Click
+2024-01-20 01:38:39.746 +07:00 [INF] btnTambah_Click
+2024-01-20 01:38:39.898 +07:00 [INF] btnTambah_Click
+2024-01-20 01:38:40.590 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-20 01:38:50.149 +07:00 [INF] btnGet_Click
+2024-01-20 01:38:52.987 +07:00 [INF] btnGet_Click
+2024-01-20 01:39:13.188 +07:00 [INF] button2_Click
+2024-01-20 01:39:18.349 +07:00 [INF] btnSimpan_Click
+2024-01-20 01:39:32.363 +07:00 [INF] btnSimpan_Click
+2024-01-20 01:39:46.736 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.saveBill.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\saveBill.cs:line 380
+2024-01-20 01:39:54.484 +07:00 [INF] listBill_Click
+2024-01-20 01:41:13.916 +07:00 [INF] btnExit_Click
+2024-01-20 01:42:55.461 +07:00 [INF] btnMaximize_Click
+2024-01-20 01:51:10.607 +07:00 [INF] btnMaximize_Click
+2024-01-20 01:51:19.036 +07:00 [INF] btnTambah_Click
+2024-01-20 01:51:19.176 +07:00 [INF] btnTambah_Click
+2024-01-20 01:51:19.336 +07:00 [INF] btnTambah_Click
+2024-01-20 01:51:19.456 +07:00 [INF] btnTambah_Click
+2024-01-20 01:51:20.387 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-20 01:51:23.002 +07:00 [INF] button5_ClickAsync
+2024-01-20 01:51:36.986 +07:00 [INF] button2_Click
+2024-01-20 01:51:40.681 +07:00 [INF] btnExit_Click
+2024-01-20 01:53:20.689 +07:00 [INF] btnMaximize_Click
+2024-01-20 01:53:22.611 +07:00 [INF] btnTambah_Click
+2024-01-20 01:53:22.777 +07:00 [INF] btnTambah_Click
+2024-01-20 01:53:22.922 +07:00 [INF] btnTambah_Click
+2024-01-20 01:53:23.066 +07:00 [INF] btnTambah_Click
+2024-01-20 01:53:24.028 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-20 01:53:34.732 +07:00 [INF] btnSimpan_Click
+2024-01-20 01:53:48.011 +07:00 [INF] btnHapus_Click
+2024-01-20 01:53:50.386 +07:00 [INF] listBill_Click
+2024-01-20 01:53:52.698 +07:00 [INF] btnTambah_Click
+2024-01-20 01:53:52.850 +07:00 [INF] btnTambah_Click
+2024-01-20 01:53:52.994 +07:00 [INF] btnTambah_Click
+2024-01-20 01:53:53.985 +07:00 [INF] btnSimpan_ClickAsync
+2024-01-20 01:53:56.418 +07:00 [INF] button2_Click
+2024-01-20 01:53:59.030 +07:00 [INF] btnSimpan_Click
+2024-01-20 01:54:14.782 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.saveBill.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in D:\Gaspol\KASIR FIX\akhari-gaspol-desktop-app\Komponen\saveBill.cs:line 380
+2024-01-20 01:54:18.137 +07:00 [INF] listBill_Click
+2024-01-20 01:54:28.914 +07:00 [INF] btnHapus_Click
+2024-01-20 01:54:34.411 +07:00 [INF] button2_Click
+2024-01-20 01:54:37.450 +07:00 [INF] btnExit_Click

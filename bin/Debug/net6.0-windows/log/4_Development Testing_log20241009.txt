@@ -1,0 +1,4 @@
+2024-10-09 17:39:49.389 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-09 17:42:24.532 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-09 17:43:01.450 +07:00 [INF] button1_Click
+2024-10-09 17:43:03.676 +07:00 [INF] btnSimpan_Click

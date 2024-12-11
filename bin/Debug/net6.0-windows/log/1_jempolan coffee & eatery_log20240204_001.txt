@@ -1,0 +1,72 @@
+2024-02-04 20:48:24.487 +07:00 [INF] btnMaximize_Click
+2024-02-04 20:48:27.610 +07:00 [ERR] An error occurred: The process cannot access the file 'C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\Menu.bin' because it is being used by another process.
+System.IO.IOException: The process cannot access the file 'C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\Menu.bin' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at KASIR.komponen.masterPos.SaveFlowLayoutPanelToBinFile() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 802
+2024-02-04 20:48:28.598 +07:00 [INF] btnExit_Click
+2024-02-04 20:57:56.192 +07:00 [INF] btnMaximize_Click
+2024-02-04 20:57:59.934 +07:00 [ERR] An error occurred: Type 'System.Windows.Forms.Panel' in Assembly 'System.Windows.Forms, Version=6.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+System.Runtime.Serialization.SerializationException: Type 'System.Windows.Forms.Panel' in Assembly 'System.Windows.Forms, Version=6.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(Type type)
+   at System.Runtime.Serialization.FormatterServices.<>c.<GetSerializableMembers>b__5_0(MemberHolder mh)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Type objectType, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, SerializationBinder binder)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.WriteArray(WriteObjectInfo objectInfo, NameInfo memberNameInfo, WriteObjectInfo memberObjectInfo)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write(WriteObjectInfo objectInfo, NameInfo memberNameInfo, NameInfo typeNameInfo)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, BinaryFormatterWriter serWriter)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at KASIR.komponen.masterPos.SaveFlowLayoutPanelToBinFile() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 737
+2024-02-04 20:58:03.323 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'source')
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at KASIR.komponen.masterPos.PerformSearch() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 345
+2024-02-04 20:58:05.275 +07:00 [INF] btnMaximize_Click
+2024-02-04 20:58:08.435 +07:00 [ERR] An error occurred: Type 'System.Windows.Forms.Panel' in Assembly 'System.Windows.Forms, Version=6.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+System.Runtime.Serialization.SerializationException: Type 'System.Windows.Forms.Panel' in Assembly 'System.Windows.Forms, Version=6.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(Type type)
+   at System.Runtime.Serialization.FormatterServices.<>c.<GetSerializableMembers>b__5_0(MemberHolder mh)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Type objectType, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, SerializationBinder binder)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.WriteArray(WriteObjectInfo objectInfo, NameInfo memberNameInfo, WriteObjectInfo memberObjectInfo)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write(WriteObjectInfo objectInfo, NameInfo memberNameInfo, NameInfo typeNameInfo)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, BinaryFormatterWriter serWriter)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at KASIR.komponen.masterPos.SaveFlowLayoutPanelToBinFile() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 737
+2024-02-04 20:58:08.541 +07:00 [INF] btnExit_Click
+2024-02-04 21:04:38.116 +07:00 [INF] btnMaximize_Click
+2024-02-04 21:04:42.928 +07:00 [ERR] An error occurred: Type 'System.Windows.Forms.Panel' in Assembly 'System.Windows.Forms, Version=6.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+System.Runtime.Serialization.SerializationException: Type 'System.Windows.Forms.Panel' in Assembly 'System.Windows.Forms, Version=6.0.2.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' is not marked as serializable.
+   at System.Runtime.Serialization.FormatterServices.InternalGetSerializableMembers(Type type)
+   at System.Runtime.Serialization.FormatterServices.<>c.<GetSerializableMembers>b__5_0(MemberHolder mh)
+   at System.Collections.Concurrent.ConcurrentDictionary`2.GetOrAdd(TKey key, Func`2 valueFactory)
+   at System.Runtime.Serialization.FormatterServices.GetSerializableMembers(Type type, StreamingContext context)
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitMemberInfo()
+   at System.Runtime.Serialization.Formatters.Binary.WriteObjectInfo.InitSerialize(Type objectType, ISurrogateSelector surrogateSelector, StreamingContext context, SerObjectInfoInit serObjectInfoInit, IFormatterConverter converter, SerializationBinder binder)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.WriteArray(WriteObjectInfo objectInfo, NameInfo memberNameInfo, WriteObjectInfo memberObjectInfo)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Write(WriteObjectInfo objectInfo, NameInfo memberNameInfo, NameInfo typeNameInfo)
+   at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize(Object graph, BinaryFormatterWriter serWriter)
+   at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize(Stream serializationStream, Object graph)
+   at KASIR.komponen.masterPos.SaveFlowLayoutPanelToBinFile() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 738
+2024-02-04 21:04:49.867 +07:00 [ERR] An error occurred: The process cannot access the file 'C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\Menu.bin' because it is being used by another process.
+System.IO.IOException: The process cannot access the file 'C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\Menu.bin' because it is being used by another process.
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.CreateFile(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options)
+   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategyCore(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)
+   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   at KASIR.komponen.masterPos.LoadFlowLayoutPanelFromBinFile() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 754
+2024-02-04 21:04:49.992 +07:00 [ERR] An error occurred: Value cannot be null. (Parameter 'source')
+System.ArgumentNullException: Value cannot be null. (Parameter 'source')
+   at System.Linq.ThrowHelper.ThrowArgumentNullException(ExceptionArgument argument)
+   at System.Linq.Enumerable.Where[TSource](IEnumerable`1 source, Func`2 predicate)
+   at KASIR.komponen.masterPos.PerformSearch() in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\masterPos.cs:line 346

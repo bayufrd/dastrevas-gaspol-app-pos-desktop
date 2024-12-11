@@ -1,0 +1,54 @@
+2024-10-04 23:33:01.571 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-04 23:33:13.939 +07:00 [ERR] An error occurred: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+System.IO.FileNotFoundException: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at KASIR.Printer.PrinterModel.PrintLogo(Stream stream, String logoPath, Int32 targetWidthPx) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3090
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 319
+2024-10-04 23:33:17.125 +07:00 [ERR] An error occurred: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+System.IO.FileNotFoundException: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at KASIR.Printer.PrinterModel.PrintLogo(Stream stream, String logoPath, Int32 targetWidthPx) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3090
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 319
+2024-10-04 23:33:17.444 +07:00 [ERR] An error occurred: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+System.IO.FileNotFoundException: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at KASIR.Printer.PrinterModel.PrintLogo(Stream stream, String logoPath, Int32 targetWidthPx) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3090
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 319
+2024-10-04 23:33:17.907 +07:00 [ERR] An error occurred: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+System.IO.FileNotFoundException: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at KASIR.Printer.PrinterModel.PrintLogo(Stream stream, String logoPath, Int32 targetWidthPx) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3090
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 319
+2024-10-04 23:34:13.945 +07:00 [ERR] An error occurred: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+System.IO.FileNotFoundException: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at KASIR.Printer.PrinterModel.PrintLogo(Stream stream, String logoPath, Int32 targetWidthPx) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3090
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 319
+2024-10-04 23:34:18.281 +07:00 [ERR] An error occurred: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+System.IO.FileNotFoundException: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at KASIR.Printer.PrinterModel.PrintLogo(Stream stream, String logoPath, Int32 targetWidthPx) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3090
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 319
+2024-10-04 23:34:18.563 +07:00 [ERR] An error occurred: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+System.IO.FileNotFoundException: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\DT-Logo.bmp
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at KASIR.Printer.PrinterModel.PrintLogo(Stream stream, String logoPath, Int32 targetWidthPx) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3090
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 319
+2024-10-04 23:34:49.180 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-04 23:34:53.031 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-04 23:34:55.098 +07:00 [INF] button1_Click
+2024-10-04 23:34:58.027 +07:00 [INF] btnSimpan_Click
+2024-10-04 23:35:01.460 +07:00 [ERR] An error occurred: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\OutletLogo.bmp
+System.IO.FileNotFoundException: C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\bin\Debug\net6.0-windows\icon\OutletLogo.bmp
+   at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at System.Drawing.Image.FromFile(String filename)
+   at KASIR.Printer.PrinterModel.PrintLogo(Stream stream, String logoPath, Int32 targetWidthPx) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 3090
+   at KASIR.Printer.PrinterModel.PrintCustomerReceipt(Stream stream, GetStrukCustomerTransaction datas, List`1 cartDetails, Int32 totalTransactions, String Kakimu) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 5013
+   at KASIR.Printer.PrinterModel.PrintModelPayform(GetStrukCustomerTransaction datas, List`1 cartDetails, List`1 KitchenCartDetails, List`1 BarCartDetails, List`1 KitchenCancelItems, List`1 BarCancelItems, Int32 totalTransactions, String Kakimu) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 4774

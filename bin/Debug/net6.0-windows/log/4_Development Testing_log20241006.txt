@@ -1,0 +1,167 @@
+2024-10-06 00:14:50.977 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 295
+2024-10-06 00:14:53.555 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 295
+   at KASIR.Komponen.SettingsForm.TestPrinter(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 639
+2024-10-06 00:15:06.285 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 295
+2024-10-06 00:15:15.312 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 295
+   at KASIR.Komponen.SettingsForm.TestPrinter(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 639
+2024-10-06 00:15:19.784 +07:00 [INF] btnTambah_Click
+2024-10-06 00:15:20.778 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-06 00:15:23.130 +07:00 [INF] button1_Click
+2024-10-06 00:15:24.878 +07:00 [INF] btnSimpan_Click
+2024-10-06 00:15:29.296 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelPayform(GetStrukCustomerTransaction datas, List`1 cartDetails, List`1 KitchenCartDetails, List`1 BarCartDetails, List`1 KitchenCancelItems, List`1 BarCancelItems, Int32 totalTransactions, String Kakimu) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 4785
+2024-10-06 00:15:29.520 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. B49D027DEE3E:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintModelPayform(GetStrukCustomerTransaction datas, List`1 cartDetails, List`1 KitchenCartDetails, List`1 BarCartDetails, List`1 KitchenCancelItems, List`1 BarCancelItems, Int32 totalTransactions, String Kakimu) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 4785
+   at KASIR.komponen.payForm.HandleSuccessfulTransaction(String response, String fulus) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 399
+2024-10-06 00:24:25.480 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 469
+2024-10-06 00:25:25.045 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10049): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.SelectAndPrintAsync() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 469
+   at KASIR.Komponen.SettingsForm.TestPrinter(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 639
+2024-10-06 00:32:13.381 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-06 00:32:15.554 +07:00 [INF] button1_Click
+2024-10-06 00:32:17.371 +07:00 [INF] btnSimpan_Click
+2024-10-06 00:35:18.138 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-06 00:35:20.295 +07:00 [INF] button1_Click
+2024-10-06 00:35:21.911 +07:00 [INF] btnSimpan_Click
+2024-10-06 00:35:27.384 +07:00 [ERR] An error occurred while printing via Bluetooth: Settings to access printer '66:22:A6:D5:81:71' are not valid.
+System.Drawing.Printing.InvalidPrinterException: Settings to access printer '66:22:A6:D5:81:71' are not valid.
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal(String printer)
+   at System.Drawing.Printing.PrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.StandardPrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 615
+2024-10-06 00:35:27.619 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10048): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted. 6622A6D58171:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 609
+2024-10-06 00:35:27.793 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10048): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted. 6622A6D58171:0000110100001000800000805f9b34fb
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Bluetooth.Msft.SocketBluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 609
+2024-10-06 03:37:17.136 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-06 03:43:47.733 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-06 03:45:07.880 +07:00 [INF] btnRiwayatShift_Click
+2024-10-06 03:45:10.075 +07:00 [INF] btnPrintUlang_Click
+2024-10-06 03:45:37.549 +07:00 [INF] btnRiwayatShift_Click
+2024-10-06 03:45:39.492 +07:00 [INF] btnPrintUlang_Click
+2024-10-06 04:43:32.696 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-06 04:43:56.642 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-06 04:43:59.417 +07:00 [INF] button1_Click
+2024-10-06 04:44:01.191 +07:00 [INF] btnSimpan_Click
+2024-10-06 04:44:06.286 +07:00 [ERR] An error occurred while printing via Bluetooth: Settings to access printer '66:22:A6:D5:81:71' are not valid.
+System.Drawing.Printing.InvalidPrinterException: Settings to access printer '66:22:A6:D5:81:71' are not valid.
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal(String printer)
+   at System.Drawing.Printing.PrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.StandardPrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 473
+2024-10-06 04:44:06.858 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10048): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 467
+2024-10-06 04:44:06.975 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10048): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 467
+2024-10-06 04:44:30.387 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-06 04:44:32.710 +07:00 [INF] button1_Click
+2024-10-06 04:44:34.711 +07:00 [INF] btnSimpan_Click
+2024-10-06 04:44:40.889 +07:00 [ERR] An error occurred while printing via Bluetooth: Settings to access printer '66:22:A6:D5:81:71' are not valid.
+System.Drawing.Printing.InvalidPrinterException: Settings to access printer '66:22:A6:D5:81:71' are not valid.
+   at System.Drawing.Printing.PrinterSettings.GetHdevmodeInternal(String printer)
+   at System.Drawing.Printing.PrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.StandardPrintController.OnStartPrint(PrintDocument document, PrintEventArgs e)
+   at System.Drawing.Printing.PrintController.Print(PrintDocument document)
+   at System.Drawing.Printing.PrintDocument.Print()
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 473
+2024-10-06 04:44:42.029 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10048): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 467
+2024-10-06 04:44:42.136 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10048): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10048): Only one usage of each socket address (protocol/network address/port) is normally permitted. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 467
+2024-10-06 06:35:05.090 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-06 06:35:12.231 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-06 06:35:14.140 +07:00 [INF] button1_Click
+2024-10-06 06:35:15.976 +07:00 [INF] btnSimpan_Click
+2024-10-06 06:35:23.775 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.<>c__DisplayClass61_1.<<PrintModelPayform>b__0>d.MoveNext() in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 5356
+--- End of stack trace from previous location ---
+   at KASIR.Printer.PrinterModel.RetryPolicyAsync(Func`1 action, Int32 maxRetries) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 5273
+   at KASIR.Printer.PrinterModel.PrintModelPayform(GetStrukCustomerTransaction datas, List`1 cartDetails, List`1 KitchenCartDetails, List`1 BarCartDetails, List`1 KitchenCancelItems, List`1 BarCancelItems, Int32 totalTransactions, String Kakimu) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 5337
+2024-10-06 06:40:32.015 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-06 06:40:36.831 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-06 06:40:38.891 +07:00 [INF] button1_Click
+2024-10-06 06:40:40.599 +07:00 [INF] btnSimpan_Click
+2024-10-06 06:41:04.059 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 468
+2024-10-06 06:41:14.907 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 468
+2024-10-06 06:41:20.101 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 468
+2024-10-06 06:53:21.706 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-06 06:53:29.393 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-06 06:53:33.004 +07:00 [INF] button2_Click
+2024-10-06 06:53:34.759 +07:00 [INF] btnSimpan_Click
+2024-10-06 07:08:43.535 +07:00 [WRN] Open Updater App Dastrevass
+2024-10-06 07:08:55.667 +07:00 [INF] btnTambah_Click
+2024-10-06 07:08:55.839 +07:00 [INF] btnTambah_Click
+2024-10-06 07:08:56.047 +07:00 [INF] btnTambah_Click
+2024-10-06 07:08:56.981 +07:00 [INF] btnSimpan_ClickAsync
+2024-10-06 07:08:59.198 +07:00 [INF] button1_Click
+2024-10-06 07:09:00.892 +07:00 [INF] btnSimpan_Click
+2024-10-06 07:09:31.705 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 467
+2024-10-06 07:09:41.882 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 467
+2024-10-06 07:09:47.081 +07:00 [ERR] Ignored SocketException(Bluetooth Connection) (10060): System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 6622A6D58171:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at KASIR.Printer.PrinterModel.PrintViaBluetooth(String printerName, PrintDocument printDocument) in C:\Users\Bayu Farid\Documents\Gaspol\Marged\akhari-gaspol-desktop-app\Printer\PrinterModel.cs:line 467

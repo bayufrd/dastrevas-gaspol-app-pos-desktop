@@ -1,0 +1,30 @@
+2024-02-04 08:37:06.438 +07:00 [INF] btnMaximize_Click
+2024-02-04 08:37:11.339 +07:00 [INF] btnTambah_Click
+2024-02-04 08:37:11.518 +07:00 [INF] btnTambah_Click
+2024-02-04 08:37:11.728 +07:00 [INF] btnTambah_Click
+2024-02-04 08:37:13.080 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-04 08:37:16.343 +07:00 [INF] button1_Click
+2024-02-04 08:37:18.966 +07:00 [INF] btnSimpan_Click
+2024-02-04 08:37:34.699 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 731
+2024-02-04 08:37:38.607 +07:00 [INF] btnTambah_Click
+2024-02-04 08:37:38.777 +07:00 [INF] btnTambah_Click
+2024-02-04 08:37:38.948 +07:00 [INF] btnTambah_Click
+2024-02-04 08:37:39.124 +07:00 [INF] btnTambah_Click
+2024-02-04 08:37:41.236 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-04 08:37:44.767 +07:00 [INF] button2_Click
+2024-02-04 08:37:46.526 +07:00 [INF] btnSimpan_Click
+2024-02-04 08:37:59.199 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.saveBill.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\dump\akhari-gaspol-desktop-app\Komponen\saveBill.cs:line 401
+2024-02-04 08:38:01.566 +07:00 [INF] listBill_Click
+2024-02-04 08:38:07.695 +07:00 [INF] button1_Click
+2024-02-04 08:38:11.935 +07:00 [INF] btnReportShift_Click
+2024-02-04 08:38:26.359 +07:00 [INF] btnExit_Click

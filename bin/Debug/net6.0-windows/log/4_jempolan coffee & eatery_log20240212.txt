@@ -1,0 +1,128 @@
+2024-02-12 03:26:17.082 +07:00 [INF] btnMaximize_Click
+2024-02-12 03:26:42.167 +07:00 [INF] button2_Click
+2024-02-12 03:26:44.165 +07:00 [INF] btnSimpan_Click
+2024-02-12 03:26:51.618 +07:00 [INF] listBill_Click
+2024-02-12 03:26:56.442 +07:00 [INF] button1_Click
+2024-02-12 03:26:58.423 +07:00 [INF] btnSimpan_Click
+2024-02-12 03:27:28.720 +07:00 [INF] btnExit_Click
+2024-02-12 03:31:17.678 +07:00 [INF] btnMaximize_Click
+2024-02-12 03:31:24.398 +07:00 [INF] btnTambah_Click
+2024-02-12 03:31:24.566 +07:00 [INF] btnTambah_Click
+2024-02-12 03:31:24.784 +07:00 [INF] btnTambah_Click
+2024-02-12 03:31:25.803 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-12 03:31:28.677 +07:00 [INF] button1_Click
+2024-02-12 03:31:31.042 +07:00 [INF] btnSimpan_Click
+2024-02-12 03:31:54.780 +07:00 [INF] btnExit_Click
+2024-02-12 03:41:21.081 +07:00 [INF] btnMaximize_Click
+2024-02-12 03:42:05.930 +07:00 [ERR] An error occurred: 'IBM850' is not a supported encoding name. For information on defining a custom encoding, see the documentation for the Encoding.RegisterProvider method. (Parameter 'name')
+System.ArgumentException: 'IBM850' is not a supported encoding name. For information on defining a custom encoding, see the documentation for the Encoding.RegisterProvider method. (Parameter 'name')
+   at System.Text.EncodingTable.InternalGetCodePageFromName(String name)
+   at System.Text.EncodingTable.GetCodePageFromName(String name)
+   at System.Text.Encoding.GetEncoding(String name)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 420
+2024-02-12 03:43:32.723 +07:00 [INF] btnMaximize_Click
+2024-02-12 03:43:41.509 +07:00 [INF] btnExit_Click
+2024-02-12 03:44:32.520 +07:00 [INF] btnMaximize_Click
+2024-02-12 03:44:34.634 +07:00 [INF] button1_Click
+2024-02-12 03:44:40.384 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 409
+2024-02-12 03:44:45.549 +07:00 [ERR] An error occurred: The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10049): The requested address is not valid in its context. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.Komponen.SettingsForm.TestKitchen_Click(Object sender, EventArgs e) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\SettingsForm.cs:line 409
+2024-02-12 03:50:35.693 +07:00 [INF] btnExit_Click
+2024-02-12 20:30:10.240 +07:00 [INF] btnMaximize_Click
+2024-02-12 20:30:16.806 +07:00 [INF] button6_Click
+2024-02-12 20:30:34.355 +07:00 [INF] button6_Click
+2024-02-12 20:30:36.292 +07:00 [INF] button6_Click
+2024-02-12 20:30:52.964 +07:00 [INF] btnTambah_Click
+2024-02-12 20:30:53.133 +07:00 [INF] btnTambah_Click
+2024-02-12 20:30:53.987 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-12 20:31:00.529 +07:00 [INF] button1_Click
+2024-02-12 20:31:02.270 +07:00 [INF] btnSimpan_Click
+2024-02-12 20:31:14.567 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 701
+2024-02-12 20:31:18.050 +07:00 [INF] button1_Click
+2024-02-12 20:31:20.685 +07:00 [INF] btnReportShift_Click
+2024-02-12 20:31:37.723 +07:00 [INF] button2_Click
+2024-02-12 20:35:58.582 +07:00 [INF] btnMinimize_Click
+2024-02-12 22:13:09.208 +07:00 [INF] button1_Click
+2024-02-12 22:13:10.432 +07:00 [INF] button6_Click
+2024-02-12 22:13:13.316 +07:00 [INF] button6_Click
+2024-02-12 22:13:27.813 +07:00 [INF] button6_Click
+2024-02-12 22:13:35.606 +07:00 [INF] btnTambah_Click
+2024-02-12 22:13:35.784 +07:00 [INF] btnTambah_Click
+2024-02-12 22:13:35.945 +07:00 [INF] btnTambah_Click
+2024-02-12 22:13:37.654 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-12 22:13:40.567 +07:00 [INF] button1_Click
+2024-02-12 22:14:05.812 +07:00 [INF] btnSimpan_Click
+2024-02-12 22:14:11.329 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 527
+2024-02-12 22:14:18.965 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 701
+2024-02-12 22:14:22.016 +07:00 [INF] button1_Click
+2024-02-12 22:18:15.486 +07:00 [INF] button6_Click
+2024-02-12 22:18:18.993 +07:00 [INF] btnTambah_Click
+2024-02-12 22:18:19.168 +07:00 [INF] btnTambah_Click
+2024-02-12 22:18:19.392 +07:00 [INF] btnTambah_Click
+2024-02-12 22:18:20.568 +07:00 [INF] btnSimpan_ClickAsync
+2024-02-12 22:19:06.913 +07:00 [INF] btnSimpan_Click
+2024-02-12 22:19:09.120 +07:00 [INF] btnGet_Click
+2024-02-12 22:19:14.149 +07:00 [INF] btnGet_Click
+2024-02-12 22:19:17.859 +07:00 [INF] button1_Click
+2024-02-12 22:19:20.333 +07:00 [INF] btnSimpan_Click
+2024-02-12 22:19:26.103 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. B49D027DEE3E:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintPurchaseReceipt(GetStrukCustomerTransaction datas, List`1 cartDetails) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 527
+2024-02-12 22:19:32.363 +07:00 [ERR] An error occurred: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+System.Net.Internals.SocketExceptionFactory+ExtendedSocketException (10060): A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 86677AAB33F6:00001101-0000-1000-8000-00805f9b34fb (0)
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at InTheHand.Net.Sockets.BluetoothClient.Connect(BluetoothEndPoint remoteEP)
+   at KASIR.komponen.payForm.PrintKitchenAndBarReceipts(GetStrukCustomerTransaction datas, List`1 cartDetails, String header, String macAddress, String pinPrinter, List`1 cancelItems) in C:\Users\Bayu Farid\Documents\Gaspol\akhari-gaspol-desktop-app\Komponen\payForm.cs:line 701
+2024-02-12 22:19:35.131 +07:00 [INF] button1_Click
+2024-02-12 22:38:59.742 +07:00 [INF] btnMinimize_Click
+2024-02-12 22:49:12.938 +07:00 [INF] button6_Click
+2024-02-12 22:49:17.652 +07:00 [INF] button6_Click
+2024-02-12 22:49:18.554 +07:00 [INF] button6_Click
+2024-02-12 22:49:18.766 +07:00 [INF] button6_Click
+2024-02-12 22:49:18.966 +07:00 [INF] button6_Click
+2024-02-12 22:49:19.158 +07:00 [INF] button6_Click
+2024-02-12 22:49:19.337 +07:00 [INF] button6_Click
+2024-02-12 22:49:19.507 +07:00 [INF] button6_Click
+2024-02-12 22:49:19.686 +07:00 [INF] button6_Click
+2024-02-12 22:49:20.318 +07:00 [INF] button6_Click
+2024-02-12 22:49:20.512 +07:00 [INF] button6_Click
+2024-02-12 22:49:20.706 +07:00 [INF] button6_Click
+2024-02-12 22:49:20.898 +07:00 [INF] button6_Click
+2024-02-12 22:49:21.106 +07:00 [INF] button6_Click
+2024-02-12 22:49:23.996 +07:00 [INF] button6_Click
+2024-02-12 22:49:24.873 +07:00 [INF] button1_Click
+2024-02-12 22:49:25.898 +07:00 [INF] button6_Click
+2024-02-12 22:49:26.985 +07:00 [INF] button6_Click
+2024-02-12 22:49:27.360 +07:00 [INF] button6_Click
+2024-02-12 22:49:28.081 +07:00 [INF] button6_Click
+2024-02-12 22:49:28.524 +07:00 [INF] button6_Click
+2024-02-12 22:49:28.735 +07:00 [INF] button6_Click
+2024-02-12 22:49:33.282 +07:00 [INF] btnExit_Click
